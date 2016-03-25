@@ -234,7 +234,7 @@ ACS_DEC_df = " "
 ACS_DEC_df_meta = " "
 
 def VariableDictionary_Maker(VariableCategory,Dataset,GEOid_id_Dict,ACS_DEC_df,CSV_FilePath,CSVNumA,CSVNumB):
-    
+    # this function does ______ 
     VariableCategory = VariableCategory
     Dataset = Dataset    
     
@@ -386,7 +386,10 @@ def VariableDictionary_Maker(VariableCategory,Dataset,GEOid_id_Dict,ACS_DEC_df,C
         ACS_DEC_df = pd.read_csv(CSV_FilePath + "\\" + ACS_TenureGenderChildren[CSVNumB])
         GEOid_List = ACS_DEC_df_meta["GEO.id"].tolist()
         id_List = ACS_DEC_df_meta["Id"].tolist()
-    
+        
+    # Create Dictionary with map, zip, and dict functions
+    GEOid_id_Dict = dict(zip(GEOid_List,id_List))
+
     # Trim off unneeded margin of error variables
     
     for key, val in GEOid_id_Dict.items():
@@ -401,8 +404,7 @@ def VariableDictionary_Maker(VariableCategory,Dataset,GEOid_id_Dict,ACS_DEC_df,C
         if val.startswith('Margin of Error'):
             del GEOid_id_Dict[key]
                 
-    # Create Dictionary with map, zip, and dict functions
-    GEOid_id_Dict = dict(zip(GEOid_List,id_List))
+
         
     return GEOid_id_Dict,ACS_DEC_df,ACS_DEC_df_meta
     
@@ -459,7 +461,7 @@ def VariableSelector(GEOid_id_Dict,UsrSelVarLst,GEOid_id_Dict_UsrSel,GEOid_id_Li
     for key,val in GEOid_id_Dict_UsrSel.items():
         GEOid_id_List_UsrSel.append(key)    
     
-    # Unique id columns not added to lists are lost in ablove functions
+    # Unique id columns not added to lists are lost in above functions
     # that need to be added to GEOid_id_List_UsrSel to make subset csv. 
     CensusTractColumns = ["GEO.id","GEO.id2","GEO.display-label"]
     
@@ -515,11 +517,11 @@ CensusLyr = " "
 
 # Create UniqueID for lyr,csv,dbf,shp    
 
-UniqueId = str(raw_input("Please provide a name for the new shapefile we will make.")   
+UniqueId = str(raw_input("Please provide a name for the new shapefile we will make:" + "\n\n" + ">"))   
 
 # User provides file path to shapefile    
 
-UserShapefile = str(raw_input("Please Provide the file path that includes the shapefile to join your selected variables to:" "\n\n" + ">"))    
+UserShapefile = str(raw_input("Please Provide the file path that includes the shapefile to join your selected variables to:" + "\n\n" + ">"))    
     
 # User provides file path for new shapefile
 
@@ -593,7 +595,7 @@ json.dump(GEOid_id_Dict_UsrSel, open(NewUsrShapefile + "\\" + VariableCategory +
 ### Problem code below ###
 
 #def NewCensusShpMaker(UserVariablesCSV, UserVariablesDf, 
-					   CensusLyr, UserShapefile, Year, Dataset, VariableCategory):
+#				   CensusLyr, UserShapefile, Year, Dataset, VariableCategory):
 
    # return CensusLyr
 

@@ -1,0 +1,105 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC02_VC01,Number - All income levels; All individuals for whom poverty status is determined
+HC03_VC01,Number - Below poverty level; All individuals for whom poverty status is determined
+HC04_VC01,Percent below poverty level; All individuals for whom poverty status is determined
+HC02_VC02,Number - All income levels; All individuals for whom poverty status is determined - Under 18 years
+HC03_VC02,Number - Below poverty level; All individuals for whom poverty status is determined - Under 18 years
+HC04_VC02,Percent below poverty level; All individuals for whom poverty status is determined - Under 18 years
+HC02_VC03,Number - All income levels; All individuals for whom poverty status is determined - Under 18 years - Related children under 18 years
+HC03_VC03,Number - Below poverty level; All individuals for whom poverty status is determined - Under 18 years - Related children under 18 years
+HC04_VC03,Percent below poverty level; All individuals for whom poverty status is determined - Under 18 years - Related children under 18 years
+HC02_VC04,Number - All income levels; All individuals for whom poverty status is determined - Under 18 years - Related children under 18 years - In married-couple families
+HC03_VC04,Number - Below poverty level; All individuals for whom poverty status is determined - Under 18 years - Related children under 18 years - In married-couple families
+HC04_VC04,Percent below poverty level; All individuals for whom poverty status is determined - Under 18 years - Related children under 18 years - In married-couple families
+HC02_VC05,"Number - All income levels; All individuals for whom poverty status is determined - Under 18 years - Related children under 18 years - In families with female householder, no husband present"
+HC03_VC05,"Number - Below poverty level; All individuals for whom poverty status is determined - Under 18 years - Related children under 18 years - In families with female householder, no husband present"
+HC04_VC05,"Percent below poverty level; All individuals for whom poverty status is determined - Under 18 years - Related children under 18 years - In families with female householder, no husband present"
+HC02_VC06,Number - All income levels; All individuals for whom poverty status is determined - Under 18 years - Related children under 6 years
+HC03_VC06,Number - Below poverty level; All individuals for whom poverty status is determined - Under 18 years - Related children under 6 years
+HC04_VC06,Percent below poverty level; All individuals for whom poverty status is determined - Under 18 years - Related children under 6 years
+HC02_VC07,Number - All income levels; All individuals for whom poverty status is determined - Under 18 years - Related children under 6 years - In married-couple families
+HC03_VC07,Number - Below poverty level; All individuals for whom poverty status is determined - Under 18 years - Related children under 6 years - In married-couple families
+HC04_VC07,Percent below poverty level; All individuals for whom poverty status is determined - Under 18 years - Related children under 6 years - In married-couple families
+HC02_VC08,"Number - All income levels; All individuals for whom poverty status is determined - Under 18 years - Related children under 6 years - In families with female householder, no husband present"
+HC03_VC08,"Number - Below poverty level; All individuals for whom poverty status is determined - Under 18 years - Related children under 6 years - In families with female householder, no husband present"
+HC04_VC08,"Percent below poverty level; All individuals for whom poverty status is determined - Under 18 years - Related children under 6 years - In families with female householder, no husband present"
+HC02_VC09,Number - All income levels; All individuals for whom poverty status is determined - Under 18 years - Related children 5 to 17 years
+HC03_VC09,Number - Below poverty level; All individuals for whom poverty status is determined - Under 18 years - Related children 5 to 17 years
+HC04_VC09,Percent below poverty level; All individuals for whom poverty status is determined - Under 18 years - Related children 5 to 17 years
+HC02_VC10,Number - All income levels; All individuals for whom poverty status is determined - Under 18 years - Related children 5 to 17 years - In married-couple families
+HC03_VC10,Number - Below poverty level; All individuals for whom poverty status is determined - Under 18 years - Related children 5 to 17 years - In married-couple families
+HC04_VC10,Percent below poverty level; All individuals for whom poverty status is determined - Under 18 years - Related children 5 to 17 years - In married-couple families
+HC02_VC11,"Number - All income levels; All individuals for whom poverty status is determined - Under 18 years - Related children 5 to 17 years - In families with female householder, no husband present"
+HC03_VC11,"Number - Below poverty level; All individuals for whom poverty status is determined - Under 18 years - Related children 5 to 17 years - In families with female householder, no husband present"
+HC04_VC11,"Percent below poverty level; All individuals for whom poverty status is determined - Under 18 years - Related children 5 to 17 years - In families with female householder, no husband present"
+HC02_VC12,Number - All income levels; All individuals for whom poverty status is determined - 65 years and over
+HC03_VC12,Number - Below poverty level; All individuals for whom poverty status is determined - 65 years and over
+HC04_VC12,Percent below poverty level; All individuals for whom poverty status is determined - 65 years and over
+HC02_VC13,Number - All income levels; All individuals for whom poverty status is determined - Citizen
+HC03_VC13,Number - Below poverty level; All individuals for whom poverty status is determined - Citizen
+HC04_VC13,Percent below poverty level; All individuals for whom poverty status is determined - Citizen
+HC02_VC14,Number - All income levels; All individuals for whom poverty status is determined - Not a citizen
+HC03_VC14,Number - Below poverty level; All individuals for whom poverty status is determined - Not a citizen
+HC04_VC14,Percent below poverty level; All individuals for whom poverty status is determined - Not a citizen
+HC02_VC15,Number - All income levels; Unrelated individuals for whom poverty status is determined
+HC03_VC15,Number - Below poverty level; Unrelated individuals for whom poverty status is determined
+HC04_VC15,Percent below poverty level; Unrelated individuals for whom poverty status is determined
+HC02_VC16,Number - All income levels; Unrelated individuals for whom poverty status is determined - Male
+HC03_VC16,Number - Below poverty level; Unrelated individuals for whom poverty status is determined - Male
+HC04_VC16,Percent below poverty level; Unrelated individuals for whom poverty status is determined - Male
+HC02_VC17,Number - All income levels; Unrelated individuals for whom poverty status is determined - Male - Mean income deficit (dollars)
+HC03_VC17,Number - Below poverty level; Unrelated individuals for whom poverty status is determined - Male - Mean income deficit (dollars)
+HC04_VC17,Percent below poverty level; Unrelated individuals for whom poverty status is determined - Male - Mean income deficit (dollars)
+HC02_VC18,Number - All income levels; Unrelated individuals for whom poverty status is determined - Female
+HC03_VC18,Number - Below poverty level; Unrelated individuals for whom poverty status is determined - Female
+HC04_VC18,Percent below poverty level; Unrelated individuals for whom poverty status is determined - Female
+HC02_VC19,Number - All income levels; Unrelated individuals for whom poverty status is determined - Female - Mean income deficit (dollars)
+HC03_VC19,Number - Below poverty level; Unrelated individuals for whom poverty status is determined - Female - Mean income deficit (dollars)
+HC04_VC19,Percent below poverty level; Unrelated individuals for whom poverty status is determined - Female - Mean income deficit (dollars)
+HC02_VC20,Number - All income levels; Unrelated individuals for whom poverty status is determined - 65 years and over
+HC03_VC20,Number - Below poverty level; Unrelated individuals for whom poverty status is determined - 65 years and over
+HC04_VC20,Percent below poverty level; Unrelated individuals for whom poverty status is determined - 65 years and over
+HC02_VC21,Number - All income levels; Unrelated individuals for whom poverty status is determined - 65 years and over - Living alone
+HC03_VC21,Number - Below poverty level; Unrelated individuals for whom poverty status is determined - 65 years and over - Living alone
+HC04_VC21,Percent below poverty level; Unrelated individuals for whom poverty status is determined - 65 years and over - Living alone
+HC02_VC22,Number - All income levels; Unrelated individuals for whom poverty status is determined - 65 years and over - Living alone - Male
+HC03_VC22,Number - Below poverty level; Unrelated individuals for whom poverty status is determined - 65 years and over - Living alone - Male
+HC04_VC22,Percent below poverty level; Unrelated individuals for whom poverty status is determined - 65 years and over - Living alone - Male
+HC02_VC23,Number - All income levels; Unrelated individuals for whom poverty status is determined - 65 years and over - Living alone - Female
+HC03_VC23,Number - Below poverty level; Unrelated individuals for whom poverty status is determined - 65 years and over - Living alone - Female
+HC04_VC23,Percent below poverty level; Unrelated individuals for whom poverty status is determined - 65 years and over - Living alone - Female
+HC02_VC25,Number - All income levels; All individuals below: - 50 percent of poverty level
+HC03_VC25,Number - Below poverty level; All individuals below: - 50 percent of poverty level
+HC04_VC25,Percent below poverty level; All individuals below: - 50 percent of poverty level
+HC02_VC26,Number - All income levels; All individuals below: - 125 percent of poverty level
+HC03_VC26,Number - Below poverty level; All individuals below: - 125 percent of poverty level
+HC04_VC26,Percent below poverty level; All individuals below: - 125 percent of poverty level
+HC02_VC27,Number - All income levels; All individuals below: - 130 percent of poverty level
+HC03_VC27,Number - Below poverty level; All individuals below: - 130 percent of poverty level
+HC04_VC27,Percent below poverty level; All individuals below: - 130 percent of poverty level
+HC02_VC28,Number - All income levels; All individuals below: - 130 percent of poverty level - Children under 18 years
+HC03_VC28,Number - Below poverty level; All individuals below: - 130 percent of poverty level - Children under 18 years
+HC04_VC28,Percent below poverty level; All individuals below: - 130 percent of poverty level - Children under 18 years
+HC02_VC29,Number - All income levels; All individuals below: - 130 percent of poverty level - Children under 18 years - Children 5 to 17 years
+HC03_VC29,Number - Below poverty level; All individuals below: - 130 percent of poverty level - Children under 18 years - Children 5 to 17 years
+HC04_VC29,Percent below poverty level; All individuals below: - 130 percent of poverty level - Children under 18 years - Children 5 to 17 years
+HC02_VC30,Number - All income levels; All individuals below: - 150 percent of poverty level
+HC03_VC30,Number - Below poverty level; All individuals below: - 150 percent of poverty level
+HC04_VC30,Percent below poverty level; All individuals below: - 150 percent of poverty level
+HC02_VC31,Number - All income levels; All individuals below: - 175 percent of poverty level
+HC03_VC31,Number - Below poverty level; All individuals below: - 175 percent of poverty level
+HC04_VC31,Percent below poverty level; All individuals below: - 175 percent of poverty level
+HC02_VC32,Number - All income levels; All individuals below: - 185 percent of poverty level
+HC03_VC32,Number - Below poverty level; All individuals below: - 185 percent of poverty level
+HC04_VC32,Percent below poverty level; All individuals below: - 185 percent of poverty level
+HC02_VC33,Number - All income levels; All individuals below: - 185 percent of poverty level - Children under 18 years
+HC03_VC33,Number - Below poverty level; All individuals below: - 185 percent of poverty level - Children under 18 years
+HC04_VC33,Percent below poverty level; All individuals below: - 185 percent of poverty level - Children under 18 years
+HC02_VC34,Number - All income levels; All individuals below: - 185 percent of poverty level - Children under 18 years - Children 5 to 17 years
+HC03_VC34,Number - Below poverty level; All individuals below: - 185 percent of poverty level - Children under 18 years - Children 5 to 17 years
+HC04_VC34,Percent below poverty level; All individuals below: - 185 percent of poverty level - Children under 18 years - Children 5 to 17 years
+HC02_VC35,Number - All income levels; All individuals below: - 200 percent of poverty level
+HC03_VC35,Number - Below poverty level; All individuals below: - 200 percent of poverty level
+HC04_VC35,Percent below poverty level; All individuals below: - 200 percent of poverty level

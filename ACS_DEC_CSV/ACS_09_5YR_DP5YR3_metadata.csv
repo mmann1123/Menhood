@@ -1,0 +1,487 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_EST_VC02,Number; Estimate; EMPLOYMENT STATUS - Population 16 years and over
+HC01_MOE_VC02,Number; Margin of Error; EMPLOYMENT STATUS - Population 16 years and over
+HC02_EST_VC02,Percent; Estimate; EMPLOYMENT STATUS - Population 16 years and over
+HC02_MOE_VC02,Percent; Margin of Error; EMPLOYMENT STATUS - Population 16 years and over
+HC01_EST_VC03,Number; Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force
+HC01_MOE_VC03,Number; Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force
+HC02_EST_VC03,Percent; Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force
+HC02_MOE_VC03,Percent; Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force
+HC01_EST_VC04,Number; Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force
+HC01_MOE_VC04,Number; Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force
+HC02_EST_VC04,Percent; Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force
+HC02_MOE_VC04,Percent; Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force
+HC01_EST_VC05,Number; Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Employed
+HC01_MOE_VC05,Number; Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Employed
+HC02_EST_VC05,Percent; Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Employed
+HC02_MOE_VC05,Percent; Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Employed
+HC01_EST_VC06,Number; Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Unemployed
+HC01_MOE_VC06,Number; Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Unemployed
+HC02_EST_VC06,Percent; Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Unemployed
+HC02_MOE_VC06,Percent; Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Unemployed
+HC01_EST_VC07,Number; Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Armed Forces
+HC01_MOE_VC07,Number; Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Armed Forces
+HC02_EST_VC07,Percent; Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Armed Forces
+HC02_MOE_VC07,Percent; Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Armed Forces
+HC01_EST_VC08,Number; Estimate; EMPLOYMENT STATUS - Population 16 years and over - Not in labor force
+HC01_MOE_VC08,Number; Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - Not in labor force
+HC02_EST_VC08,Percent; Estimate; EMPLOYMENT STATUS - Population 16 years and over - Not in labor force
+HC02_MOE_VC08,Percent; Margin of Error; EMPLOYMENT STATUS - Population 16 years and over - Not in labor force
+HC01_EST_VC09,Number; Estimate; EMPLOYMENT STATUS - Civilian labor force
+HC01_MOE_VC09,Number; Margin of Error; EMPLOYMENT STATUS - Civilian labor force
+HC02_EST_VC09,Percent; Estimate; EMPLOYMENT STATUS - Civilian labor force
+HC02_MOE_VC09,Percent; Margin of Error; EMPLOYMENT STATUS - Civilian labor force
+HC01_EST_VC10,Number; Estimate; EMPLOYMENT STATUS - Civilian labor force - Percent Unemployed
+HC01_MOE_VC10,Number; Margin of Error; EMPLOYMENT STATUS - Civilian labor force - Percent Unemployed
+HC02_EST_VC10,Percent; Estimate; EMPLOYMENT STATUS - Civilian labor force - Percent Unemployed
+HC02_MOE_VC10,Percent; Margin of Error; EMPLOYMENT STATUS - Civilian labor force - Percent Unemployed
+HC01_EST_VC11,Number; Estimate; EMPLOYMENT STATUS - Females 16 years and over
+HC01_MOE_VC11,Number; Margin of Error; EMPLOYMENT STATUS - Females 16 years and over
+HC02_EST_VC11,Percent; Estimate; EMPLOYMENT STATUS - Females 16 years and over
+HC02_MOE_VC11,Percent; Margin of Error; EMPLOYMENT STATUS - Females 16 years and over
+HC01_EST_VC12,Number; Estimate; EMPLOYMENT STATUS - Females 16 years and over - In labor force
+HC01_MOE_VC12,Number; Margin of Error; EMPLOYMENT STATUS - Females 16 years and over - In labor force
+HC02_EST_VC12,Percent; Estimate; EMPLOYMENT STATUS - Females 16 years and over - In labor force
+HC02_MOE_VC12,Percent; Margin of Error; EMPLOYMENT STATUS - Females 16 years and over - In labor force
+HC01_EST_VC13,Number; Estimate; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force
+HC01_MOE_VC13,Number; Margin of Error; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force
+HC02_EST_VC13,Percent; Estimate; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force
+HC02_MOE_VC13,Percent; Margin of Error; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force
+HC01_EST_VC14,Number; Estimate; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force - Employed
+HC01_MOE_VC14,Number; Margin of Error; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force - Employed
+HC02_EST_VC14,Percent; Estimate; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force - Employed
+HC02_MOE_VC14,Percent; Margin of Error; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force - Employed
+HC01_EST_VC15,Number; Estimate; EMPLOYMENT STATUS - Own children under 6 years
+HC01_MOE_VC15,Number; Margin of Error; EMPLOYMENT STATUS - Own children under 6 years
+HC02_EST_VC15,Percent; Estimate; EMPLOYMENT STATUS - Own children under 6 years
+HC02_MOE_VC15,Percent; Margin of Error; EMPLOYMENT STATUS - Own children under 6 years
+HC01_EST_VC16,Number; Estimate; EMPLOYMENT STATUS - Own children under 6 years - All parents in family in labor force
+HC01_MOE_VC16,Number; Margin of Error; EMPLOYMENT STATUS - Own children under 6 years - All parents in family in labor force
+HC02_EST_VC16,Percent; Estimate; EMPLOYMENT STATUS - Own children under 6 years - All parents in family in labor force
+HC02_MOE_VC16,Percent; Margin of Error; EMPLOYMENT STATUS - Own children under 6 years - All parents in family in labor force
+HC01_EST_VC17,Number; Estimate; EMPLOYMENT STATUS - Own children 6 to 17 years
+HC01_MOE_VC17,Number; Margin of Error; EMPLOYMENT STATUS - Own children 6 to 17 years
+HC02_EST_VC17,Percent; Estimate; EMPLOYMENT STATUS - Own children 6 to 17 years
+HC02_MOE_VC17,Percent; Margin of Error; EMPLOYMENT STATUS - Own children 6 to 17 years
+HC01_EST_VC18,Number; Estimate; EMPLOYMENT STATUS - Own children 6 to 17 years - All parents in family in labor force
+HC01_MOE_VC18,Number; Margin of Error; EMPLOYMENT STATUS - Own children 6 to 17 years - All parents in family in labor force
+HC02_EST_VC18,Percent; Estimate; EMPLOYMENT STATUS - Own children 6 to 17 years - All parents in family in labor force
+HC02_MOE_VC18,Percent; Margin of Error; EMPLOYMENT STATUS - Own children 6 to 17 years - All parents in family in labor force
+HC01_EST_VC20,Number; Estimate; COMMUTING TO WORK - Workers 16 years and over
+HC01_MOE_VC20,Number; Margin of Error; COMMUTING TO WORK - Workers 16 years and over
+HC02_EST_VC20,Percent; Estimate; COMMUTING TO WORK - Workers 16 years and over
+HC02_MOE_VC20,Percent; Margin of Error; COMMUTING TO WORK - Workers 16 years and over
+HC01_EST_VC21,"Number; Estimate; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- drove alone"
+HC01_MOE_VC21,"Number; Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- drove alone"
+HC02_EST_VC21,"Percent; Estimate; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- drove alone"
+HC02_MOE_VC21,"Percent; Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- drove alone"
+HC01_EST_VC22,"Number; Estimate; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- carpooled"
+HC01_MOE_VC22,"Number; Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- carpooled"
+HC02_EST_VC22,"Percent; Estimate; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- carpooled"
+HC02_MOE_VC22,"Percent; Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- carpooled"
+HC01_EST_VC23,Number; Estimate; COMMUTING TO WORK - Workers 16 years and over - Public transportation (excluding taxicab)
+HC01_MOE_VC23,Number; Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Public transportation (excluding taxicab)
+HC02_EST_VC23,Percent; Estimate; COMMUTING TO WORK - Workers 16 years and over - Public transportation (excluding taxicab)
+HC02_MOE_VC23,Percent; Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Public transportation (excluding taxicab)
+HC01_EST_VC24,Number; Estimate; COMMUTING TO WORK - Workers 16 years and over - Walked
+HC01_MOE_VC24,Number; Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Walked
+HC02_EST_VC24,Percent; Estimate; COMMUTING TO WORK - Workers 16 years and over - Walked
+HC02_MOE_VC24,Percent; Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Walked
+HC01_EST_VC25,Number; Estimate; COMMUTING TO WORK - Workers 16 years and over - Other means
+HC01_MOE_VC25,Number; Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Other means
+HC02_EST_VC25,Percent; Estimate; COMMUTING TO WORK - Workers 16 years and over - Other means
+HC02_MOE_VC25,Percent; Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Other means
+HC01_EST_VC26,Number; Estimate; COMMUTING TO WORK - Workers 16 years and over - Worked at home
+HC01_MOE_VC26,Number; Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Worked at home
+HC02_EST_VC26,Percent; Estimate; COMMUTING TO WORK - Workers 16 years and over - Worked at home
+HC02_MOE_VC26,Percent; Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Worked at home
+HC01_EST_VC27,Number; Estimate; COMMUTING TO WORK - Workers 16 years and over - Mean travel time to work (minutes)
+HC01_MOE_VC27,Number; Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Mean travel time to work (minutes)
+HC02_EST_VC27,Percent; Estimate; COMMUTING TO WORK - Workers 16 years and over - Mean travel time to work (minutes)
+HC02_MOE_VC27,Percent; Margin of Error; COMMUTING TO WORK - Workers 16 years and over - Mean travel time to work (minutes)
+HC01_EST_VC29,Number; Estimate; OCCUPATION - Civilian employed population 16 years and over
+HC01_MOE_VC29,Number; Margin of Error; OCCUPATION - Civilian employed population 16 years and over
+HC02_EST_VC29,Percent; Estimate; OCCUPATION - Civilian employed population 16 years and over
+HC02_MOE_VC29,Percent; Margin of Error; OCCUPATION - Civilian employed population 16 years and over
+HC01_EST_VC30,"Number; Estimate; OCCUPATION - Civilian employed population 16 years and over - Management, professional, and related occupations"
+HC01_MOE_VC30,"Number; Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Management, professional, and related occupations"
+HC02_EST_VC30,"Percent; Estimate; OCCUPATION - Civilian employed population 16 years and over - Management, professional, and related occupations"
+HC02_MOE_VC30,"Percent; Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Management, professional, and related occupations"
+HC01_EST_VC31,Number; Estimate; OCCUPATION - Civilian employed population 16 years and over - Service occupations
+HC01_MOE_VC31,Number; Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Service occupations
+HC02_EST_VC31,Percent; Estimate; OCCUPATION - Civilian employed population 16 years and over - Service occupations
+HC02_MOE_VC31,Percent; Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Service occupations
+HC01_EST_VC32,Number; Estimate; OCCUPATION - Civilian employed population 16 years and over - Sales and office occupations
+HC01_MOE_VC32,Number; Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Sales and office occupations
+HC02_EST_VC32,Percent; Estimate; OCCUPATION - Civilian employed population 16 years and over - Sales and office occupations
+HC02_MOE_VC32,Percent; Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Sales and office occupations
+HC01_EST_VC33,"Number; Estimate; OCCUPATION - Civilian employed population 16 years and over - Farming, fishing, and forestry occupations"
+HC01_MOE_VC33,"Number; Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Farming, fishing, and forestry occupations"
+HC02_EST_VC33,"Percent; Estimate; OCCUPATION - Civilian employed population 16 years and over - Farming, fishing, and forestry occupations"
+HC02_MOE_VC33,"Percent; Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Farming, fishing, and forestry occupations"
+HC01_EST_VC34,"Number; Estimate; OCCUPATION - Civilian employed population 16 years and over - Construction, extraction, maintenance, and repair occupations"
+HC01_MOE_VC34,"Number; Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Construction, extraction, maintenance, and repair occupations"
+HC02_EST_VC34,"Percent; Estimate; OCCUPATION - Civilian employed population 16 years and over - Construction, extraction, maintenance, and repair occupations"
+HC02_MOE_VC34,"Percent; Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Construction, extraction, maintenance, and repair occupations"
+HC01_EST_VC35,"Number; Estimate; OCCUPATION - Civilian employed population 16 years and over - Production, transportation, and material moving occupations"
+HC01_MOE_VC35,"Number; Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Production, transportation, and material moving occupations"
+HC02_EST_VC35,"Percent; Estimate; OCCUPATION - Civilian employed population 16 years and over - Production, transportation, and material moving occupations"
+HC02_MOE_VC35,"Percent; Margin of Error; OCCUPATION - Civilian employed population 16 years and over - Production, transportation, and material moving occupations"
+HC01_EST_VC37,Number; Estimate; INDUSTRY - Civilian employed population 16 years and over
+HC01_MOE_VC37,Number; Margin of Error; INDUSTRY - Civilian employed population 16 years and over
+HC02_EST_VC37,Percent; Estimate; INDUSTRY - Civilian employed population 16 years and over
+HC02_MOE_VC37,Percent; Margin of Error; INDUSTRY - Civilian employed population 16 years and over
+HC01_EST_VC38,"Number; Estimate; INDUSTRY - Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining"
+HC01_MOE_VC38,"Number; Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining"
+HC02_EST_VC38,"Percent; Estimate; INDUSTRY - Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining"
+HC02_MOE_VC38,"Percent; Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining"
+HC01_EST_VC39,Number; Estimate; INDUSTRY - Civilian employed population 16 years and over - Construction
+HC01_MOE_VC39,Number; Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Construction
+HC02_EST_VC39,Percent; Estimate; INDUSTRY - Civilian employed population 16 years and over - Construction
+HC02_MOE_VC39,Percent; Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Construction
+HC01_EST_VC40,Number; Estimate; INDUSTRY - Civilian employed population 16 years and over - Manufacturing
+HC01_MOE_VC40,Number; Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Manufacturing
+HC02_EST_VC40,Percent; Estimate; INDUSTRY - Civilian employed population 16 years and over - Manufacturing
+HC02_MOE_VC40,Percent; Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Manufacturing
+HC01_EST_VC41,Number; Estimate; INDUSTRY - Civilian employed population 16 years and over - Wholesale trade
+HC01_MOE_VC41,Number; Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Wholesale trade
+HC02_EST_VC41,Percent; Estimate; INDUSTRY - Civilian employed population 16 years and over - Wholesale trade
+HC02_MOE_VC41,Percent; Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Wholesale trade
+HC01_EST_VC42,Number; Estimate; INDUSTRY - Civilian employed population 16 years and over - Retail trade
+HC01_MOE_VC42,Number; Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Retail trade
+HC02_EST_VC42,Percent; Estimate; INDUSTRY - Civilian employed population 16 years and over - Retail trade
+HC02_MOE_VC42,Percent; Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Retail trade
+HC01_EST_VC43,"Number; Estimate; INDUSTRY - Civilian employed population 16 years and over - Transportation and warehousing, and utilities"
+HC01_MOE_VC43,"Number; Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Transportation and warehousing, and utilities"
+HC02_EST_VC43,"Percent; Estimate; INDUSTRY - Civilian employed population 16 years and over - Transportation and warehousing, and utilities"
+HC02_MOE_VC43,"Percent; Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Transportation and warehousing, and utilities"
+HC01_EST_VC44,Number; Estimate; INDUSTRY - Civilian employed population 16 years and over - Information
+HC01_MOE_VC44,Number; Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Information
+HC02_EST_VC44,Percent; Estimate; INDUSTRY - Civilian employed population 16 years and over - Information
+HC02_MOE_VC44,Percent; Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Information
+HC01_EST_VC45,"Number; Estimate; INDUSTRY - Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing"
+HC01_MOE_VC45,"Number; Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing"
+HC02_EST_VC45,"Percent; Estimate; INDUSTRY - Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing"
+HC02_MOE_VC45,"Percent; Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing"
+HC01_EST_VC46,"Number; Estimate; INDUSTRY - Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services"
+HC01_MOE_VC46,"Number; Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services"
+HC02_EST_VC46,"Percent; Estimate; INDUSTRY - Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services"
+HC02_MOE_VC46,"Percent; Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services"
+HC01_EST_VC47,"Number; Estimate; INDUSTRY - Civilian employed population 16 years and over - Educational services, and health care and social assistance"
+HC01_MOE_VC47,"Number; Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Educational services, and health care and social assistance"
+HC02_EST_VC47,"Percent; Estimate; INDUSTRY - Civilian employed population 16 years and over - Educational services, and health care and social assistance"
+HC02_MOE_VC47,"Percent; Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Educational services, and health care and social assistance"
+HC01_EST_VC48,"Number; Estimate; INDUSTRY - Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services"
+HC01_MOE_VC48,"Number; Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services"
+HC02_EST_VC48,"Percent; Estimate; INDUSTRY - Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services"
+HC02_MOE_VC48,"Percent; Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services"
+HC01_EST_VC49,"Number; Estimate; INDUSTRY - Civilian employed population 16 years and over - Other services, except public administration"
+HC01_MOE_VC49,"Number; Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Other services, except public administration"
+HC02_EST_VC49,"Percent; Estimate; INDUSTRY - Civilian employed population 16 years and over - Other services, except public administration"
+HC02_MOE_VC49,"Percent; Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Other services, except public administration"
+HC01_EST_VC50,Number; Estimate; INDUSTRY - Civilian employed population 16 years and over - Public administration
+HC01_MOE_VC50,Number; Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Public administration
+HC02_EST_VC50,Percent; Estimate; INDUSTRY - Civilian employed population 16 years and over - Public administration
+HC02_MOE_VC50,Percent; Margin of Error; INDUSTRY - Civilian employed population 16 years and over - Public administration
+HC01_EST_VC52,Number; Estimate; CLASS OF WORKER - Civilian employed population 16 years and over
+HC01_MOE_VC52,Number; Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over
+HC02_EST_VC52,Percent; Estimate; CLASS OF WORKER - Civilian employed population 16 years and over
+HC02_MOE_VC52,Percent; Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over
+HC01_EST_VC53,Number; Estimate; CLASS OF WORKER - Civilian employed population 16 years and over - Private wage and salary workers
+HC01_MOE_VC53,Number; Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over - Private wage and salary workers
+HC02_EST_VC53,Percent; Estimate; CLASS OF WORKER - Civilian employed population 16 years and over - Private wage and salary workers
+HC02_MOE_VC53,Percent; Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over - Private wage and salary workers
+HC01_EST_VC54,Number; Estimate; CLASS OF WORKER - Civilian employed population 16 years and over - Government workers
+HC01_MOE_VC54,Number; Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over - Government workers
+HC02_EST_VC54,Percent; Estimate; CLASS OF WORKER - Civilian employed population 16 years and over - Government workers
+HC02_MOE_VC54,Percent; Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over - Government workers
+HC01_EST_VC55,Number; Estimate; CLASS OF WORKER - Civilian employed population 16 years and over - Self-employed in own not incorporated business workers
+HC01_MOE_VC55,Number; Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over - Self-employed in own not incorporated business workers
+HC02_EST_VC55,Percent; Estimate; CLASS OF WORKER - Civilian employed population 16 years and over - Self-employed in own not incorporated business workers
+HC02_MOE_VC55,Percent; Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over - Self-employed in own not incorporated business workers
+HC01_EST_VC56,Number; Estimate; CLASS OF WORKER - Civilian employed population 16 years and over - Unpaid family workers
+HC01_MOE_VC56,Number; Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over - Unpaid family workers
+HC02_EST_VC56,Percent; Estimate; CLASS OF WORKER - Civilian employed population 16 years and over - Unpaid family workers
+HC02_MOE_VC56,Percent; Margin of Error; CLASS OF WORKER - Civilian employed population 16 years and over - Unpaid family workers
+HC01_EST_VC58,Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households
+HC01_MOE_VC58,Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households
+HC02_EST_VC58,Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households
+HC02_MOE_VC58,Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households
+HC01_EST_VC59,"Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - Less than $10,000"
+HC01_MOE_VC59,"Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - Less than $10,000"
+HC02_EST_VC59,"Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - Less than $10,000"
+HC02_MOE_VC59,"Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - Less than $10,000"
+HC01_EST_VC60,"Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $10,000 to $14,999"
+HC01_MOE_VC60,"Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $10,000 to $14,999"
+HC02_EST_VC60,"Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $10,000 to $14,999"
+HC02_MOE_VC60,"Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $10,000 to $14,999"
+HC01_EST_VC61,"Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $15,000 to $24,999"
+HC01_MOE_VC61,"Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $15,000 to $24,999"
+HC02_EST_VC61,"Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $15,000 to $24,999"
+HC02_MOE_VC61,"Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $15,000 to $24,999"
+HC01_EST_VC62,"Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $25,000 to $34,999"
+HC01_MOE_VC62,"Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $25,000 to $34,999"
+HC02_EST_VC62,"Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $25,000 to $34,999"
+HC02_MOE_VC62,"Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $25,000 to $34,999"
+HC01_EST_VC63,"Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $35,000 to $49,999"
+HC01_MOE_VC63,"Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $35,000 to $49,999"
+HC02_EST_VC63,"Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $35,000 to $49,999"
+HC02_MOE_VC63,"Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $35,000 to $49,999"
+HC01_EST_VC64,"Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $50,000 to $74,999"
+HC01_MOE_VC64,"Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $50,000 to $74,999"
+HC02_EST_VC64,"Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $50,000 to $74,999"
+HC02_MOE_VC64,"Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $50,000 to $74,999"
+HC01_EST_VC65,"Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $75,000 to $99,999"
+HC01_MOE_VC65,"Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $75,000 to $99,999"
+HC02_EST_VC65,"Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $75,000 to $99,999"
+HC02_MOE_VC65,"Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $75,000 to $99,999"
+HC01_EST_VC66,"Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $100,000 to $149,999"
+HC01_MOE_VC66,"Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $100,000 to $149,999"
+HC02_EST_VC66,"Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $100,000 to $149,999"
+HC02_MOE_VC66,"Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $100,000 to $149,999"
+HC01_EST_VC67,"Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $150,000 to $199,999"
+HC01_MOE_VC67,"Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $150,000 to $199,999"
+HC02_EST_VC67,"Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $150,000 to $199,999"
+HC02_MOE_VC67,"Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $150,000 to $199,999"
+HC01_EST_VC68,"Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $200,000 or more"
+HC01_MOE_VC68,"Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $200,000 or more"
+HC02_EST_VC68,"Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $200,000 or more"
+HC02_MOE_VC68,"Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - $200,000 or more"
+HC01_EST_VC69,Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - Median household income (dollars)
+HC01_MOE_VC69,Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - Median household income (dollars)
+HC02_EST_VC69,Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - Median household income (dollars)
+HC02_MOE_VC69,Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - Median household income (dollars)
+HC01_EST_VC70,Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - Mean household income (dollars)
+HC01_MOE_VC70,Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - Mean household income (dollars)
+HC02_EST_VC70,Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - Mean household income (dollars)
+HC02_MOE_VC70,Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - Mean household income (dollars)
+HC01_EST_VC71,Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With earnings
+HC01_MOE_VC71,Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With earnings
+HC02_EST_VC71,Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With earnings
+HC02_MOE_VC71,Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With earnings
+HC01_EST_VC72,Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With earnings - Mean earnings (dollars)
+HC01_MOE_VC72,Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With earnings - Mean earnings (dollars)
+HC02_EST_VC72,Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With earnings - Mean earnings (dollars)
+HC02_MOE_VC72,Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With earnings - Mean earnings (dollars)
+HC01_EST_VC73,Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With Social Security
+HC01_MOE_VC73,Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With Social Security
+HC02_EST_VC73,Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With Social Security
+HC02_MOE_VC73,Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With Social Security
+HC01_EST_VC74,Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With Social Security - Mean Social Security income (dollars)
+HC01_MOE_VC74,Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With Social Security - Mean Social Security income (dollars)
+HC02_EST_VC74,Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With Social Security - Mean Social Security income (dollars)
+HC02_MOE_VC74,Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With Social Security - Mean Social Security income (dollars)
+HC01_EST_VC75,Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With retirement income
+HC01_MOE_VC75,Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With retirement income
+HC02_EST_VC75,Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With retirement income
+HC02_MOE_VC75,Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With retirement income
+HC01_EST_VC76,Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With retirement income - Mean retirement income (dollars)
+HC01_MOE_VC76,Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With retirement income - Mean retirement income (dollars)
+HC02_EST_VC76,Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With retirement income - Mean retirement income (dollars)
+HC02_MOE_VC76,Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With retirement income - Mean retirement income (dollars)
+HC01_EST_VC77,Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With Supplemental Security Income
+HC01_MOE_VC77,Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With Supplemental Security Income
+HC02_EST_VC77,Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With Supplemental Security Income
+HC02_MOE_VC77,Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With Supplemental Security Income
+HC01_EST_VC78,Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With Supplemental Security Income - Mean Supplemental Security Income (dollars)
+HC01_MOE_VC78,Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With Supplemental Security Income - Mean Supplemental Security Income (dollars)
+HC02_EST_VC78,Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With Supplemental Security Income - Mean Supplemental Security Income (dollars)
+HC02_MOE_VC78,Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With Supplemental Security Income - Mean Supplemental Security Income (dollars)
+HC01_EST_VC79,Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With cash public assistance income
+HC01_MOE_VC79,Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With cash public assistance income
+HC02_EST_VC79,Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With cash public assistance income
+HC02_MOE_VC79,Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With cash public assistance income
+HC01_EST_VC80,Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With cash public assistance income - Mean cash public assistance income (dollars)
+HC01_MOE_VC80,Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With cash public assistance income - Mean cash public assistance income (dollars)
+HC02_EST_VC80,Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With cash public assistance income - Mean cash public assistance income (dollars)
+HC02_MOE_VC80,Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With cash public assistance income - Mean cash public assistance income (dollars)
+HC01_EST_VC81,Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With Food Stamp/SNAP benefits in the past 12 months
+HC01_MOE_VC81,Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With Food Stamp/SNAP benefits in the past 12 months
+HC02_EST_VC81,Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With Food Stamp/SNAP benefits in the past 12 months
+HC02_MOE_VC81,Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Total households - With Food Stamp/SNAP benefits in the past 12 months
+HC01_EST_VC82,Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families
+HC01_MOE_VC82,Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families
+HC02_EST_VC82,Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families
+HC02_MOE_VC82,Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families
+HC01_EST_VC83,"Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - Less than $10,000"
+HC01_MOE_VC83,"Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - Less than $10,000"
+HC02_EST_VC83,"Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - Less than $10,000"
+HC02_MOE_VC83,"Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - Less than $10,000"
+HC01_EST_VC84,"Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $10,000 to $14,999"
+HC01_MOE_VC84,"Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $10,000 to $14,999"
+HC02_EST_VC84,"Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $10,000 to $14,999"
+HC02_MOE_VC84,"Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $10,000 to $14,999"
+HC01_EST_VC85,"Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $15,000 to $24,999"
+HC01_MOE_VC85,"Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $15,000 to $24,999"
+HC02_EST_VC85,"Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $15,000 to $24,999"
+HC02_MOE_VC85,"Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $15,000 to $24,999"
+HC01_EST_VC86,"Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $25,000 to $34,999"
+HC01_MOE_VC86,"Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $25,000 to $34,999"
+HC02_EST_VC86,"Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $25,000 to $34,999"
+HC02_MOE_VC86,"Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $25,000 to $34,999"
+HC01_EST_VC87,"Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $35,000 to $49,999"
+HC01_MOE_VC87,"Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $35,000 to $49,999"
+HC02_EST_VC87,"Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $35,000 to $49,999"
+HC02_MOE_VC87,"Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $35,000 to $49,999"
+HC01_EST_VC88,"Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $50,000 to $74,999"
+HC01_MOE_VC88,"Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $50,000 to $74,999"
+HC02_EST_VC88,"Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $50,000 to $74,999"
+HC02_MOE_VC88,"Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $50,000 to $74,999"
+HC01_EST_VC89,"Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $75,000 to $99,999"
+HC01_MOE_VC89,"Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $75,000 to $99,999"
+HC02_EST_VC89,"Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $75,000 to $99,999"
+HC02_MOE_VC89,"Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $75,000 to $99,999"
+HC01_EST_VC90,"Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $100,000 to $149,999"
+HC01_MOE_VC90,"Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $100,000 to $149,999"
+HC02_EST_VC90,"Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $100,000 to $149,999"
+HC02_MOE_VC90,"Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $100,000 to $149,999"
+HC01_EST_VC91,"Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $150,000 to $199,999"
+HC01_MOE_VC91,"Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $150,000 to $199,999"
+HC02_EST_VC91,"Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $150,000 to $199,999"
+HC02_MOE_VC91,"Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $150,000 to $199,999"
+HC01_EST_VC92,"Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $200,000 or more"
+HC01_MOE_VC92,"Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $200,000 or more"
+HC02_EST_VC92,"Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $200,000 or more"
+HC02_MOE_VC92,"Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - $200,000 or more"
+HC01_EST_VC93,Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - Median family income (dollars)
+HC01_MOE_VC93,Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - Median family income (dollars)
+HC02_EST_VC93,Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - Median family income (dollars)
+HC02_MOE_VC93,Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - Median family income (dollars)
+HC01_EST_VC94,Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - Mean family income (dollars)
+HC01_MOE_VC94,Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - Mean family income (dollars)
+HC02_EST_VC94,Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - Mean family income (dollars)
+HC02_MOE_VC94,Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - Mean family income (dollars)
+HC01_EST_VC95,Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - Per capita income (dollars)
+HC01_MOE_VC95,Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - Per capita income (dollars)
+HC02_EST_VC95,Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - Per capita income (dollars)
+HC02_MOE_VC95,Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Families - Per capita income (dollars)
+HC01_EST_VC96,Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Nonfamily households
+HC01_MOE_VC96,Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Nonfamily households
+HC02_EST_VC96,Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Nonfamily households
+HC02_MOE_VC96,Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Nonfamily households
+HC01_EST_VC97,Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Median nonfamily income (dollars)
+HC01_MOE_VC97,Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Median nonfamily income (dollars)
+HC02_EST_VC97,Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Median nonfamily income (dollars)
+HC02_MOE_VC97,Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Median nonfamily income (dollars)
+HC01_EST_VC98,Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Mean nonfamily income (dollars)
+HC01_MOE_VC98,Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Mean nonfamily income (dollars)
+HC02_EST_VC98,Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Mean nonfamily income (dollars)
+HC02_MOE_VC98,Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Mean nonfamily income (dollars)
+HC01_EST_VC99,Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Median earnings for workers (dollars)
+HC01_MOE_VC99,Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Median earnings for workers (dollars)
+HC02_EST_VC99,Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Median earnings for workers (dollars)
+HC02_MOE_VC99,Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Median earnings for workers (dollars)
+HC01_EST_VC100,"Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Median earnings for male full-time, year-round workers (dollars)"
+HC01_MOE_VC100,"Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Median earnings for male full-time, year-round workers (dollars)"
+HC02_EST_VC100,"Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Median earnings for male full-time, year-round workers (dollars)"
+HC02_MOE_VC100,"Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Median earnings for male full-time, year-round workers (dollars)"
+HC01_EST_VC101,"Number; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Median earnings for female full-time, year-round workers (dollars)"
+HC01_MOE_VC101,"Number; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Median earnings for female full-time, year-round workers (dollars)"
+HC02_EST_VC101,"Percent; Estimate; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Median earnings for female full-time, year-round workers (dollars)"
+HC02_MOE_VC101,"Percent; Margin of Error; INCOME AND BENEFITS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Median earnings for female full-time, year-round workers (dollars)"
+HC01_EST_VC103,Number; Estimate; HEALTH INSURANCE COVERAGE - Civilian Noninstitutionalized Population
+HC01_MOE_VC103,Number; Margin of Error; HEALTH INSURANCE COVERAGE - Civilian Noninstitutionalized Population
+HC02_EST_VC103,Percent; Estimate; HEALTH INSURANCE COVERAGE - Civilian Noninstitutionalized Population
+HC02_MOE_VC103,Percent; Margin of Error; HEALTH INSURANCE COVERAGE - Civilian Noninstitutionalized Population
+HC01_EST_VC104,Number; Estimate; HEALTH INSURANCE COVERAGE - Civilian Noninstitutionalized Population - With health insurance coverage
+HC01_MOE_VC104,Number; Margin of Error; HEALTH INSURANCE COVERAGE - Civilian Noninstitutionalized Population - With health insurance coverage
+HC02_EST_VC104,Percent; Estimate; HEALTH INSURANCE COVERAGE - Civilian Noninstitutionalized Population - With health insurance coverage
+HC02_MOE_VC104,Percent; Margin of Error; HEALTH INSURANCE COVERAGE - Civilian Noninstitutionalized Population - With health insurance coverage
+HC01_EST_VC105,Number; Estimate; HEALTH INSURANCE COVERAGE - Civilian Noninstitutionalized Population - With health insurance coverage - With private health insurance coverage
+HC01_MOE_VC105,Number; Margin of Error; HEALTH INSURANCE COVERAGE - Civilian Noninstitutionalized Population - With health insurance coverage - With private health insurance coverage
+HC02_EST_VC105,Percent; Estimate; HEALTH INSURANCE COVERAGE - Civilian Noninstitutionalized Population - With health insurance coverage - With private health insurance coverage
+HC02_MOE_VC105,Percent; Margin of Error; HEALTH INSURANCE COVERAGE - Civilian Noninstitutionalized Population - With health insurance coverage - With private health insurance coverage
+HC01_EST_VC106,Number; Estimate; HEALTH INSURANCE COVERAGE - Civilian Noninstitutionalized Population - With health insurance coverage - With public health coverage
+HC01_MOE_VC106,Number; Margin of Error; HEALTH INSURANCE COVERAGE - Civilian Noninstitutionalized Population - With health insurance coverage - With public health coverage
+HC02_EST_VC106,Percent; Estimate; HEALTH INSURANCE COVERAGE - Civilian Noninstitutionalized Population - With health insurance coverage - With public health coverage
+HC02_MOE_VC106,Percent; Margin of Error; HEALTH INSURANCE COVERAGE - Civilian Noninstitutionalized Population - With health insurance coverage - With public health coverage
+HC01_EST_VC107,Number; Estimate; HEALTH INSURANCE COVERAGE - Civilian Noninstitutionalized Population - No health insurance coverage
+HC01_MOE_VC107,Number; Margin of Error; HEALTH INSURANCE COVERAGE - Civilian Noninstitutionalized Population - No health insurance coverage
+HC02_EST_VC107,Percent; Estimate; HEALTH INSURANCE COVERAGE - Civilian Noninstitutionalized Population - No health insurance coverage
+HC02_MOE_VC107,Percent; Margin of Error; HEALTH INSURANCE COVERAGE - Civilian Noninstitutionalized Population - No health insurance coverage
+HC01_EST_VC108,Number; Estimate; HEALTH INSURANCE COVERAGE - Civilian Noninstitutionalized Population Under 18 years
+HC01_MOE_VC108,Number; Margin of Error; HEALTH INSURANCE COVERAGE - Civilian Noninstitutionalized Population Under 18 years
+HC02_EST_VC108,Percent; Estimate; HEALTH INSURANCE COVERAGE - Civilian Noninstitutionalized Population Under 18 years
+HC02_MOE_VC108,Percent; Margin of Error; HEALTH INSURANCE COVERAGE - Civilian Noninstitutionalized Population Under 18 years
+HC01_EST_VC109,Number; Estimate; HEALTH INSURANCE COVERAGE - Civilian Noninstitutionalized Population Under 18 years - No health insurance coverage
+HC01_MOE_VC109,Number; Margin of Error; HEALTH INSURANCE COVERAGE - Civilian Noninstitutionalized Population Under 18 years - No health insurance coverage
+HC02_EST_VC109,Percent; Estimate; HEALTH INSURANCE COVERAGE - Civilian Noninstitutionalized Population Under 18 years - No health insurance coverage
+HC02_MOE_VC109,Percent; Margin of Error; HEALTH INSURANCE COVERAGE - Civilian Noninstitutionalized Population Under 18 years - No health insurance coverage
+HC01_EST_VC111,Number; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families
+HC01_MOE_VC111,Number; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families
+HC02_EST_VC111,Percent; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families
+HC02_MOE_VC111,Percent; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families
+HC01_EST_VC112,Number; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families - With related children under 18 years
+HC01_MOE_VC112,Number; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families - With related children under 18 years
+HC02_EST_VC112,Percent; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families - With related children under 18 years
+HC02_MOE_VC112,Percent; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families - With related children under 18 years
+HC01_EST_VC113,Number; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families - With related children under 18 years - With related children under 5 years only
+HC01_MOE_VC113,Number; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families - With related children under 18 years - With related children under 5 years only
+HC02_EST_VC113,Percent; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families - With related children under 18 years - With related children under 5 years only
+HC02_MOE_VC113,Percent; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families - With related children under 18 years - With related children under 5 years only
+HC01_EST_VC114,Number; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families
+HC01_MOE_VC114,Number; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families
+HC02_EST_VC114,Percent; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families
+HC02_MOE_VC114,Percent; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families
+HC01_EST_VC115,Number; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families - With related children under 18 years
+HC01_MOE_VC115,Number; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families - With related children under 18 years
+HC02_EST_VC115,Percent; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families - With related children under 18 years
+HC02_MOE_VC115,Percent; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families - With related children under 18 years
+HC01_EST_VC116,Number; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families - With related children under 18 years - With related children under 5 years only
+HC01_MOE_VC116,Number; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families - With related children under 18 years - With related children under 5 years only
+HC02_EST_VC116,Percent; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families - With related children under 18 years - With related children under 5 years only
+HC02_MOE_VC116,Percent; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Married couple families - With related children under 18 years - With related children under 5 years only
+HC01_EST_VC117,"Number; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present"
+HC01_MOE_VC117,"Number; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present"
+HC02_EST_VC117,"Percent; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present"
+HC02_MOE_VC117,"Percent; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present"
+HC01_EST_VC118,"Number; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present - With related children under 18 years"
+HC01_MOE_VC118,"Number; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present - With related children under 18 years"
+HC02_EST_VC118,"Percent; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present - With related children under 18 years"
+HC02_MOE_VC118,"Percent; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present - With related children under 18 years"
+HC01_EST_VC119,"Number; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present - With related children under 18 years - With related children under 5 years only"
+HC01_MOE_VC119,"Number; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present - With related children under 18 years - With related children under 5 years only"
+HC02_EST_VC119,"Percent; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present - With related children under 18 years - With related children under 5 years only"
+HC02_MOE_VC119,"Percent; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Families with female householder, no husband present - With related children under 18 years - With related children under 5 years only"
+HC01_EST_VC120,Number; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people
+HC01_MOE_VC120,Number; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people
+HC02_EST_VC120,Percent; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people
+HC02_MOE_VC120,Percent; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All people
+HC01_EST_VC121,Number; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years
+HC01_MOE_VC121,Number; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years
+HC02_EST_VC121,Percent; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years
+HC02_MOE_VC121,Percent; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years
+HC01_EST_VC122,Number; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years - Related children under 18 years
+HC01_MOE_VC122,Number; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years - Related children under 18 years
+HC02_EST_VC122,Percent; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years - Related children under 18 years
+HC02_MOE_VC122,Percent; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years - Related children under 18 years
+HC01_EST_VC123,Number; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years - Related children under 18 years - Related children under 5 years
+HC01_MOE_VC123,Number; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years - Related children under 18 years - Related children under 5 years
+HC02_EST_VC123,Percent; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years - Related children under 18 years - Related children under 5 years
+HC02_MOE_VC123,Percent; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years - Related children under 18 years - Related children under 5 years
+HC01_EST_VC124,Number; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years - Related children under 18 years - Related children 5 to 17 years
+HC01_MOE_VC124,Number; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years - Related children under 18 years - Related children 5 to 17 years
+HC02_EST_VC124,Percent; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years - Related children under 18 years - Related children 5 to 17 years
+HC02_MOE_VC124,Percent; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Under 18 years - Related children under 18 years - Related children 5 to 17 years
+HC01_EST_VC125,Number; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 18 years and over
+HC01_MOE_VC125,Number; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 18 years and over
+HC02_EST_VC125,Percent; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 18 years and over
+HC02_MOE_VC125,Percent; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 18 years and over
+HC01_EST_VC126,Number; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 18 to 64 years
+HC01_MOE_VC126,Number; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 18 to 64 years
+HC02_EST_VC126,Percent; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 18 to 64 years
+HC02_MOE_VC126,Percent; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 18 to 64 years
+HC01_EST_VC127,Number; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 65 years and over
+HC01_MOE_VC127,Number; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 65 years and over
+HC02_EST_VC127,Percent; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 65 years and over
+HC02_MOE_VC127,Percent; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - 65 years and over
+HC01_EST_VC128,Number; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - People in families
+HC01_MOE_VC128,Number; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - People in families
+HC02_EST_VC128,Percent; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - People in families
+HC02_MOE_VC128,Percent; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - People in families
+HC01_EST_VC129,Number; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Unrelated individuals 15 years and over
+HC01_MOE_VC129,Number; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Unrelated individuals 15 years and over
+HC02_EST_VC129,Percent; Estimate; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Unrelated individuals 15 years and over
+HC02_MOE_VC129,Percent; Margin of Error; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - Unrelated individuals 15 years and over

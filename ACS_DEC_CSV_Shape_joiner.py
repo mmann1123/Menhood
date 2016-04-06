@@ -120,14 +120,15 @@ def CSV_Selector(VariableCategory, Dataset, YearDecision,Year,CSV_FilePath, CSVN
     
     # User Provides the file path to their variables
     CSV_FilePath = str(raw_input(
-    "Please provide the file path to your ACS & DEC csv files:" + "\n\n>"))
+    "Please provide the file path to your ACS & DEC csv files:" + 
+    "\n\n" + "For example: G:\Share\GEOG6307\Grossman"
+    "\n\n>"))
     
     # print back file path to user
     print "\n" + "File Path:" + "\n\n" + CSV_FilePath
     
-  
     # Decision to choose the data category of interest
-    CategoryDecision = str(raw_input(
+    CategoryDecision = str(raw_input("***************************************" +
     "Which data category interests you?" + "\n\n"
     "Type 1 for " + VariableCategoryList[0] + "\n" +
     "Type 2 for " + VariableCategoryList[1] + "\n" +
@@ -166,7 +167,7 @@ def CSV_Selector(VariableCategory, Dataset, YearDecision,Year,CSV_FilePath, CSVN
         VariableCategory = VariableCategoryList[9]
     
     # Decision to choose between ACS or DEC dataset
-    DatasetDecision = str(raw_input(
+    DatasetDecision = str(raw_input("***************************************"
     "Which data set interests you?" + "\n\n"
     "Type 1 for American Community Survey" + "\n"
     "Type 2 for Decennial Census" + "\n\n> "))
@@ -177,7 +178,7 @@ def CSV_Selector(VariableCategory, Dataset, YearDecision,Year,CSV_FilePath, CSVN
         Dataset = "ACS"
         
         # When ACS, a year must be defined as there are multiple years
-        YearDecision = str(raw_input(
+        YearDecision = str(raw_input("***************************************" + 
         "Which ACS year interests you?" + "\n\n"
         "Type 1 for '09" + "\n"
         "Type 2 for '10" + "\n"
@@ -429,21 +430,27 @@ def VariableSelector(GEOid_id_Dict,UsrSelVarLst,GEOid_id_Dict_UsrSel,GEOid_id_Li
 
     #print variables user can select from.  
       
-    for value in GEOid_id_Dict:
-        print GEOid_id_Dict[value]
+    for key,value in GEOid_id_Dict.iteritems():
+        print key + "---" + value + "\n"
+        
     
     # Use While loop to allow user to select variables of interest
     
     while True:
     
-        SelectVar = raw_input("Please type a variable of interest.\n>")
+        SelectVar = raw_input("***************************************" + "\n\n"
+        + "Please type the long variable name of interest variable of interest."+ 
+        "\n\n" + "For example: 'HC02_EST_VC13'" + "\n\n"  
+        + "Do not include short variables such as 'Male; Estimate; Bachelors degree'" + "\n\n>")
+
         UsrSelVarLst.append(SelectVar)
-        finished = raw_input(
+        
+        finished = raw_input("***************************************" + "\n\n" +
         "Would you Like to select more variables?\nType 1 for Yes\nType 2 for No\n> ")
         
         if finished == "1":
-            for value in GEOid_id_Dict:
-                print GEOid_id_Dict[value]
+            for key,value in GEOid_id_Dict.iteritems():
+                print key + "---" + value + "\n"
                 
         if finished == "2":
             break
@@ -451,14 +458,14 @@ def VariableSelector(GEOid_id_Dict,UsrSelVarLst,GEOid_id_Dict_UsrSel,GEOid_id_Li
     # iterate over values in GEOid_id_Dict. If UsrSelVarLst item is
     # the same as GEOid_id_Dict[value], append to new select dictionary
     
-    for value in GEOid_id_Dict:
-        if  GEOid_id_Dict[value] in UsrSelVarLst:
-            GEOid_id_Dict_UsrSel.update({value : GEOid_id_Dict[value]})
+    for key in GEOid_id_Dict:
+        if key in UsrSelVarLst:
+            GEOid_id_Dict_UsrSel.update({key : GEOid_id_Dict[key]})
             
     # iterate over keys and values in GEOid_id_Dict_UsrSel
     # append keys to GEOid_id_List. This is needed to make subset CSV
     
-    for key,val in GEOid_id_Dict_UsrSel.items():
+    for key in GEOid_id_Dict_UsrSel:
         GEOid_id_List_UsrSel.append(key)    
     
     # Unique id columns not added to lists are lost in above functions
@@ -482,7 +489,8 @@ print "Your Variable GEO.ids are:" + "\n"
 for GEOid in GEOid_id_List_UsrSel:
     if GEOid.startswith("H"):
         print GEOid
-        
+    if GEOid.startswith("V"):
+        print GEOid
 #%% CSVCopier will use selections to make copy csv with only the select variables included
 
 # initialize the UserVariableCSV needed for the function
@@ -517,21 +525,30 @@ CensusLyr = " "
 
 # Create UniqueID for lyr,csv,dbf,shp    
 
-UniqueId = str(raw_input("Please provide a name for the new shapefile we will make:" + "\n\n" + ">"))   
+UniqueId = str(raw_input(
+"Please provide a name for the new shapefile we will make:" + "\n\n" +
+"For example:DC_Demographics_AgeGender" + "\n\n" +
+"no need to add .shp" + "\n\n" + ">"))   
 
 # User provides file path to shapefile    
 
-UserShapefile = str(raw_input("Please Provide the file path that includes the shapefile to join your selected variables to:" + "\n\n" + ">"))    
+UserShapefile = str(raw_input(
+"Please Provide the file path that includes the shapefile to join your selected variables to:" + 
+"For Example: R:\Cowan Research\Menhood_Census\MaxWork\ACS_DEC_CSV\UserSpecificCensusShapeFiles"
++ "\n\n" + ">"))    
     
 # User provides file path for new shapefile
 
-NewUsrShapefile = str(raw_input("Please provide the file path to send your new shapefile to:" + "\n\n" + ">" )) 
+NewUsrShapefile = str(raw_input(
+"Please provide the file path to send your new shapefile to:" + "\n\n" + ">" )) 
 
 LyrFilePath = NewUsrShapefile + "\\" + UniqueId + ".lyr"
 
-    
+# Write Dictionary of GEO.id and id names to text file
+json.dump(GEOid_id_Dict_UsrSel, open(NewUsrShapefile + "\\" + UniqueId + "_dictionary" + ".txt",'w')) 
+  
 # Make New Layer from the DC Census Tract Shapefile   
- 
+
 CensusLyr = arcpy.MakeFeatureLayer_management(UserShapefile, LyrFilePath)
     
 # write our dataframe to csv used for making dbf
@@ -581,12 +598,7 @@ CensusLyr = arcpy.JoinField_management (CensusLyr,"GEO_ID", UserVariablesDBF ,"G
     
 # Save Lyr as Shapefile
     
-CensusLyr = arcpy.CopyFeatures_management(CensusLyr,NewUsrShapefile+"\\"+UniqueId+".shp")
-
-# Write dictionary {GEO.id : id} to txt file in Usr.SelFolder 
-
-json.dump(GEOid_id_Dict_UsrSel, open(NewUsrShapefile + "\\" + VariableCategory + UniqueId + "_dictionary" + ".txt",'w'))
-        
+arcpy.CopyFeatures_management(CensusLyr,NewUsrShapefile+"\\"+UniqueId+".shp")
 
 #%% Set CensusLyr to NewCensusShpMaker
 

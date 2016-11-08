@@ -1,0 +1,24 @@
+The original variable number in CSV:   2
+The associated CSV name:   DEC_00_SF3_PCT001_with_ann.csv
+The orignial variable name:   VD03
+The user-defined variable name:   dec_ssm
+The explanation of the variable:   Unmarried-partner households: - Male householder and male partner
+
+The original variable number in CSV:   6
+The associated CSV name:   DEC_00_SF3_PCT001_with_ann.csv
+The orignial variable name:   VD04
+The user-defined variable name:   dec_ssmf
+The explanation of the variable:   Unmarried-partner households: - Male householder and female partner
+
+The original variable number in CSV:   7
+The associated CSV name:   DEC_00_SF3_PCT001_with_ann.csv
+The orignial variable name:   VD05
+The user-defined variable name:   dec_ssf
+The explanation of the variable:   Unmarried-partner households: - Female householder and female partner
+
+The original variable number in CSV:   5
+The associated CSV name:   DEC_00_SF3_PCT001_with_ann.csv
+The orignial variable name:   VD07
+The user-defined variable name:   dec_sso
+The explanation of the variable:   All other households
+

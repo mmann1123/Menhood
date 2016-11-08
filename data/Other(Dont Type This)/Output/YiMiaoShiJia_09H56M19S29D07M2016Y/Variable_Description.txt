@@ -1,0 +1,18 @@
+The original variable number in CSV:   10
+The associated CSV name:   ACS_12_5YR_S1701_with_ann.csv
+The orignial variable name:   HC03_EST_VC52
+The user-defined variable name:   None
+The explanation of the variable:   Percent below poverty level; Estimate; All Individuals below: - 125 percent of poverty level
+
+The original variable number in CSV:   55
+The associated CSV name:   ACS_12_5YR_S1701_with_ann.csv
+The orignial variable name:   HC03_EST_VC29
+The user-defined variable name:   None
+The explanation of the variable:   Percent below poverty level; Estimate; EDUCATIONAL ATTAINMENT - High school graduate (includes equivalency)
+
+The original variable number in CSV:   91
+The associated CSV name:   ACS_12_5YR_S1701_with_ann.csv
+The orignial variable name:   HC02_EST_VC31
+The user-defined variable name:   None
+The explanation of the variable:   Below poverty level; Estimate; EDUCATIONAL ATTAINMENT - Bachelor's degree or higher
+

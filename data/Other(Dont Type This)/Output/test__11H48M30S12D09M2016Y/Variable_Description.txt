@@ -1,0 +1,6 @@
+The original variable number in CSV:   2
+The associated CSV name:   DEC_00_SF1_DP1_with_ann.csv
+The orignial variable name:   HC01_VC22
+The user-defined variable name:   this
+The explanation of the variable:   Number; Total population - SEX AND AGE - 21 years and over
+

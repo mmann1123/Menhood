@@ -1,0 +1,18 @@
+The original variable number in CSV:   15
+The associated CSV name:   ACS_11_5YR_S1501_with_ann.csv
+The orignial variable name:   HC02_EST_VC44
+The user-defined variable name:   ACS_15
+The explanation of the variable:   Male; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2011 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings
+
+The original variable number in CSV:   25
+The associated CSV name:   ACS_11_5YR_S1501_with_ann.csv
+The orignial variable name:   HC03_EST_VC32
+The user-defined variable name:   None
+The explanation of the variable:   Female; Estimate; High school graduate or higher
+
+The original variable number in CSV:   20
+The associated CSV name:   DEC_00_SF3_H074_with_ann.csv
+The orignial variable name:   VD13
+The user-defined variable name:   DEC_20
+The explanation of the variable:   $80,000 to $89,999
+

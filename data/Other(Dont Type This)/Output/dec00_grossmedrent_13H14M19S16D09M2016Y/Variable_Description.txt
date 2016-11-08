@@ -1,0 +1,6 @@
+The original variable number in CSV:   1
+The associated CSV name:   DEC_00_SF3_H070_with_ann.csv
+The orignial variable name:   VD01
+The user-defined variable name:   dec_mgrp
+The explanation of the variable:   Median gross rent as a percentage of household income in 1999
+

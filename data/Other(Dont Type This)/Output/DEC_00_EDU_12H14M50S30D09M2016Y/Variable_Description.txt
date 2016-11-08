@@ -1,0 +1,234 @@
+The original variable number in CSV:   89
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC01_VC02
+The user-defined variable name:   None
+The explanation of the variable:   Both sexes; EDUCATIONAL ATTAINMENT (highest level) - Population 18 to 24 years
+
+The original variable number in CSV:   67
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC02_VC02
+The user-defined variable name:   None
+The explanation of the variable:   Male; EDUCATIONAL ATTAINMENT (highest level) - Population 18 to 24 years
+
+The original variable number in CSV:   93
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC03_VC02
+The user-defined variable name:   None
+The explanation of the variable:   Female; EDUCATIONAL ATTAINMENT (highest level) - Population 18 to 24 years
+
+The original variable number in CSV:   88
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC01_VC03
+The user-defined variable name:   None
+The explanation of the variable:   Both sexes; EDUCATIONAL ATTAINMENT (highest level) - Population 18 to 24 years - Less than high school graduate
+
+The original variable number in CSV:   68
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC02_VC03
+The user-defined variable name:   None
+The explanation of the variable:   Male; EDUCATIONAL ATTAINMENT (highest level) - Population 18 to 24 years - Less than high school graduate
+
+The original variable number in CSV:   92
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC03_VC03
+The user-defined variable name:   None
+The explanation of the variable:   Female; EDUCATIONAL ATTAINMENT (highest level) - Population 18 to 24 years - Less than high school graduate
+
+The original variable number in CSV:   85
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC01_VC04
+The user-defined variable name:   None
+The explanation of the variable:   Both sexes; EDUCATIONAL ATTAINMENT (highest level) - Population 18 to 24 years - High school graduate (incl. equivalency)
+
+The original variable number in CSV:   58
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC02_VC04
+The user-defined variable name:   None
+The explanation of the variable:   Male; EDUCATIONAL ATTAINMENT (highest level) - Population 18 to 24 years - High school graduate (incl. equivalency)
+
+The original variable number in CSV:   97
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC03_VC04
+The user-defined variable name:   None
+The explanation of the variable:   Female; EDUCATIONAL ATTAINMENT (highest level) - Population 18 to 24 years - High school graduate (incl. equivalency)
+
+The original variable number in CSV:   84
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC01_VC05
+The user-defined variable name:   None
+The explanation of the variable:   Both sexes; EDUCATIONAL ATTAINMENT (highest level) - Population 18 to 24 years - Some college or associate degree
+
+The original variable number in CSV:   59
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC02_VC05
+The user-defined variable name:   None
+The explanation of the variable:   Male; EDUCATIONAL ATTAINMENT (highest level) - Population 18 to 24 years - Some college or associate degree
+
+The original variable number in CSV:   96
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC03_VC05
+The user-defined variable name:   None
+The explanation of the variable:   Female; EDUCATIONAL ATTAINMENT (highest level) - Population 18 to 24 years - Some college or associate degree
+
+The original variable number in CSV:   87
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC01_VC06
+The user-defined variable name:   None
+The explanation of the variable:   Both sexes; EDUCATIONAL ATTAINMENT (highest level) - Population 18 to 24 years - Bachelor's degree or higher
+
+The original variable number in CSV:   63
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC02_VC06
+The user-defined variable name:   None
+The explanation of the variable:   Male; EDUCATIONAL ATTAINMENT (highest level) - Population 18 to 24 years - Bachelor's degree or higher
+
+The original variable number in CSV:   95
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC03_VC06
+The user-defined variable name:   None
+The explanation of the variable:   Female; EDUCATIONAL ATTAINMENT (highest level) - Population 18 to 24 years - Bachelor's degree or higher
+
+The original variable number in CSV:   15
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC01_VC35
+The user-defined variable name:   None
+The explanation of the variable:   Both sexes; PERCENT OF AGE GROUP - High school graduate or higher - 25 to 34 years
+
+The original variable number in CSV:   26
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC02_VC35
+The user-defined variable name:   None
+The explanation of the variable:   Male; PERCENT OF AGE GROUP - High school graduate or higher - 25 to 34 years
+
+The original variable number in CSV:   77
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC03_VC35
+The user-defined variable name:   None
+The explanation of the variable:   Female; PERCENT OF AGE GROUP - High school graduate or higher - 25 to 34 years
+
+The original variable number in CSV:   34
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC01_VC40
+The user-defined variable name:   None
+The explanation of the variable:   Both sexes; PERCENT OF AGE GROUP - Bachelor's degree or higher - 25 to 34 years
+
+The original variable number in CSV:   11
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC02_VC40
+The user-defined variable name:   None
+The explanation of the variable:   Male; PERCENT OF AGE GROUP - Bachelor's degree or higher - 25 to 34 years
+
+The original variable number in CSV:   37
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC03_VC40
+The user-defined variable name:   None
+The explanation of the variable:   Female; PERCENT OF AGE GROUP - Bachelor's degree or higher - 25 to 34 years
+
+The original variable number in CSV:   16
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC01_VC36
+The user-defined variable name:   None
+The explanation of the variable:   Both sexes; PERCENT OF AGE GROUP - High school graduate or higher - 35 to 44 years
+
+The original variable number in CSV:   28
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC02_VC36
+The user-defined variable name:   None
+The explanation of the variable:   Male; PERCENT OF AGE GROUP - High school graduate or higher - 35 to 44 years
+
+The original variable number in CSV:   75
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC03_VC36
+The user-defined variable name:   None
+The explanation of the variable:   Female; PERCENT OF AGE GROUP - High school graduate or higher - 35 to 44 years
+
+The original variable number in CSV:   33
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC01_VC41
+The user-defined variable name:   None
+The explanation of the variable:   Both sexes; PERCENT OF AGE GROUP - Bachelor's degree or higher - 35 to 44 years
+
+The original variable number in CSV:   12
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC02_VC41
+The user-defined variable name:   None
+The explanation of the variable:   Male; PERCENT OF AGE GROUP - Bachelor's degree or higher - 35 to 44 years
+
+The original variable number in CSV:   32
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC03_VC41
+The user-defined variable name:   None
+The explanation of the variable:   Female; PERCENT OF AGE GROUP - Bachelor's degree or higher - 35 to 44 years
+
+The original variable number in CSV:   17
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC01_VC37
+The user-defined variable name:   None
+The explanation of the variable:   Both sexes; PERCENT OF AGE GROUP - High school graduate or higher - 45 to 64 years
+
+The original variable number in CSV:   27
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC02_VC37
+The user-defined variable name:   None
+The explanation of the variable:   Male; PERCENT OF AGE GROUP - High school graduate or higher - 45 to 64 years
+
+The original variable number in CSV:   76
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC03_VC37
+The user-defined variable name:   None
+The explanation of the variable:   Female; PERCENT OF AGE GROUP - High school graduate or higher - 45 to 64 years
+
+The original variable number in CSV:   36
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC01_VC42
+The user-defined variable name:   None
+The explanation of the variable:   Both sexes; PERCENT OF AGE GROUP - Bachelor's degree or higher - 45 to 64 years
+
+The original variable number in CSV:   13
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC02_VC42
+The user-defined variable name:   None
+The explanation of the variable:   Male; PERCENT OF AGE GROUP - Bachelor's degree or higher - 45 to 64 years
+
+The original variable number in CSV:   24
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC03_VC42
+The user-defined variable name:   None
+The explanation of the variable:   Female; PERCENT OF AGE GROUP - Bachelor's degree or higher - 45 to 64 years
+
+The original variable number in CSV:   21
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC01_VC38
+The user-defined variable name:   None
+The explanation of the variable:   Both sexes; PERCENT OF AGE GROUP - High school graduate or higher - 65 years and over
+
+The original variable number in CSV:   25
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC02_VC38
+The user-defined variable name:   None
+The explanation of the variable:   Male; PERCENT OF AGE GROUP - High school graduate or higher - 65 years and over
+
+The original variable number in CSV:   81
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC03_VC38
+The user-defined variable name:   None
+The explanation of the variable:   Female; PERCENT OF AGE GROUP - High school graduate or higher - 65 years and over
+
+The original variable number in CSV:   35
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC01_VC43
+The user-defined variable name:   None
+The explanation of the variable:   Both sexes; PERCENT OF AGE GROUP - Bachelor's degree or higher - 65 years and over
+
+The original variable number in CSV:   25
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC02_VC38
+The user-defined variable name:   None
+The explanation of the variable:   Male; PERCENT OF AGE GROUP - High school graduate or higher - 65 years and over
+
+The original variable number in CSV:   81
+The associated CSV name:   DEC_00_SF3_QTP20_with_ann.csv
+The orignial variable name:   HC03_VC38
+The user-defined variable name:   None
+The explanation of the variable:   Female; PERCENT OF AGE GROUP - High school graduate or higher - 65 years and over
+

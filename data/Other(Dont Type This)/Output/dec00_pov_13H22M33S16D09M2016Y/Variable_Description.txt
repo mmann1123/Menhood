@@ -1,0 +1,36 @@
+The original variable number in CSV:   88
+The associated CSV name:   DEC_00_SF3_QTP34_with_ann.csv
+The orignial variable name:   HC03_VC01
+The user-defined variable name:   dec_bpl
+The explanation of the variable:   Number - Below poverty level; All individuals for whom poverty status is determined
+
+The original variable number in CSV:   15
+The associated CSV name:   DEC_00_SF3_QTP34_with_ann.csv
+The orignial variable name:   HC04_VC01
+The user-defined variable name:   dec_bplp
+The explanation of the variable:   Percent below poverty level; All individuals for whom poverty status is determined
+
+The original variable number in CSV:   97
+The associated CSV name:   DEC_00_SF3_QTP34_with_ann.csv
+The orignial variable name:   HC03_VC16
+The user-defined variable name:   dec_bplm
+The explanation of the variable:   Number - Below poverty level; Unrelated individuals for whom poverty status is determined - Male
+
+The original variable number in CSV:   93
+The associated CSV name:   DEC_00_SF3_QTP34_with_ann.csv
+The orignial variable name:   HC03_VC18
+The user-defined variable name:   dec_bplf
+The explanation of the variable:   Number - Below poverty level; Unrelated individuals for whom poverty status is determined - Female
+
+The original variable number in CSV:   10
+The associated CSV name:   DEC_00_SF3_QTP34_with_ann.csv
+The orignial variable name:   HC04_VC16
+The user-defined variable name:   dec_bplmp
+The explanation of the variable:   Percent below poverty level; Unrelated individuals for whom poverty status is determined - Male
+
+The original variable number in CSV:   2
+The associated CSV name:   DEC_00_SF3_QTP34_with_ann.csv
+The orignial variable name:   HC04_VC18
+The user-defined variable name:   dec_bplfp
+The explanation of the variable:   Percent below poverty level; Unrelated individuals for whom poverty status is determined - Female
+

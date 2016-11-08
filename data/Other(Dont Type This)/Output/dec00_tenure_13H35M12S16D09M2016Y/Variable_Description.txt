@@ -1,0 +1,12 @@
+The original variable number in CSV:   1
+The associated CSV name:   DEC_00_SF3_H007_with_ann.csv
+The orignial variable name:   VD02
+The user-defined variable name:   dec_oo
+The explanation of the variable:   Owner occupied
+
+The original variable number in CSV:   2
+The associated CSV name:   DEC_00_SF3_H007_with_ann.csv
+The orignial variable name:   VD03
+The user-defined variable name:   dec_ro
+The explanation of the variable:   Renter occupied
+

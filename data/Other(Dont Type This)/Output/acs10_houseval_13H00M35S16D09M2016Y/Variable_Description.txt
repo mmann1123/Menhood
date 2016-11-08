@@ -1,0 +1,144 @@
+The original variable number in CSV:   17
+The associated CSV name:   ACS_10_5YR_B25075_with_ann.csv
+The orignial variable name:   HD01_VD02
+The user-defined variable name:   acs_10kl
+The explanation of the variable:   Estimate; Total: - Less than $10,000
+
+The original variable number in CSV:   16
+The associated CSV name:   ACS_10_5YR_B25075_with_ann.csv
+The orignial variable name:   HD01_VD03
+The user-defined variable name:   acs_1015
+The explanation of the variable:   Estimate; Total: - $10,000 to $14,999
+
+The original variable number in CSV:   15
+The associated CSV name:   ACS_10_5YR_B25075_with_ann.csv
+The orignial variable name:   HD01_VD04
+The user-defined variable name:   acs_1519
+The explanation of the variable:   Estimate; Total: - $15,000 to $19,999
+
+The original variable number in CSV:   14
+The associated CSV name:   ACS_10_5YR_B25075_with_ann.csv
+The orignial variable name:   HD01_VD05
+The user-defined variable name:   acs_2025
+The explanation of the variable:   Estimate; Total: - $20,000 to $24,999
+
+The original variable number in CSV:   13
+The associated CSV name:   ACS_10_5YR_B25075_with_ann.csv
+The orignial variable name:   HD01_VD06
+The user-defined variable name:   acs_2530
+The explanation of the variable:   Estimate; Total: - $25,000 to $29,999
+
+The original variable number in CSV:   12
+The associated CSV name:   ACS_10_5YR_B25075_with_ann.csv
+The orignial variable name:   HD01_VD07
+The user-defined variable name:   acs_3035
+The explanation of the variable:   Estimate; Total: - $30,000 to $34,999
+
+The original variable number in CSV:   20
+The associated CSV name:   ACS_10_5YR_B25075_with_ann.csv
+The orignial variable name:   HD01_VD08
+The user-defined variable name:   acs_3540
+The explanation of the variable:   Estimate; Total: - $35,000 to $39,999
+
+The original variable number in CSV:   19
+The associated CSV name:   ACS_10_5YR_B25075_with_ann.csv
+The orignial variable name:   HD01_VD09
+The user-defined variable name:   acs_4050
+The explanation of the variable:   Estimate; Total: - $40,000 to $49,999
+
+The original variable number in CSV:   3
+The associated CSV name:   ACS_10_5YR_B25075_with_ann.csv
+The orignial variable name:   HD01_VD10
+The user-defined variable name:   acs_5059
+The explanation of the variable:   Estimate; Total: - $50,000 to $59,999
+
+The original variable number in CSV:   4
+The associated CSV name:   ACS_10_5YR_B25075_with_ann.csv
+The orignial variable name:   HD01_VD11
+The user-defined variable name:   acs_6069
+The explanation of the variable:   Estimate; Total: - $60,000 to $69,999
+
+The original variable number in CSV:   5
+The associated CSV name:   ACS_10_5YR_B25075_with_ann.csv
+The orignial variable name:   HD01_VD12
+The user-defined variable name:   acs_7079
+The explanation of the variable:   Estimate; Total: - $70,000 to $79,999
+
+The original variable number in CSV:   6
+The associated CSV name:   ACS_10_5YR_B25075_with_ann.csv
+The orignial variable name:   HD01_VD13
+The user-defined variable name:   acs_8089
+The explanation of the variable:   Estimate; Total: - $80,000 to $89,999
+
+The original variable number in CSV:   7
+The associated CSV name:   ACS_10_5YR_B25075_with_ann.csv
+The orignial variable name:   HD01_VD14
+The user-defined variable name:   acs_9099
+The explanation of the variable:   Estimate; Total: - $90,000 to $99,999
+
+The original variable number in CSV:   8
+The associated CSV name:   ACS_10_5YR_B25075_with_ann.csv
+The orignial variable name:   HD01_VD15
+The user-defined variable name:   acs_1124
+The explanation of the variable:   Estimate; Total: - $100,000 to $124,999
+
+The original variable number in CSV:   9
+The associated CSV name:   ACS_10_5YR_B25075_with_ann.csv
+The orignial variable name:   HD01_VD16
+The user-defined variable name:   acs_12549
+The explanation of the variable:   Estimate; Total: - $125,000 to $149,999
+
+The original variable number in CSV:   10
+The associated CSV name:   ACS_10_5YR_B25075_with_ann.csv
+The orignial variable name:   HD01_VD17
+The user-defined variable name:   acs_15074
+The explanation of the variable:   Estimate; Total: - $150,000 to $174,999
+
+The original variable number in CSV:   1
+The associated CSV name:   ACS_10_5YR_B25075_with_ann.csv
+The orignial variable name:   HD01_VD18
+The user-defined variable name:   acs_17599
+The explanation of the variable:   Estimate; Total: - $175,000 to $199,999
+
+The original variable number in CSV:   2
+The associated CSV name:   ACS_10_5YR_B25075_with_ann.csv
+The orignial variable name:   HD01_VD19
+The user-defined variable name:   acs_20049
+The explanation of the variable:   Estimate; Total: - $200,000 to $249,999
+
+The original variable number in CSV:   22
+The associated CSV name:   ACS_10_5YR_B25075_with_ann.csv
+The orignial variable name:   HD01_VD20
+The user-defined variable name:   acs_25099
+The explanation of the variable:   Estimate; Total: - $250,000 to $299,999
+
+The original variable number in CSV:   21
+The associated CSV name:   ACS_10_5YR_B25075_with_ann.csv
+The orignial variable name:   HD01_VD21
+The user-defined variable name:   acs_30099
+The explanation of the variable:   Estimate; Total: - $300,000 to $399,999
+
+The original variable number in CSV:   23
+The associated CSV name:   ACS_10_5YR_B25075_with_ann.csv
+The orignial variable name:   HD01_VD22
+The user-defined variable name:   acs_40099
+The explanation of the variable:   Estimate; Total: - $400,000 to $499,999
+
+The original variable number in CSV:   11
+The associated CSV name:   ACS_10_5YR_B25075_with_ann.csv
+The orignial variable name:   HD01_VD23
+The user-defined variable name:   acs_500749
+The explanation of the variable:   Estimate; Total: - $500,000 to $749,999
+
+The original variable number in CSV:   25
+The associated CSV name:   ACS_10_5YR_B25075_with_ann.csv
+The orignial variable name:   HD01_VD24
+The user-defined variable name:   acs_750999
+The explanation of the variable:   Estimate; Total: - $750,000 to $999,999
+
+The original variable number in CSV:   24
+The associated CSV name:   ACS_10_5YR_B25075_with_ann.csv
+The orignial variable name:   HD01_VD25
+The user-defined variable name:   acs_1000
+The explanation of the variable:   Estimate; Total: - $1,000,000 or more
+

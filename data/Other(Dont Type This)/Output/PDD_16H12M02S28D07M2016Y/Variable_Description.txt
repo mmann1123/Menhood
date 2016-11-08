@@ -1,0 +1,6 @@
+The original variable number in CSV:   111
+The associated CSV name:   ACS_09_5YR_S1501_with_ann.csv
+The orignial variable name:   HC01_EST_VC41
+The user-defined variable name:   None
+The explanation of the variable:   Total; Estimate; PERCENT IMPUTED - Educational attainment
+

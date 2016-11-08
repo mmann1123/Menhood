@@ -1,0 +1,60 @@
+The original variable number in CSV:   100
+The associated CSV name:   DEC_00_SF3_DP3_with_ann.csv
+The orignial variable name:   HC02_VC18
+The user-defined variable name:   dec_lf16
+The explanation of the variable:   Percent; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- drove alone
+
+The original variable number in CSV:   137
+The associated CSV name:   DEC_00_SF3_DP3_with_ann.csv
+The orignial variable name:   HC02_VC03
+The user-defined variable name:   dec_lf16p
+The explanation of the variable:   Percent; EMPLOYMENT STATUS - Population 16 years and over - In labor force
+
+The original variable number in CSV:   176
+The associated CSV name:   DEC_00_SF3_DP3_with_ann.csv
+The orignial variable name:   HC01_VC05
+The user-defined variable name:   dec_em16
+The explanation of the variable:   Number; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Employed
+
+The original variable number in CSV:   133
+The associated CSV name:   DEC_00_SF3_DP3_with_ann.csv
+The orignial variable name:   HC02_VC05
+The user-defined variable name:   dec_dec_em
+The explanation of the variable:   Percent; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Employed
+
+The original variable number in CSV:   179
+The associated CSV name:   DEC_00_SF3_DP3_with_ann.csv
+The orignial variable name:   HC01_VC06
+The user-defined variable name:   dec_ue16
+The explanation of the variable:   Number; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Unemployed
+
+The original variable number in CSV:   134
+The associated CSV name:   DEC_00_SF3_DP3_with_ann.csv
+The orignial variable name:   HC02_VC06
+The user-defined variable name:   dec_ue16p
+The explanation of the variable:   Percent; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Unemployed
+
+The original variable number in CSV:   95
+The associated CSV name:   DEC_00_SF3_DP3_with_ann.csv
+The orignial variable name:   HC02_VC10
+The user-defined variable name:   dec_nw16
+The explanation of the variable:   Percent; EMPLOYMENT STATUS - Females 16 years and over
+
+The original variable number in CSV:   139
+The associated CSV name:   DEC_00_SF3_DP3_with_ann.csv
+The orignial variable name:   HC02_VC09
+The user-defined variable name:   dec_nw16p
+The explanation of the variable:   Percent; EMPLOYMENT STATUS - Population 16 years and over - Not in labor force
+
+The original variable number in CSV:   199
+The associated CSV name:   DEC_00_SF3_DP3_with_ann.csv
+The orignial variable name:   HC01_VC12
+The user-defined variable name:   dec_flf16
+The explanation of the variable:   Number; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force
+
+The original variable number in CSV:   93
+The associated CSV name:   DEC_00_SF3_DP3_with_ann.csv
+The orignial variable name:   HC02_VC12
+The user-defined variable name:   dec)flf16p
+The explanation of the variable:   Percent; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force
+

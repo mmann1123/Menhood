@@ -1,0 +1,56 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+VD01,Total:
+VD02,Owner occupied:
+VD03,Owner occupied: - Family households:
+VD04,Owner occupied: - Family households: - Married-couple family:
+VD05,Owner occupied: - Family households: - Married-couple family: - With own children under 18 years:
+VD06,Owner occupied: - Family households: - Married-couple family: - With own children under 18 years: - Under 6 years only
+VD07,Owner occupied: - Family households: - Married-couple family: - With own children under 18 years: - Under 6 and 6 to 17 years
+VD08,Owner occupied: - Family households: - Married-couple family: - With own children under 18 years: - 6 to 17 years only
+VD09,Owner occupied: - Family households: - Married-couple family: - No own children under 18 years
+VD10,Owner occupied: - Family households: - Other family:
+VD11,"Owner occupied: - Family households: - Other family: - Male householder, no wife present:"
+VD12,"Owner occupied: - Family households: - Other family: - Male householder, no wife present: - With own children under 18 years:"
+VD13,"Owner occupied: - Family households: - Other family: - Male householder, no wife present: - With own children under 18 years: - Under 6 years only"
+VD14,"Owner occupied: - Family households: - Other family: - Male householder, no wife present: - With own children under 18 years: - Under 6 and 6 to 17 years"
+VD15,"Owner occupied: - Family households: - Other family: - Male householder, no wife present: - With own children under 18 years: - 6 to 17 years only"
+VD16,"Owner occupied: - Family households: - Other family: - Male householder, no wife present: - No own children under 18 years"
+VD17,"Owner occupied: - Family households: - Other family: - Female householder, no husband present:"
+VD18,"Owner occupied: - Family households: - Other family: - Female householder, no husband present: - With own children under 18 years:"
+VD19,"Owner occupied: - Family households: - Other family: - Female householder, no husband present: - With own children under 18 years: - Under 6 years only"
+VD20,"Owner occupied: - Family households: - Other family: - Female householder, no husband present: - With own children under 18 years: - Under 6 and 6 to 17 years"
+VD21,"Owner occupied: - Family households: - Other family: - Female householder, no husband present: - With own children under 18 years: - 6 to 17 years only"
+VD22,"Owner occupied: - Family households: - Other family: - Female householder, no husband present: - No own children under 18 years"
+VD23,Owner occupied: - Nonfamily households:
+VD24,Owner occupied: - Nonfamily households: - Householder living alone:
+VD25,Owner occupied: - Nonfamily households: - Householder living alone: - Male householder
+VD26,Owner occupied: - Nonfamily households: - Householder living alone: - Female householder
+VD27,Owner occupied: - Nonfamily households: - Householder not living alone
+VD28,Renter occupied:
+VD29,Renter occupied: - Family households:
+VD30,Renter occupied: - Family households: - Married-couple family:
+VD31,Renter occupied: - Family households: - Married-couple family: - With own children under 18 years:
+VD32,Renter occupied: - Family households: - Married-couple family: - With own children under 18 years: - Under 6 years only
+VD33,Renter occupied: - Family households: - Married-couple family: - With own children under 18 years: - Under 6 and 6 to 17 years
+VD34,Renter occupied: - Family households: - Married-couple family: - With own children under 18 years: - 6 to 17 years only
+VD35,Renter occupied: - Family households: - Married-couple family: - No own children under 18 years
+VD36,Renter occupied: - Family households: - Other family:
+VD37,"Renter occupied: - Family households: - Other family: - Male householder, no wife present:"
+VD38,"Renter occupied: - Family households: - Other family: - Male householder, no wife present: - With own children under 18 years:"
+VD39,"Renter occupied: - Family households: - Other family: - Male householder, no wife present: - With own children under 18 years: - Under 6 years only"
+VD40,"Renter occupied: - Family households: - Other family: - Male householder, no wife present: - With own children under 18 years: - Under 6 and 6 to 17 years"
+VD41,"Renter occupied: - Family households: - Other family: - Male householder, no wife present: - With own children under 18 years: - 6 to 17 years only"
+VD42,"Renter occupied: - Family households: - Other family: - Male householder, no wife present: - No own children under 18 years"
+VD43,"Renter occupied: - Family households: - Other family: - Female householder, no husband present:"
+VD44,"Renter occupied: - Family households: - Other family: - Female householder, no husband present: - With own children under 18 years:"
+VD45,"Renter occupied: - Family households: - Other family: - Female householder, no husband present: - With own children under 18 years: - Under 6 years only"
+VD46,"Renter occupied: - Family households: - Other family: - Female householder, no husband present: - With own children under 18 years: - Under 6 and 6 to 17 years"
+VD47,"Renter occupied: - Family households: - Other family: - Female householder, no husband present: - With own children under 18 years: - 6 to 17 years only"
+VD48,"Renter occupied: - Family households: - Other family: - Female householder, no husband present: - No own children under 18 years"
+VD49,Renter occupied: - Nonfamily households:
+VD50,Renter occupied: - Nonfamily households: - Householder living alone:
+VD51,Renter occupied: - Nonfamily households: - Householder living alone: - Male householder
+VD52,Renter occupied: - Nonfamily households: - Householder living alone: - Female householder
+VD53,Renter occupied: - Nonfamily households: - Householder not living alone

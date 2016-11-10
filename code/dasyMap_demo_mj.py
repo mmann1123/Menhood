@@ -173,18 +173,44 @@ dbf_to_csv(out_table)
 # rows with index 1 greater than the length of split or aggregate and then continue on 
 # until all tracts in year a have been assigned to either df_agg or df_split, which 
 # when the while loop in which we iterate this process, which checks to see if the length
-# of rows in intrsct is greater than 0, breaks
+# of rows in intrsct is greater than 0, breakss
 
-# Get list from out_table 1st row to nth row where rows 1 to n in GEO-_id have same value
 intrsct = read_csv(out_table)
 
-intrsct_geo_id = intrsct[intrsct['GEO_ID'] == intrsct['GEO_ID'][[1]].tolist()
+# Get list from out_table 1st row to nth row where rows 1 to n in GEO-_id have same value
+
+# get df of GEO_ID
+geoid = intrsct[['GEO_ID']]
+geoid1 = intrsct[['GEO_ID_1']]
+
+# get 1st value in GEO_ID, and save to list, geoid1st to use with .isin() next
+geoid1st = [geoid.iloc[0].to_string()[10:len(geoid.iloc[0].to_string())]]
+
+# subset geoid to rows with geoid1st
+geoid1st_all = geoid[geoid["GEO_ID"].isin(geoid1st)]
 
 # get list of same length from GEO_ID_1 column
-intrsct_geo_id_1 = intrsct[intrsct['GEO_ID_1']][1:len(intrsct_geo_id)]
+geoid1_geoid1st_all = geoid1[0:(len(geoid1st_all))]
 
-# see if intrsct_geo_id_1 is greater than 1, if so add to agg_df
-if intrsct_geo
+# see if geoid1_geoid1st_all is greater than 1, if so add to agg_df
+if len(geoid1_geoid1st_all) > 1:
+	
+	# add to agg_df 	
+	agg_df =+ intrsct[:len(geoid1st_all)]
+	
+	# subset intrsct so it starts at one after row after geoid1st_all's last row
+	intrsct = intrsct[len(geoid1st_all)+1:]
+	
+# see if geoid_geoid1st_all is equal to one, if so, then add to split_df
+if len(geoid1_geoid1st_all) = 1:
+
+	# add to agg_df
+	split_df =+ intrsct[:len(geoid1st_all)]
+	
+	# same as line 201
+	
+	intrsct = intrsct[len(geoid1st_all)+1:]
+	
 
 ####################################################################################################################################
 #%%

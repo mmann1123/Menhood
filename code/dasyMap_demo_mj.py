@@ -12,16 +12,49 @@ import csv
 from dbfpy import dbf
 import pandas as pd
 
-#set up the environment and other things
+# retrieve directory where the shapefiles used in tabulate intersection exist
 inputSpace = raw_input("Please paste the working directory which store the intermidate files and results:")
+
+# set working directory to directory user provides
 arcpy.env.workspace = inputSpace
+
+
 outPutFile = "TabulateIntersectionResult.dbf"
 arcpy.env.outputMFlag = "Enable"
 ####################################################################################################################################
 #%%
-##part1: perform the tabulate intersection to get the tranformed percentage of census tracts
-in_zone_features = "dec2000_5.shp"#this is the pre-changed shp
-zone_fields = ["GEO_ID", 'dec_ma',
+#Part 1: perform the tabulate intersection that slices the year a census tracts by year b 
+
+# Part 1 slices the year a census tracts by year b,. This determines how census tracts
+# have changed over time and how we will apply year a values to year b geometries.
+# ArcPy's tabulate intersection tool does just this, taking the year b 'slicer' layer
+# in as the 'zone_features' parameter, and the year a 'sliced' layer as 'class_features'.
+
+# this outputs a dbf where each row represents a polygon created when year a is sliced by
+# year b. In Part 2 we'll manipulate this so that we handle all ways in which census
+# tracts change from a to b
+
+# in addition to the zone & class feature parameters, we also need to provide zone & class
+# field parameters - fields from both zone and class shapefiles. First, both parameters
+# have to include their matching census tract ids, the 'GEO_ID' fields. Then, class_fields
+# parameter should also include the attributes of interest since our goal is to fit these
+# year a fields to the year b census tracts in Part 3.
+
+# lastly there is the out_table parameter, simply the file name and path to which we
+# want to save the output
+
+# zone_features, the year b shapefile
+zone_features = "DC_Census2010_.shp"
+
+# zone_fields, field in zone_features defining geo_id. this also exists in class field
+zone_fields = ["GEO_ID"]#The attribute field or fields used to define classe
+
+# class_features, the year a shapefile
+class_features = "dec2000_5.shp"
+
+# class_fields, field in class_fields defining geo_id plus attributes we want to apply to
+# year b
+class_fields = ["GEO_ID", 'dec_ma',
  'dec_tp',
  'dec_mp',
  'dec_mpp',
@@ -109,39 +142,77 @@ zone_fields = ["GEO_ID", 'dec_ma',
  'DEC_BPLMp',
  'DEC_BPLFp',
  'DEC_MI']
-       #The attribute field or fields that will be used to define zones
-                                                              # Fields could be more than those above. In this demo, we need those four fields
-in_class_features = "DC_Census2010_.shp"#this is after-changed shp
+
+# where we save the file
 out_table = os.path.join(inputSpace, outPutFile)
-class_fields = ["GEO_ID"]#The attribute field or fields used to define classes
+
+
+# quick error handling to make sure the out_table made in 147 exists
 try:
+
     os.remove(out_table)
+
 except OSError:
+
     pass
-arcpy.TabulateIntersection_analysis (in_zone_features, 
-                               zone_fields, in_class_features, out_table, class_fields)
+
+# run tabulate intersection
+arcpy.TabulateIntersection_analysis (zone_features, 
+                               zone_fields, class_features, out_table, class_fields)
                               
 print "complete"
 ################################################################################################################################################
 #%%
-#Part 2: this function convert the tabulate intersection result into csv                          
+#Part 2: this function convert the tabulate intersection result into csv       
+
+# here in part 2 we create a function to covert a dbf to csv and pass the out_table 
+# made from the tabulate intersection tool in Part 1 through it, this allows us 
+# to use the output in pandas in Part 3, which we need to do!
+                   
 def dbf_to_csv(out_table):
-    csv_fn = out_table[:-4]+ ".csv" #Set the table as .csv format
+
+	# Make from .csv to be made from .dbf. at this point the .csv hasn't any contents
+    csv_fn = out_table[:-4]+ ".csv" 
+    
+    # error handling to make sure it worked
     try:
         os.remove(csv_fn)
+        
     except OSError:
         pass
-    with open(csv_fn,'wb') as csvfile: #Create a csv file and write contents from dbf
+    
+    # Create a csv file and write contents from dbf
+    
+    # open the empty .csv file, with ability to write in it
+    with open(csv_fn,'wb') as csvfile: 
+    
+    	# read in dbf created with tabulate intersection
         in_db = dbf.Dbf(out_table)
+        
+        # set the empty, open csv to variable we will write contents of dbf to
         out_csv = csv.writer(csvfile)
+        
+        # create empty list that will hold column names of dbf that we'll give to our csv
         names = []
-        for field in in_db.header.fields: #Write headers
+        
+        # Iterate over the column names from the dbf and add them to names list
+        for field in in_db.header.fields: 
             names.append(field.name)
+            
+        # write the column names in names to the csv as row header names
         out_csv.writerow(names)
-        for rec in in_db: #Write records
+        
+        # iterate over records in the dbf and write them to the csv
+        for rec in in_db:
             out_csv.writerow(rec.fieldData)
+        
+        # close the dbf. We are done converting the dbf to a csv! 
         in_db.close()
+
+# Run the dbf_to_csv function, passing through out_table from Part 1 to make our csv
+# for Part 2!
 dbf_to_csv(out_table)
+
 ####################################################################################################################################
 #%%  Part 3: Split out_table into a table to aggregate and to split 
 
@@ -175,7 +246,11 @@ dbf_to_csv(out_table)
 # when the while loop in which we iterate this process, which checks to see if the length
 # of rows in intrsct is greater than 0, breakss
 
-intrsct = read_csv(out_table)
+intrsct = pd.read_csv(out_table)
+
+# create split_df and agg_df with only columns, no rows yet.
+split_df = pd.DataFrame(columns=[intrsct.columns.values])
+agg_df = pd.DataFrame(columns=[intrsct.columns.values])
 
 # while loop to iterate separating to agg_df and split_df until all rows are agg or split
 while len(intrsct) > 0:
@@ -193,36 +268,35 @@ while len(intrsct) > 0:
 	# subset geoid to rows with geoid1st value
 	geoid1st_all = geoid[geoid["GEO_ID"].isin(geoid1st)]
 
-	# subset geoid1 to have rows matching geoid
-	geoid1_geoid1st_all = geoid1[0:(len(geoid1st_all))]
+    if len(geoid1_geoid1st_all) > 1:
 
-	# see if geoid1_geoid1st_all is greater than 1, if so add to agg_df
-	if len(geoid1_geoid1st_all) > 1:
+        # add to agg_df
+        agg_df = agg_df.append(intrsct[:len(geoid1st_all)])
+
+    # subset intrsct so it starts at one after row after geoid1st_all's last row
+
+    intrsct = intrsct[len(geoid1st_all):]
+
+    # see if geoid1_geoid1st_all is greater than 1, if so add to split_df
+	if len(geoid1_geoid1st_all) = 1:
 	
 		# add to agg_df 	
-		agg_df =+ intrsct[:len(geoid1st_all)]
+		split_df = split_df.append(intrsct[:len(geoid1st_all)])
 	
 		# subset intrsct so it starts at one after row after geoid1st_all's last row
-		intrsct = intrsct[len(geoid1st_all)+1:]
+		intrsct = intrsct[len(geoid1st_all):]
 	
 	# see if geoid_geoid1st_all is equal to one, if so, then add to split_df
-	if len(geoid1_geoid1st_all) = 1:
 
-		# add to agg_df
-		split_df =+ intrsct[:len(geoid1st_all)]
-	
-		# subset intrsct so it starts at one after row after geoid1st_all's last row
-	
-		intrsct = intrsct[len(geoid1st_all)+1:]
-	
 
-####################################################################################################################################
-#%%
+########################################################################################################################
 #Remove the file we don't need (in case the name overlap)
+
 csv_input = os.path.join(inputSpace, outPutFile[:-4]+ ".csv")
 csv_output = os.path.join(inputSpace, outPutFile[:-4]+ "_10" + ".csv")
 dbf_output = os.path.join(inputSpace, outPutFile[:-4]+ "_10" + ".dbf")
 dbf_xml = dbf_output + ".xml"
+
 try:
     os.remove(csv_output)
     os.remove(dbf_output)
@@ -230,8 +304,24 @@ try:
 except OSError:
     pass
 
-##Part 4: Read the csv file and edite it
+########################################################################################################################
+#%% Part 4: Separate Normalized and Count Variables
+
+# In this section we will separate the variables depending on if they represent normalized values or count values as
+# both need to be handled differently when being applied to the year b census tract. Also split and aggregate scenarios
+# necessitate specific handling.
+
+# With aggregate scenarios we average normalized values and sum count values
+# With split scenarios we make normalized values the same from the year a tract to cut up year b tracts. When count,
+# we apply the area weighted value of the larger year a to the sliced year b values.
+
+# to make this happen we will apply a forloop over the agg_df and split_df where nested operations do the following.
+
+# create two lists for normal and
+
+
 Table00 = pd.read_csv(csv_input)
+
 #Declare lists and make sure to empty them, we will use these list to edit fields in next steps
 #The fields which need to be edited are seperated into normalized or counted
 #So normal -- normalized, count -- counted, and subsequently fields iteration will also based on the two types
@@ -249,54 +339,95 @@ countValueAfter = []
 del countValueAfter[:]
 TotalList2 = []
 del TotalList2[:]
+
 TotalList = list(Table00)#Make the table of 2000 year into a list
+
 # Iteration of normalized and counted fields
 i = 0
+
 for fields in TotalList:
     TotalList2.append([i, fields]) # Create a dictionary 
     i += 1
+
 print "Now we are going to choose whcih fields are normalized data, whcih fields are count-based data:"
+
 print TotalList2
+
 nonesense = raw_input("hit enter")
+
 print "start from normalized field, please type in the corresponding number of each field:"
+
 while True:#two while loop will record the numbers
+
     try:
+
         normal = raw_input("please enter the number here, only integer:  ")
+
         if normal == "end":
+
             print "finish recording"
+
             #return normalField
             break
-        int(normal)
+
         normalField.append(int(normal))
+
         print "Thanks for typing, if there's no further number needed to be entered, please enter 'end'"
+
     except ValueError:
+
         print "Please only enter integers or 'end', let's try again, from the beginning"
+
         del normalField[:]
+
+
 print "Now is count data field, please type in the corresponding number of each field:"
+
 while True:
+
     try:
+
         count = raw_input("please enter the number here, only integer:  ")
+
         if count == "end":
+
             print "finish recording"
+
             #return countField
             break
-        int(count)
+
+
         countField.append(int(count))
+
         print "Thanks for typing, if there's no further number needed to be entered, please enter 'end'"
+
     except ValueError:
+
         print "Please only enter integers or 'end', let's try again, from the beginning"
+
         del countField[:]
+
 for normalKey in normalField:#use 'value' list to record the corresponding field name of the recorded number
-    normalValue.append(TotalList2[normalKey][1])# normalKey will show you 
+
+    normalValue.append(TotalList2[normalKey][1])# normalKey will show you
+
 for countKey in countField:
+
     countValue.append(TotalList2[countKey][1])
+
 for nv in normalValue: # nv -- normalized value
+
     Table00['B_'+nv[0:8]] = Table00[nv] #perfrom the calculation of change using pandas
+
     normalValueAfter.append('B_'+nv[0:8])#make a new list contain the new name of the hanged field
+
 for cv in countValue: # counted value
+
     Table00['B_'+cv[0:8]] = Table00[cv] * Table00.PERCENTAGE * 0.01 #perfrom the calculation of change using pandas
+
     countValueAfter.append('B_'+cv[0:8])
-    # B_ -- boundary 2010 
+
+    # B_ -- boundary 2010
 
 # We create dictionary because Aggregation function in Pandas will calculate data in this way
 # for example: table.groupby[field].agg({'field1' : 'sum', 'field2' : 'mean'}), the part follow .agg are dictionaries

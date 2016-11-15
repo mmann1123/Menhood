@@ -1,0 +1,12 @@
+The original variable number in CSV:   21
+The associated CSV name:   ACS_12_5YR_DP05_with_ann.csv
+The orignial variable name:   HC03_VC44
+The user-defined variable name:   ACS21
+The explanation of the variable:   Percent; RACE - One race - Black or African American
+
+The original variable number in CSV:   55
+The associated CSV name:   ACS_12_5YR_DP05_with_ann.csv
+The orignial variable name:   HC03_VC77
+The user-defined variable name:   None
+The explanation of the variable:   Percent; RACE - Some other race
+

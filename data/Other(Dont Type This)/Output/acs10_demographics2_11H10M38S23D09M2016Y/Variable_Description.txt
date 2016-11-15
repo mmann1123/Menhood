@@ -1,0 +1,24 @@
+The original variable number in CSV:   1
+The associated CSV name:   ACS_10_5YR_DP05_with_ann.csv
+The orignial variable name:   HC01_VC21
+The user-defined variable name:   acsma
+The explanation of the variable:   Estimate; SEX AND AGE - Median age (years)
+
+The original variable number in CSV:   121
+The associated CSV name:   ACS_10_5YR_DP05_with_ann.csv
+The orignial variable name:   HC03_VC04
+The user-defined variable name:   acsmpp
+The explanation of the variable:   Percent; SEX AND AGE - Male
+
+The original variable number in CSV:   120
+The associated CSV name:   ACS_10_5YR_DP05_with_ann.csv
+The orignial variable name:   HC03_VC05
+The user-defined variable name:   acsfpp
+The explanation of the variable:   Percent; SEX AND AGE - Female
+
+The original variable number in CSV:   21
+The associated CSV name:   ACS_10_5YR_DP05_with_ann.csv
+The orignial variable name:   HC03_VC44
+The user-defined variable name:   acsaapp
+The explanation of the variable:   Percent; RACE - One race - Black or African American
+

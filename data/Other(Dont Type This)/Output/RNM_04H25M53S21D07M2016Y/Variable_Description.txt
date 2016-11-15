@@ -1,0 +1,24 @@
+The original variable number in CSV:   80
+The associated CSV name:   ACS_11_5YR_DP05_with_ann.csv
+The orignial variable name:   HC01_VC92
+The user-defined variable name:   sss80
+The explanation of the variable:   Estimate; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone
+
+The original variable number in CSV:   18
+The associated CSV name:   ACS_11_5YR_DP05_with_ann.csv
+The orignial variable name:   HC03_VC47
+The user-defined variable name:   None
+The explanation of the variable:   Percent; RACE - One race - American Indian and Alaska Native - Chippewa tribal grouping
+
+The original variable number in CSV:   49
+The associated CSV name:   ACS_11_5YR_DP05_with_ann.csv
+The orignial variable name:   HC01_VC59
+The user-defined variable name:   sssd49
+The explanation of the variable:   Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Native Hawaiian
+
+The original variable number in CSV:   22
+The associated CSV name:   ACS_11_5YR_DP05_with_ann.csv
+The orignial variable name:   HC03_VC73
+The user-defined variable name:   vfvf22
+The explanation of the variable:   Percent; RACE - Black or African American
+

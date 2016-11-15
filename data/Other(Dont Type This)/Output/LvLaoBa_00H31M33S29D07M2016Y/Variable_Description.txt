@@ -1,0 +1,18 @@
+The original variable number in CSV:   110
+The associated CSV name:   ACS_10_5YR_S1501_with_ann.csv
+The orignial variable name:   HC01_EST_VC44
+The user-defined variable name:   None
+The explanation of the variable:   Total; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2010 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings
+
+The original variable number in CSV:   1
+The associated CSV name:   ACS_10_5YR_S1501_with_ann.csv
+The orignial variable name:   HC03_EST_VC52
+The user-defined variable name:   None
+The explanation of the variable:   Female; Estimate; PERCENT IMPUTED - Educational attainment
+
+The original variable number in CSV:   55
+The associated CSV name:   ACS_10_5YR_S1501_with_ann.csv
+The orignial variable name:   HC02_EST_VC27
+The user-defined variable name:   None
+The explanation of the variable:   Male; Estimate; Population 45 to 64 years
+

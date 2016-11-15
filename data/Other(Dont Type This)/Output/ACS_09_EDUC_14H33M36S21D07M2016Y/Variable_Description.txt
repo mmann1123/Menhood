@@ -1,0 +1,18 @@
+The original variable number in CSV:   12
+The associated CSV name:   ACS_09_5YR_S1501_with_ann.csv
+The orignial variable name:   HC03_EST_VC38
+The user-defined variable name:   QWE12
+The explanation of the variable:   Female; Estimate; MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2009 INFLATION-ADJUSTED DOLLARS) - Population 25 years and over with earnings - Bachelor's degree
+
+The original variable number in CSV:   56
+The associated CSV name:   ACS_09_5YR_S1501_with_ann.csv
+The orignial variable name:   HC02_EST_VC23
+The user-defined variable name:   None
+The explanation of the variable:   Male; Estimate; Population 45 to 64 years - High school graduate or higher
+
+The original variable number in CSV:   23
+The associated CSV name:   ACS_09_5YR_S1501_with_ann.csv
+The orignial variable name:   HC01_EST_VC17
+The user-defined variable name:   QQQQ23
+The explanation of the variable:   Total; Estimate; Population 25 to 34 years - High school graduate or higher
+

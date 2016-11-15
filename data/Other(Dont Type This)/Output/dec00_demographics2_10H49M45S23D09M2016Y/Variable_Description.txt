@@ -1,0 +1,30 @@
+The original variable number in CSV:   174
+The associated CSV name:   DEC_00_SF1_DP1_with_ann.csv
+The orignial variable name:   HC01_VC18
+The user-defined variable name:   decma
+The explanation of the variable:   Number; Total population - SEX AND AGE - Median age (years)
+
+The original variable number in CSV:   159
+The associated CSV name:   DEC_00_SF1_DP1_with_ann.csv
+The orignial variable name:   HC01_VC01
+The user-defined variable name:   dectp
+The explanation of the variable:   Number; Total population
+
+The original variable number in CSV:   125
+The associated CSV name:   DEC_00_SF1_DP1_with_ann.csv
+The orignial variable name:   HC02_VC03
+The user-defined variable name:   decmpp
+The explanation of the variable:   Percent; Total population - SEX AND AGE - Male
+
+The original variable number in CSV:   120
+The associated CSV name:   DEC_00_SF1_DP1_with_ann.csv
+The orignial variable name:   HC02_VC04
+The user-defined variable name:   decfpp
+The explanation of the variable:   Percent; Total population - SEX AND AGE - Female
+
+The original variable number in CSV:   37
+The associated CSV name:   DEC_00_SF1_DP1_with_ann.csv
+The orignial variable name:   HC02_VC30
+The user-defined variable name:   decaapp
+The explanation of the variable:   Percent; Total population - RACE - One race - Black or African American
+

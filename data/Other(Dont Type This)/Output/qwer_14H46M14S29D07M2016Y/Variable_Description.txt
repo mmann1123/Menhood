@@ -1,0 +1,24 @@
+The original variable number in CSV:   1
+The associated CSV name:   ACS_09_5YR_DP5YR5_with_ann.csv
+The orignial variable name:   HC02_EST_VC69
+The user-defined variable name:   ACSDE1
+The explanation of the variable:   Percent; Estimate; HISPANIC OR LATINO AND RACE - Total population
+
+The original variable number in CSV:   23
+The associated CSV name:   ACS_09_5YR_DP5YR5_with_ann.csv
+The orignial variable name:   HC01_EST_VC62
+The user-defined variable name:   ACSde23
+The explanation of the variable:   Number; Estimate; Race alone or in combination with one or more other races - Total population - White
+
+The original variable number in CSV:   4
+The associated CSV name:   DEC_00_SF3_PCT001_with_ann.csv
+The orignial variable name:   VD06
+The user-defined variable name:   None
+The explanation of the variable:   Unmarried-partner households: - Female householder and male partner
+
+The original variable number in CSV:   1
+The associated CSV name:   DEC_00_SF3_PCT001_with_ann.csv
+The orignial variable name:   VD02
+The user-defined variable name:   DEC1
+The explanation of the variable:   Unmarried-partner households:
+

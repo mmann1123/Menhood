@@ -1,0 +1,48 @@
+The original variable number in CSV:   21
+The associated CSV name:   ACS_10_5YR_B25115_with_ann.csv
+The orignial variable name:   HD01_VD09
+The user-defined variable name:   acs_moc
+The explanation of the variable:   Estimate; Owner occupied: - Family households: - Other family: - Male householder, no wife present: - With own children under 18 years
+
+The original variable number in CSV:   6
+The associated CSV name:   ACS_10_5YR_B25115_with_ann.csv
+The orignial variable name:   HD01_VD12
+The user-defined variable name:   acs_foc
+The explanation of the variable:   Estimate; Owner occupied: - Family households: - Other family: - Female householder, no husband present: - With own children under 18 years
+
+The original variable number in CSV:   25
+The associated CSV name:   ACS_10_5YR_B25115_with_ann.csv
+The orignial variable name:   HD01_VD22
+The user-defined variable name:   acs_mrc
+The explanation of the variable:   Estimate; Renter occupied: - Family households: - Other family: - Male householder, no wife present: - With own children under 18 years
+
+The original variable number in CSV:   26
+The associated CSV name:   ACS_10_5YR_B25115_with_ann.csv
+The orignial variable name:   HD01_VD25
+The user-defined variable name:   acs_frc
+The explanation of the variable:   Estimate; Renter occupied: - Family households: - Other family: - Female householder, no husband present: - With own children under 18 years
+
+The original variable number in CSV:   4
+The associated CSV name:   ACS_10_5YR_B25115_with_ann.csv
+The orignial variable name:   HD01_VD10
+The user-defined variable name:   acs_mo
+The explanation of the variable:   Estimate; Owner occupied: - Family households: - Other family: - Male householder, no wife present: - No own children under 18 years
+
+The original variable number in CSV:   7
+The associated CSV name:   ACS_10_5YR_B25115_with_ann.csv
+The orignial variable name:   HD01_VD13
+The user-defined variable name:   acs_fo
+The explanation of the variable:   Estimate; Owner occupied: - Family households: - Other family: - Female householder, no husband present: - No own children under 18 years
+
+The original variable number in CSV:   12
+The associated CSV name:   ACS_10_5YR_B25115_with_ann.csv
+The orignial variable name:   HD01_VD23
+The user-defined variable name:   acs_mr
+The explanation of the variable:   Estimate; Renter occupied: - Family households: - Other family: - Male householder, no wife present: - No own children under 18 years
+
+The original variable number in CSV:   20
+The associated CSV name:   ACS_10_5YR_B25115_with_ann.csv
+The orignial variable name:   HD01_VD26
+The user-defined variable name:   acs_fr
+The explanation of the variable:   Estimate; Renter occupied: - Family households: - Other family: - Female householder, no husband present: - No own children under 18 years
+

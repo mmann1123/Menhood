@@ -1,0 +1,6 @@
+The original variable number in CSV:   161
+The associated CSV name:   ACS_09_5YR_DP5YR5_with_ann.csv
+The orignial variable name:   HC02_EST_VC81
+The user-defined variable name:   ACS_161
+The explanation of the variable:   Percent; Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Some other race alone
+

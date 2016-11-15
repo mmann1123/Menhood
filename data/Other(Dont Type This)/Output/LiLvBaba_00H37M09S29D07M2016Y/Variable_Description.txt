@@ -1,0 +1,18 @@
+The original variable number in CSV:   11
+The associated CSV name:   ACS_11_5YR_S1501_with_ann.csv
+The orignial variable name:   HC03_EST_VC09
+The user-defined variable name:   None
+The explanation of the variable:   Female; Estimate; 9th to 12th grade, no diploma
+
+The original variable number in CSV:   34
+The associated CSV name:   ACS_11_5YR_S1501_with_ann.csv
+The orignial variable name:   HC03_EST_VC28
+The user-defined variable name:   None
+The explanation of the variable:   Female; Estimate; High school graduate or higher
+
+The original variable number in CSV:   22
+The associated CSV name:   ACS_11_5YR_S1501_with_ann.csv
+The orignial variable name:   HC03_EST_VC37
+The user-defined variable name:   None
+The explanation of the variable:   Female; Estimate; POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL - Less than high school graduate
+

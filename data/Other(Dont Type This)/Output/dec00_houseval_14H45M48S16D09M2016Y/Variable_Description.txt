@@ -1,0 +1,144 @@
+The original variable number in CSV:   3
+The associated CSV name:   DEC_00_SF3_H074_with_ann.csv
+The orignial variable name:   VD02
+The user-defined variable name:   dec_10kl
+The explanation of the variable:   Less than $10,000
+
+The original variable number in CSV:   4
+The associated CSV name:   DEC_00_SF3_H074_with_ann.csv
+The orignial variable name:   VD03
+The user-defined variable name:   dec_1015
+The explanation of the variable:   $10,000 to $14,999
+
+The original variable number in CSV:   1
+The associated CSV name:   DEC_00_SF3_H074_with_ann.csv
+The orignial variable name:   VD04
+The user-defined variable name:   dec_1519
+The explanation of the variable:   $15,000 to $19,999
+
+The original variable number in CSV:   9
+The associated CSV name:   DEC_00_SF3_H074_with_ann.csv
+The orignial variable name:   VD05
+The user-defined variable name:   dec_2025
+The explanation of the variable:   $20,000 to $24,999
+
+The original variable number in CSV:   24
+The associated CSV name:   DEC_00_SF3_H074_with_ann.csv
+The orignial variable name:   VD06
+The user-defined variable name:   dec_2530
+The explanation of the variable:   $25,000 to $29,999
+
+The original variable number in CSV:   25
+The associated CSV name:   DEC_00_SF3_H074_with_ann.csv
+The orignial variable name:   VD07
+The user-defined variable name:   dec_3035
+The explanation of the variable:   $30,000 to $34,999
+
+The original variable number in CSV:   10
+The associated CSV name:   DEC_00_SF3_H074_with_ann.csv
+The orignial variable name:   VD08
+The user-defined variable name:   dec_3540
+The explanation of the variable:   $35,000 to $39,999
+
+The original variable number in CSV:   11
+The associated CSV name:   DEC_00_SF3_H074_with_ann.csv
+The orignial variable name:   VD09
+The user-defined variable name:   dec_4050
+The explanation of the variable:   $40,000 to $49,999
+
+The original variable number in CSV:   19
+The associated CSV name:   DEC_00_SF3_H074_with_ann.csv
+The orignial variable name:   VD10
+The user-defined variable name:   dec_5059
+The explanation of the variable:   $50,000 to $59,999
+
+The original variable number in CSV:   18
+The associated CSV name:   DEC_00_SF3_H074_with_ann.csv
+The orignial variable name:   VD11
+The user-defined variable name:   dec_6069
+The explanation of the variable:   $60,000 to $69,999
+
+The original variable number in CSV:   21
+The associated CSV name:   DEC_00_SF3_H074_with_ann.csv
+The orignial variable name:   VD12
+The user-defined variable name:   dec_7079
+The explanation of the variable:   $70,000 to $79,999
+
+The original variable number in CSV:   20
+The associated CSV name:   DEC_00_SF3_H074_with_ann.csv
+The orignial variable name:   VD13
+The user-defined variable name:   dec_8089
+The explanation of the variable:   $80,000 to $89,999
+
+The original variable number in CSV:   15
+The associated CSV name:   DEC_00_SF3_H074_with_ann.csv
+The orignial variable name:   VD14
+The user-defined variable name:   dec_9099
+The explanation of the variable:   $90,000 to $99,999
+
+The original variable number in CSV:   14
+The associated CSV name:   DEC_00_SF3_H074_with_ann.csv
+The orignial variable name:   VD15
+The user-defined variable name:   dec_1124
+The explanation of the variable:   $100,000 to $124,999
+
+The original variable number in CSV:   17
+The associated CSV name:   DEC_00_SF3_H074_with_ann.csv
+The orignial variable name:   VD16
+The user-defined variable name:   dec_12549
+The explanation of the variable:   $125,000 to $149,999
+
+The original variable number in CSV:   16
+The associated CSV name:   DEC_00_SF3_H074_with_ann.csv
+The orignial variable name:   VD17
+The user-defined variable name:   dec_15074
+The explanation of the variable:   $150,000 to $174,999
+
+The original variable number in CSV:   13
+The associated CSV name:   DEC_00_SF3_H074_with_ann.csv
+The orignial variable name:   VD18
+The user-defined variable name:   dec_17599
+The explanation of the variable:   $175,000 to $199,999
+
+The original variable number in CSV:   12
+The associated CSV name:   DEC_00_SF3_H074_with_ann.csv
+The orignial variable name:   VD19
+The user-defined variable name:   dec_20049
+The explanation of the variable:   $200,000 to $249,999
+
+The original variable number in CSV:   6
+The associated CSV name:   DEC_00_SF3_H074_with_ann.csv
+The orignial variable name:   VD20
+The user-defined variable name:   dec_25099
+The explanation of the variable:   $250,000 to $299,999
+
+The original variable number in CSV:   7
+The associated CSV name:   DEC_00_SF3_H074_with_ann.csv
+The orignial variable name:   VD21
+The user-defined variable name:   dec_30099
+The explanation of the variable:   $300,000 to $399,999
+
+The original variable number in CSV:   8
+The associated CSV name:   DEC_00_SF3_H074_with_ann.csv
+The orignial variable name:   VD22
+The user-defined variable name:   dec_40099
+The explanation of the variable:   $400,000 to $499,999
+
+The original variable number in CSV:   2
+The associated CSV name:   DEC_00_SF3_H074_with_ann.csv
+The orignial variable name:   VD23
+The user-defined variable name:   dec_500749
+The explanation of the variable:   $500,000 to $749,999
+
+The original variable number in CSV:   24
+The associated CSV name:   DEC_00_SF3_H074_with_ann.csv
+The orignial variable name:   VD06
+The user-defined variable name:   dec_2530
+The explanation of the variable:   $25,000 to $29,999
+
+The original variable number in CSV:   23
+The associated CSV name:   DEC_00_SF3_H074_with_ann.csv
+The orignial variable name:   VD25
+The user-defined variable name:   dec_1000
+The explanation of the variable:   $1,000,000 or more
+

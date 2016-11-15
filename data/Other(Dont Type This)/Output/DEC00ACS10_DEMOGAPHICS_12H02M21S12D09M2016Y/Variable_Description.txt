@@ -1,0 +1,96 @@
+The original variable number in CSV:   174
+The associated CSV name:   DEC_00_SF1_DP1_with_ann.csv
+The orignial variable name:   HC01_VC18
+The user-defined variable name:   dec_ma
+The explanation of the variable:   Number; Total population - SEX AND AGE - Median age (years)
+
+The original variable number in CSV:   159
+The associated CSV name:   DEC_00_SF1_DP1_with_ann.csv
+The orignial variable name:   HC01_VC01
+The user-defined variable name:   dec_tp
+The explanation of the variable:   Number; Total population
+
+The original variable number in CSV:   160
+The associated CSV name:   DEC_00_SF1_DP1_with_ann.csv
+The orignial variable name:   HC01_VC03
+The user-defined variable name:   dec_mp
+The explanation of the variable:   Number; Total population - SEX AND AGE - Male
+
+The original variable number in CSV:   125
+The associated CSV name:   DEC_00_SF1_DP1_with_ann.csv
+The orignial variable name:   HC02_VC03
+The user-defined variable name:   dec_mpp
+The explanation of the variable:   Percent; Total population - SEX AND AGE - Male
+
+The original variable number in CSV:   156
+The associated CSV name:   DEC_00_SF1_DP1_with_ann.csv
+The orignial variable name:   HC01_VC04
+The user-defined variable name:   dec_fp
+The explanation of the variable:   Number; Total population - SEX AND AGE - Female
+
+The original variable number in CSV:   120
+The associated CSV name:   DEC_00_SF1_DP1_with_ann.csv
+The orignial variable name:   HC02_VC04
+The user-defined variable name:   dec_fpp
+The explanation of the variable:   Percent; Total population - SEX AND AGE - Female
+
+The original variable number in CSV:   24
+The associated CSV name:   DEC_00_SF1_DP1_with_ann.csv
+The orignial variable name:   HC01_VC30
+The user-defined variable name:   dec_aap
+The explanation of the variable:   Number; Total population - RACE - One race - Black or African American
+
+The original variable number in CSV:   37
+The associated CSV name:   DEC_00_SF1_DP1_with_ann.csv
+The orignial variable name:   HC02_VC30
+The user-defined variable name:   dec_aapp
+The explanation of the variable:   Percent; Total population - RACE - One race - Black or African American
+
+The original variable number in CSV:   1
+The associated CSV name:   ACS_10_5YR_DP05_with_ann.csv
+The orignial variable name:   HC01_VC21
+The user-defined variable name:   acs_ma
+The explanation of the variable:   Estimate; SEX AND AGE - Median age (years)
+
+The original variable number in CSV:   100
+The associated CSV name:   ACS_10_5YR_DP05_with_ann.csv
+The orignial variable name:   HC01_VC03
+The user-defined variable name:   acs_tp
+The explanation of the variable:   Estimate; SEX AND AGE - Total population
+
+The original variable number in CSV:   98
+The associated CSV name:   ACS_10_5YR_DP05_with_ann.csv
+The orignial variable name:   HC01_VC04
+The user-defined variable name:   acs_mp
+The explanation of the variable:   Estimate; SEX AND AGE - Male
+
+The original variable number in CSV:   121
+The associated CSV name:   ACS_10_5YR_DP05_with_ann.csv
+The orignial variable name:   HC03_VC04
+The user-defined variable name:   acs_mpp
+The explanation of the variable:   Percent; SEX AND AGE - Male
+
+The original variable number in CSV:   97
+The associated CSV name:   ACS_10_5YR_DP05_with_ann.csv
+The orignial variable name:   HC01_VC05
+The user-defined variable name:   acs_fp
+The explanation of the variable:   Estimate; SEX AND AGE - Female
+
+The original variable number in CSV:   120
+The associated CSV name:   ACS_10_5YR_DP05_with_ann.csv
+The orignial variable name:   HC03_VC05
+The user-defined variable name:   acs_fpp
+The explanation of the variable:   Percent; SEX AND AGE - Female
+
+The original variable number in CSV:   32
+The associated CSV name:   ACS_10_5YR_DP05_with_ann.csv
+The orignial variable name:   HC01_VC44
+The user-defined variable name:   acs_aap
+The explanation of the variable:   Estimate; RACE - One race - Black or African American
+
+The original variable number in CSV:   21
+The associated CSV name:   ACS_10_5YR_DP05_with_ann.csv
+The orignial variable name:   HC03_VC44
+The user-defined variable name:   acs_aapp
+The explanation of the variable:   Percent; RACE - One race - Black or African American
+

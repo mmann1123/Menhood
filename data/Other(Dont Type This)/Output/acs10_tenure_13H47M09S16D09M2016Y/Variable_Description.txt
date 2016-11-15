@@ -1,0 +1,12 @@
+The original variable number in CSV:   2
+The associated CSV name:   ACS_10_5YR_B25003_with_ann.csv
+The orignial variable name:   HD01_VD02
+The user-defined variable name:   acs_oo
+The explanation of the variable:   Estimate; Total: - Owner occupied
+
+The original variable number in CSV:   1
+The associated CSV name:   ACS_10_5YR_B25003_with_ann.csv
+The orignial variable name:   HD01_VD03
+The user-defined variable name:   acs_ro
+The explanation of the variable:   Estimate; Total: - Renter occupied
+

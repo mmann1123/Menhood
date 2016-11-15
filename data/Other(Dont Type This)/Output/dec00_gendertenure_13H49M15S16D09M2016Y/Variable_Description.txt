@@ -1,0 +1,24 @@
+The original variable number in CSV:   48
+The associated CSV name:   DEC_00_SF3_HCT001_with_ann.csv
+The orignial variable name:   VD12
+The user-defined variable name:   dec_moc
+The explanation of the variable:   Owner occupied: - Family households: - Other family: - Male householder, no wife present: - With own children under 18 years:
+
+The original variable number in CSV:   38
+The associated CSV name:   DEC_00_SF3_HCT001_with_ann.csv
+The orignial variable name:   VD18
+The user-defined variable name:   dec_foc
+The explanation of the variable:   Owner occupied: - Family households: - Other family: - Female householder, no husband present: - With own children under 18 years:
+
+The original variable number in CSV:   28
+The associated CSV name:   DEC_00_SF3_HCT001_with_ann.csv
+The orignial variable name:   VD38
+The user-defined variable name:   dec_mrc
+The explanation of the variable:   Renter occupied: - Family households: - Other family: - Male householder, no wife present: - With own children under 18 years:
+
+The original variable number in CSV:   3
+The associated CSV name:   DEC_00_SF3_HCT001_with_ann.csv
+The orignial variable name:   VD44
+The user-defined variable name:   dec_frc
+The explanation of the variable:   Renter occupied: - Family households: - Other family: - Female householder, no husband present: - With own children under 18 years:
+

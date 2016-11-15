@@ -1,0 +1,18 @@
+The original variable number in CSV:   45
+The associated CSV name:   ACS_10_5YR_S1501_with_ann.csv
+The orignial variable name:   HC01_EST_VC02
+The user-defined variable name:   None
+The explanation of the variable:   Total; Estimate; Less than high school graduate
+
+The original variable number in CSV:   78
+The associated CSV name:   ACS_10_5YR_S1501_with_ann.csv
+The orignial variable name:   HC03_EST_VC04
+The user-defined variable name:   None
+The explanation of the variable:   Female; Estimate; Some college or associate's degree
+
+The original variable number in CSV:   56
+The associated CSV name:   ACS_10_5YR_S1501_with_ann.csv
+The orignial variable name:   HC02_EST_VC21
+The user-defined variable name:   None
+The explanation of the variable:   Male; Estimate; Bachelor's degree or higher
+

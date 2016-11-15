@@ -1,0 +1,6 @@
+The original variable number in CSV:   1
+The associated CSV name:   ACS_10_5YR_B19013_with_ann.csv
+The orignial variable name:   HD01_VD01
+The user-defined variable name:   acs_mi
+The explanation of the variable:   Estimate; Median household income in the past 12 months (in 2010 inflation-adjusted dollars)
+

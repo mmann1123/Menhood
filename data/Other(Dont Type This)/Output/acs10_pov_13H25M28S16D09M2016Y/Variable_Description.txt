@@ -1,0 +1,36 @@
+The original variable number in CSV:   108
+The associated CSV name:   ACS_10_5YR_S1701_with_ann.csv
+The orignial variable name:   HC02_EST_VC01
+The user-defined variable name:   acs_bpl
+The explanation of the variable:   Below poverty level; Estimate; Population for whom poverty status is determined
+
+The original variable number in CSV:   96
+The associated CSV name:   ACS_10_5YR_S1701_with_ann.csv
+The orignial variable name:   HC03_EST_VC01
+The user-defined variable name:   acs_bplp
+The explanation of the variable:   Percent below poverty level; Estimate; Population for whom poverty status is determined
+
+The original variable number in CSV:   59
+The associated CSV name:   ACS_10_5YR_S1701_with_ann.csv
+The orignial variable name:   HC02_EST_VC09
+The user-defined variable name:   acs_bplm
+The explanation of the variable:   Below poverty level; Estimate; SEX - Male
+
+The original variable number in CSV:   125
+The associated CSV name:   ACS_10_5YR_S1701_with_ann.csv
+The orignial variable name:   HC02_EST_VC10
+The user-defined variable name:   acs_bplf
+The explanation of the variable:   Below poverty level; Estimate; SEX - Female
+
+The original variable number in CSV:   100
+The associated CSV name:   ACS_10_5YR_S1701_with_ann.csv
+The orignial variable name:   HC03_EST_VC09
+The user-defined variable name:   acs_bplmp
+The explanation of the variable:   Percent below poverty level; Estimate; SEX - Male
+
+The original variable number in CSV:   77
+The associated CSV name:   ACS_10_5YR_S1701_with_ann.csv
+The orignial variable name:   HC03_EST_VC10
+The user-defined variable name:   acs_bplfp
+The explanation of the variable:   Percent below poverty level; Estimate; SEX - Female
+

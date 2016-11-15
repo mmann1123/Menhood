@@ -1,0 +1,24 @@
+The original variable number in CSV:   5
+The associated CSV name:   ACS_10_5YR_B11009_with_ann.csv
+The orignial variable name:   HD01_VD03
+The user-defined variable name:   acs_ssm
+The explanation of the variable:   Estimate; Unmarried-partner households: - Male householder and male partner
+
+The original variable number in CSV:   4
+The associated CSV name:   ACS_10_5YR_B11009_with_ann.csv
+The orignial variable name:   HD01_VD04
+The user-defined variable name:   acs_ssmf
+The explanation of the variable:   Estimate; Unmarried-partner households: - Male householder and female partner
+
+The original variable number in CSV:   3
+The associated CSV name:   ACS_10_5YR_B11009_with_ann.csv
+The orignial variable name:   HD01_VD05
+The user-defined variable name:   acs_ssf
+The explanation of the variable:   Estimate; Unmarried-partner households: - Female householder and female partner
+
+The original variable number in CSV:   1
+The associated CSV name:   ACS_10_5YR_B11009_with_ann.csv
+The orignial variable name:   HD01_VD07
+The user-defined variable name:   acs_sso
+The explanation of the variable:   Estimate; All other households
+

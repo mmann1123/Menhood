@@ -1,0 +1,66 @@
+The original variable number in CSV:   45
+The associated CSV name:   ACS_10_5YR_DP03_with_ann.csv
+The orignial variable name:   HC01_VC16
+The user-defined variable name:   acs_lf
+The explanation of the variable:   Estimate; EMPLOYMENT STATUS - In labor force
+
+The original variable number in CSV:   38
+The associated CSV name:   ACS_10_5YR_DP03_with_ann.csv
+The orignial variable name:   HC03_VC09
+The user-defined variable name:   dec_lfp
+The explanation of the variable:   Percent; EMPLOYMENT STATUS - In labor force - Armed Forces
+
+The original variable number in CSV:   153
+The associated CSV name:   ACS_10_5YR_DP03_with_ann.csv
+The orignial variable name:   HC01_VC07
+The user-defined variable name:   acs_em
+The explanation of the variable:   Estimate; EMPLOYMENT STATUS - In labor force - Civilian labor force - Employed
+
+The original variable number in CSV:   40
+The associated CSV name:   ACS_10_5YR_DP03_with_ann.csv
+The orignial variable name:   HC03_VC07
+The user-defined variable name:   acs_emp
+The explanation of the variable:   Percent; EMPLOYMENT STATUS - In labor force - Civilian labor force - Employed
+
+The original variable number in CSV:   40
+The associated CSV name:   ACS_10_5YR_DP03_with_ann.csv
+The orignial variable name:   HC03_VC07
+The user-defined variable name:   acs_emp
+The explanation of the variable:   Percent; EMPLOYMENT STATUS - In labor force - Civilian labor force - Employed
+
+The original variable number in CSV:   156
+The associated CSV name:   ACS_10_5YR_DP03_with_ann.csv
+The orignial variable name:   HC01_VC08
+The user-defined variable name:   acs_ue
+The explanation of the variable:   Estimate; EMPLOYMENT STATUS - In labor force - Civilian labor force - Unemployed
+
+The original variable number in CSV:   39
+The associated CSV name:   ACS_10_5YR_DP03_with_ann.csv
+The orignial variable name:   HC03_VC08
+The user-defined variable name:   acs_uep
+The explanation of the variable:   Percent; EMPLOYMENT STATUS - In labor force - Civilian labor force - Unemployed
+
+The original variable number in CSV:   157
+The associated CSV name:   ACS_10_5YR_DP03_with_ann.csv
+The orignial variable name:   HC01_VC109
+The user-defined variable name:   acs_nw
+The explanation of the variable:   Estimate; INCOME AND BENEFITS (IN 2010 INFLATION-ADJUSTED DOLLARS) - $100,000 to $149,999
+
+The original variable number in CSV:   120
+The associated CSV name:   ACS_10_5YR_DP03_with_ann.csv
+The orignial variable name:   HC03_VC10
+The user-defined variable name:   acs_nwp
+The explanation of the variable:   Percent; EMPLOYMENT STATUS - Not in labor force
+
+The original variable number in CSV:   47
+The associated CSV name:   ACS_10_5YR_DP03_with_ann.csv
+The orignial variable name:   HC01_VC15
+The user-defined variable name:   acs_flf
+The explanation of the variable:   Estimate; EMPLOYMENT STATUS - Females 16 years and over
+
+The original variable number in CSV:   117
+The associated CSV name:   ACS_10_5YR_DP03_with_ann.csv
+The orignial variable name:   HC03_VC15
+The user-defined variable name:   acs_flfp
+The explanation of the variable:   Percent; EMPLOYMENT STATUS - Females 16 years and over
+

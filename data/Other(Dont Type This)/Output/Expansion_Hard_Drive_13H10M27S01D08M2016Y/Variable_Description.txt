@@ -1,0 +1,18 @@
+The original variable number in CSV:   12
+The associated CSV name:   ACS_09_5YR_DP5YR5_with_ann.csv
+The orignial variable name:   HC01_EST_VC76
+The user-defined variable name:   ACS_12
+The explanation of the variable:   Number; Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - White alone
+
+The original variable number in CSV:   43
+The associated CSV name:   ACS_09_5YR_DP5YR5_with_ann.csv
+The orignial variable name:   HC01_EST_VC16
+The user-defined variable name:   ACS_43
+The explanation of the variable:   Number; Estimate; SEX AND AGE - Total population - 75 to 84 years
+
+The original variable number in CSV:   1
+The associated CSV name:   DEC_00_SF3_H070_with_ann.csv
+The orignial variable name:   VD01
+The user-defined variable name:   DEC_00_1
+The explanation of the variable:   Median gross rent as a percentage of household income in 1999
+

@@ -17,7 +17,7 @@ print "\nPlease provide the directory of your data"
 direc = raw_input(">>>>>>")
 print "\nPlease provide the full name of your data"
 name = raw_input(">>>>>>")
-datapath = direc + "\\" + name
+datapath = direc + "/" + name
 
 
 # In[ ]:
@@ -37,7 +37,7 @@ if rowDecision == "yes":
     Origin_NA = Origin.fillna(0)
 else:
     Origin_NA = Origin.dropna(how="any", inplace=False)
-#Get the objectID separately as future index to join back
+#Get the  separately as future index to join back
 print "Getting the first column as the index column"
 OID = Origin_NA.iloc[:,[0]]
 OID_NA = OID.dropna(how='any', inplace=False)
@@ -100,22 +100,22 @@ print('\nEigenvalues \n%s' %eig_vals)
 # In[ ]:
 
 #Showing the precent of variance explained by each components by graph
-print "Showing the precent of variance explained by each components by graph"
-tot = sum(eig_vals)
-var_exp = [(i / tot)*100 for i in sorted(eig_vals, reverse=True)]
-cum_var_exp = np.cumsum(var_exp)
-get_ipython().magic(u'matplotlib inline')
-with plt.style.context('fivethirtyeight'):
-    plt.figure(figsize=(6, 4))
+#print "Showing the precent of variance explained by each components by graph"
+#tot = sum(eig_vals)
+#var_exp = [(i / tot)*100 for i in sorted(eig_vals, reverse=True)]
+#cum_var_exp = np.cumsum(var_exp)
+#get_ipython().magic(u'matplotlib inline')
+#with plt.style.context('gtk3'):
+#    plt.figure(figsize=(6, 4))
 
-    plt.bar(range(len(nameList)), var_exp, alpha=0.5, align='center',
-            label='individual explained variance')
-    plt.step(range(len(nameList)), cum_var_exp, where='mid',
-             label='cumulative explained variance')
-    plt.ylabel('Explained variance ratio')
-    plt.xlabel('Principal components')
-    plt.legend(loc='best')
-    plt.tight_layout()
+#    plt.bar(range(len(nameList)), var_exp, alpha=0.5, align='center',
+#            label='individual explained variance')
+#    plt.step(range(len(nameList)), cum_var_exp, where='mid',
+#             label='cumulative explained variance')
+#    plt.ylabel('Explained variance ratio')
+#    plt.xlabel('Principal components')
+#    plt.legend(loc='best')
+#    plt.tight_layout()
 
 
 # In[ ]:
@@ -139,7 +139,7 @@ PCAresult2.head()
 # In[ ]:
 
 print "Job is done, now saving the PCA result to the directory where the original data located"
-PCAresult2.to_csv(direc+"\\\\" + name[0:-4] + "_PCAresult.csv", index=False)
+PCAresult2.to_csv(direc+"/" + name[0:-4] + "_PCAresult.csv", index=False)
 print "Saved it successfully"
 
 

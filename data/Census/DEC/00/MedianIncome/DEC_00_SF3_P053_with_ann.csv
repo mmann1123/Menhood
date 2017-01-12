@@ -1,789 +1,1 @@
-GEO.id,GEO.id2,GEO.display-label,VD01
-Id,Id2,Geography,Median household income in 1999
-1400000US11001000100,11001000100,"Census Tract 1, District of Columbia, District of Columbia",92540
-1400000US11001000201,11001000201,"Census Tract 2.01, District of Columbia, District of Columbia",87904
-1400000US11001000202,11001000202,"Census Tract 2.02, District of Columbia, District of Columbia",90653
-1400000US11001000300,11001000300,"Census Tract 3, District of Columbia, District of Columbia",73558
-1400000US11001000400,11001000400,"Census Tract 4, District of Columbia, District of Columbia",129133
-1400000US11001000501,11001000501,"Census Tract 5.01, District of Columbia, District of Columbia",65521
-1400000US11001000502,11001000502,"Census Tract 5.02, District of Columbia, District of Columbia",66815
-1400000US11001000600,11001000600,"Census Tract 6, District of Columbia, District of Columbia",89507
-1400000US11001000701,11001000701,"Census Tract 7.01, District of Columbia, District of Columbia",53470
-1400000US11001000702,11001000702,"Census Tract 7.02, District of Columbia, District of Columbia",37244
-1400000US11001000801,11001000801,"Census Tract 8.01, District of Columbia, District of Columbia",80266
-1400000US11001000802,11001000802,"Census Tract 8.02, District of Columbia, District of Columbia",76919
-1400000US11001000901,11001000901,"Census Tract 9.01, District of Columbia, District of Columbia",160829
-1400000US11001000902,11001000902,"Census Tract 9.02, District of Columbia, District of Columbia",119932
-1400000US11001001001,11001001001,"Census Tract 10.01, District of Columbia, District of Columbia",109770
-1400000US11001001002,11001001002,"Census Tract 10.02, District of Columbia, District of Columbia",49647
-1400000US11001001100,11001001100,"Census Tract 11, District of Columbia, District of Columbia",103184
-1400000US11001001200,11001001200,"Census Tract 12, District of Columbia, District of Columbia",77753
-1400000US11001001301,11001001301,"Census Tract 13.01, District of Columbia, District of Columbia",68417
-1400000US11001001302,11001001302,"Census Tract 13.02, District of Columbia, District of Columbia",58790
-1400000US11001001401,11001001401,"Census Tract 14.01, District of Columbia, District of Columbia",87823
-1400000US11001001402,11001001402,"Census Tract 14.02, District of Columbia, District of Columbia",84105
-1400000US11001001500,11001001500,"Census Tract 15, District of Columbia, District of Columbia",107917
-1400000US11001001600,11001001600,"Census Tract 16, District of Columbia, District of Columbia",94624
-1400000US11001001701,11001001701,"Census Tract 17.01, District of Columbia, District of Columbia",47813
-1400000US11001001702,11001001702,"Census Tract 17.02, District of Columbia, District of Columbia",52393
-1400000US11001001801,11001001801,"Census Tract 18.01, District of Columbia, District of Columbia",42188
-1400000US11001001803,11001001803,"Census Tract 18.03, District of Columbia, District of Columbia",34565
-1400000US11001001804,11001001804,"Census Tract 18.04, District of Columbia, District of Columbia",33520
-1400000US11001001901,11001001901,"Census Tract 19.01, District of Columbia, District of Columbia",47339
-1400000US11001001902,11001001902,"Census Tract 19.02, District of Columbia, District of Columbia",54934
-1400000US11001002001,11001002001,"Census Tract 20.01, District of Columbia, District of Columbia",32853
-1400000US11001002002,11001002002,"Census Tract 20.02, District of Columbia, District of Columbia",47619
-1400000US11001002101,11001002101,"Census Tract 21.01, District of Columbia, District of Columbia",34375
-1400000US11001002102,11001002102,"Census Tract 21.02, District of Columbia, District of Columbia",36489
-1400000US11001002201,11001002201,"Census Tract 22.01, District of Columbia, District of Columbia",44388
-1400000US11001002202,11001002202,"Census Tract 22.02, District of Columbia, District of Columbia",37073
-1400000US11001002301,11001002301,"Census Tract 23.01, District of Columbia, District of Columbia",44069
-1400000US11001002302,11001002302,"Census Tract 23.02, District of Columbia, District of Columbia",49519
-1400000US11001002400,11001002400,"Census Tract 24, District of Columbia, District of Columbia",37304
-1400000US11001002501,11001002501,"Census Tract 25.01, District of Columbia, District of Columbia",51510
-1400000US11001002502,11001002502,"Census Tract 25.02, District of Columbia, District of Columbia",32688
-1400000US11001002600,11001002600,"Census Tract 26, District of Columbia, District of Columbia",85180
-1400000US11001002701,11001002701,"Census Tract 27.01, District of Columbia, District of Columbia",35147
-1400000US11001002702,11001002702,"Census Tract 27.02, District of Columbia, District of Columbia",45428
-1400000US11001002801,11001002801,"Census Tract 28.01, District of Columbia, District of Columbia",25038
-1400000US11001002802,11001002802,"Census Tract 28.02, District of Columbia, District of Columbia",22736
-1400000US11001002900,11001002900,"Census Tract 29, District of Columbia, District of Columbia",29602
-1400000US11001003000,11001003000,"Census Tract 30, District of Columbia, District of Columbia",25539
-1400000US11001003100,11001003100,"Census Tract 31, District of Columbia, District of Columbia",36175
-1400000US11001003200,11001003200,"Census Tract 32, District of Columbia, District of Columbia",31662
-1400000US11001003301,11001003301,"Census Tract 33.01, District of Columbia, District of Columbia",39107
-1400000US11001003302,11001003302,"Census Tract 33.02, District of Columbia, District of Columbia",45938
-1400000US11001003400,11001003400,"Census Tract 34, District of Columbia, District of Columbia",18452
-1400000US11001003500,11001003500,"Census Tract 35, District of Columbia, District of Columbia",18940
-1400000US11001003600,11001003600,"Census Tract 36, District of Columbia, District of Columbia",22485
-1400000US11001003700,11001003700,"Census Tract 37, District of Columbia, District of Columbia",26223
-1400000US11001003800,11001003800,"Census Tract 38, District of Columbia, District of Columbia",37889
-1400000US11001003900,11001003900,"Census Tract 39, District of Columbia, District of Columbia",42532
-1400000US11001004001,11001004001,"Census Tract 40.01, District of Columbia, District of Columbia",59008
-1400000US11001004002,11001004002,"Census Tract 40.02, District of Columbia, District of Columbia",54260
-1400000US11001004100,11001004100,"Census Tract 41, District of Columbia, District of Columbia",88170
-1400000US11001004201,11001004201,"Census Tract 42.01, District of Columbia, District of Columbia",53500
-1400000US11001004202,11001004202,"Census Tract 42.02, District of Columbia, District of Columbia",47745
-1400000US11001004300,11001004300,"Census Tract 43, District of Columbia, District of Columbia",39841
-1400000US11001004400,11001004400,"Census Tract 44, District of Columbia, District of Columbia",42500
-1400000US11001004600,11001004600,"Census Tract 46, District of Columbia, District of Columbia",33142
-1400000US11001004700,11001004700,"Census Tract 47, District of Columbia, District of Columbia",14107
-1400000US11001004801,11001004801,"Census Tract 48.01, District of Columbia, District of Columbia",24388
-1400000US11001004802,11001004802,"Census Tract 48.02, District of Columbia, District of Columbia",27559
-1400000US11001004901,11001004901,"Census Tract 49.01, District of Columbia, District of Columbia",18950
-1400000US11001004902,11001004902,"Census Tract 49.02, District of Columbia, District of Columbia",30647
-1400000US11001005000,11001005000,"Census Tract 50, District of Columbia, District of Columbia",33257
-1400000US11001005100,11001005100,"Census Tract 51, District of Columbia, District of Columbia",36250
-1400000US11001005201,11001005201,"Census Tract 52.01, District of Columbia, District of Columbia",35561
-1400000US11001005202,11001005202,"Census Tract 52.02, District of Columbia, District of Columbia",28787
-1400000US11001005301,11001005301,"Census Tract 53.01, District of Columbia, District of Columbia",50510
-1400000US11001005302,11001005302,"Census Tract 53.02, District of Columbia, District of Columbia",64167
-1400000US11001005401,11001005401,"Census Tract 54.01, District of Columbia, District of Columbia",42148
-1400000US11001005402,11001005402,"Census Tract 54.02, District of Columbia, District of Columbia",0
-1400000US11001005500,11001005500,"Census Tract 55, District of Columbia, District of Columbia",59609
-1400000US11001005600,11001005600,"Census Tract 56, District of Columbia, District of Columbia",39286
-1400000US11001005701,11001005701,"Census Tract 57.01, District of Columbia, District of Columbia",9589
-1400000US11001005702,11001005702,"Census Tract 57.02, District of Columbia, District of Columbia",0
-1400000US11001005800,11001005800,"Census Tract 58, District of Columbia, District of Columbia",40644
-1400000US11001005900,11001005900,"Census Tract 59, District of Columbia, District of Columbia",21020
-1400000US11001006001,11001006001,"Census Tract 60.01, District of Columbia, District of Columbia",39875
-1400000US11001006002,11001006002,"Census Tract 60.02, District of Columbia, District of Columbia",14464
-1400000US11001006100,11001006100,"Census Tract 61, District of Columbia, District of Columbia",44107
-1400000US11001006201,11001006201,"Census Tract 62.01, District of Columbia, District of Columbia",63846
-1400000US11001006202,11001006202,"Census Tract 62.02, District of Columbia, District of Columbia",0
-1400000US11001006301,11001006301,"Census Tract 63.01, District of Columbia, District of Columbia",44694
-1400000US11001006302,11001006302,"Census Tract 63.02, District of Columbia, District of Columbia",67292
-1400000US11001006400,11001006400,"Census Tract 64, District of Columbia, District of Columbia",13264
-1400000US11001006500,11001006500,"Census Tract 65, District of Columbia, District of Columbia",61903
-1400000US11001006600,11001006600,"Census Tract 66, District of Columbia, District of Columbia",75761
-1400000US11001006700,11001006700,"Census Tract 67, District of Columbia, District of Columbia",76952
-1400000US11001006801,11001006801,"Census Tract 68.01, District of Columbia, District of Columbia",30662
-1400000US11001006802,11001006802,"Census Tract 68.02, District of Columbia, District of Columbia",39097
-1400000US11001006804,11001006804,"Census Tract 68.04, District of Columbia, District of Columbia",31000
-1400000US11001006900,11001006900,"Census Tract 69, District of Columbia, District of Columbia",51438
-1400000US11001007000,11001007000,"Census Tract 70, District of Columbia, District of Columbia",67109
-1400000US11001007100,11001007100,"Census Tract 71, District of Columbia, District of Columbia",25022
-1400000US11001007200,11001007200,"Census Tract 72, District of Columbia, District of Columbia",8089
-1400000US11001007301,11001007301,"Census Tract 73.01, District of Columbia, District of Columbia",49122
-1400000US11001007302,11001007302,"Census Tract 73.02, District of Columbia, District of Columbia",32791
-1400000US11001007304,11001007304,"Census Tract 73.04, District of Columbia, District of Columbia",22550
-1400000US11001007308,11001007308,"Census Tract 73.08, District of Columbia, District of Columbia",0
-1400000US11001007401,11001007401,"Census Tract 74.01, District of Columbia, District of Columbia",14083
-1400000US11001007403,11001007403,"Census Tract 74.03, District of Columbia, District of Columbia",29095
-1400000US11001007404,11001007404,"Census Tract 74.04, District of Columbia, District of Columbia",9353
-1400000US11001007406,11001007406,"Census Tract 74.06, District of Columbia, District of Columbia",15877
-1400000US11001007407,11001007407,"Census Tract 74.07, District of Columbia, District of Columbia",33125
-1400000US11001007408,11001007408,"Census Tract 74.08, District of Columbia, District of Columbia",19570
-1400000US11001007409,11001007409,"Census Tract 74.09, District of Columbia, District of Columbia",16849
-1400000US11001007502,11001007502,"Census Tract 75.02, District of Columbia, District of Columbia",19950
-1400000US11001007503,11001007503,"Census Tract 75.03, District of Columbia, District of Columbia",21402
-1400000US11001007504,11001007504,"Census Tract 75.04, District of Columbia, District of Columbia",22755
-1400000US11001007601,11001007601,"Census Tract 76.01, District of Columbia, District of Columbia",32930
-1400000US11001007603,11001007603,"Census Tract 76.03, District of Columbia, District of Columbia",32837
-1400000US11001007604,11001007604,"Census Tract 76.04, District of Columbia, District of Columbia",35811
-1400000US11001007605,11001007605,"Census Tract 76.05, District of Columbia, District of Columbia",32500
-1400000US11001007703,11001007703,"Census Tract 77.03, District of Columbia, District of Columbia",25240
-1400000US11001007707,11001007707,"Census Tract 77.07, District of Columbia, District of Columbia",33592
-1400000US11001007708,11001007708,"Census Tract 77.08, District of Columbia, District of Columbia",25382
-1400000US11001007709,11001007709,"Census Tract 77.09, District of Columbia, District of Columbia",29332
-1400000US11001007803,11001007803,"Census Tract 78.03, District of Columbia, District of Columbia",27295
-1400000US11001007804,11001007804,"Census Tract 78.04, District of Columbia, District of Columbia",21130
-1400000US11001007806,11001007806,"Census Tract 78.06, District of Columbia, District of Columbia",31921
-1400000US11001007807,11001007807,"Census Tract 78.07, District of Columbia, District of Columbia",34050
-1400000US11001007808,11001007808,"Census Tract 78.08, District of Columbia, District of Columbia",24267
-1400000US11001007809,11001007809,"Census Tract 78.09, District of Columbia, District of Columbia",28719
-1400000US11001007901,11001007901,"Census Tract 79.01, District of Columbia, District of Columbia",24327
-1400000US11001007903,11001007903,"Census Tract 79.03, District of Columbia, District of Columbia",36280
-1400000US11001008001,11001008001,"Census Tract 80.01, District of Columbia, District of Columbia",41949
-1400000US11001008002,11001008002,"Census Tract 80.02, District of Columbia, District of Columbia",50025
-1400000US11001008100,11001008100,"Census Tract 81, District of Columbia, District of Columbia",62742
-1400000US11001008200,11001008200,"Census Tract 82, District of Columbia, District of Columbia",58274
-1400000US11001008301,11001008301,"Census Tract 83.01, District of Columbia, District of Columbia",66550
-1400000US11001008302,11001008302,"Census Tract 83.02, District of Columbia, District of Columbia",67868
-1400000US11001008402,11001008402,"Census Tract 84.02, District of Columbia, District of Columbia",31484
-1400000US11001008410,11001008410,"Census Tract 84.10, District of Columbia, District of Columbia",43333
-1400000US11001008500,11001008500,"Census Tract 85, District of Columbia, District of Columbia",35225
-1400000US11001008600,11001008600,"Census Tract 86, District of Columbia, District of Columbia",58750
-1400000US11001008701,11001008701,"Census Tract 87.01, District of Columbia, District of Columbia",40234
-1400000US11001008702,11001008702,"Census Tract 87.02, District of Columbia, District of Columbia",29961
-1400000US11001008802,11001008802,"Census Tract 88.02, District of Columbia, District of Columbia",28462
-1400000US11001008803,11001008803,"Census Tract 88.03, District of Columbia, District of Columbia",17857
-1400000US11001008804,11001008804,"Census Tract 88.04, District of Columbia, District of Columbia",24489
-1400000US11001008903,11001008903,"Census Tract 89.03, District of Columbia, District of Columbia",29698
-1400000US11001008904,11001008904,"Census Tract 89.04, District of Columbia, District of Columbia",21540
-1400000US11001008905,11001008905,"Census Tract 89.05, District of Columbia, District of Columbia",0
-1400000US11001009000,11001009000,"Census Tract 90, District of Columbia, District of Columbia",22610
-1400000US11001009101,11001009101,"Census Tract 91.01, District of Columbia, District of Columbia",38854
-1400000US11001009102,11001009102,"Census Tract 91.02, District of Columbia, District of Columbia",27713
-1400000US11001009201,11001009201,"Census Tract 92.01, District of Columbia, District of Columbia",30268
-1400000US11001009203,11001009203,"Census Tract 92.03, District of Columbia, District of Columbia",31419
-1400000US11001009204,11001009204,"Census Tract 92.04, District of Columbia, District of Columbia",22063
-1400000US11001009301,11001009301,"Census Tract 93.01, District of Columbia, District of Columbia",51125
-1400000US11001009302,11001009302,"Census Tract 93.02, District of Columbia, District of Columbia",41875
-1400000US11001009400,11001009400,"Census Tract 94, District of Columbia, District of Columbia",53558
-1400000US11001009501,11001009501,"Census Tract 95.01, District of Columbia, District of Columbia",28605
-1400000US11001009503,11001009503,"Census Tract 95.03, District of Columbia, District of Columbia",61667
-1400000US11001009504,11001009504,"Census Tract 95.04, District of Columbia, District of Columbia",43211
-1400000US11001009505,11001009505,"Census Tract 95.05, District of Columbia, District of Columbia",46023
-1400000US11001009507,11001009507,"Census Tract 95.07, District of Columbia, District of Columbia",41359
-1400000US11001009508,11001009508,"Census Tract 95.08, District of Columbia, District of Columbia",41972
-1400000US11001009509,11001009509,"Census Tract 95.09, District of Columbia, District of Columbia",53883
-1400000US11001009601,11001009601,"Census Tract 96.01, District of Columbia, District of Columbia",32571
-1400000US11001009602,11001009602,"Census Tract 96.02, District of Columbia, District of Columbia",21746
-1400000US11001009603,11001009603,"Census Tract 96.03, District of Columbia, District of Columbia",31898
-1400000US11001009604,11001009604,"Census Tract 96.04, District of Columbia, District of Columbia",32672
-1400000US11001009700,11001009700,"Census Tract 97, District of Columbia, District of Columbia",33086
-1400000US11001009801,11001009801,"Census Tract 98.01, District of Columbia, District of Columbia",16250
-1400000US11001009802,11001009802,"Census Tract 98.02, District of Columbia, District of Columbia",25871
-1400000US11001009803,11001009803,"Census Tract 98.03, District of Columbia, District of Columbia",23292
-1400000US11001009804,11001009804,"Census Tract 98.04, District of Columbia, District of Columbia",22539
-1400000US11001009806,11001009806,"Census Tract 98.06, District of Columbia, District of Columbia",20167
-1400000US11001009807,11001009807,"Census Tract 98.07, District of Columbia, District of Columbia",30076
-1400000US11001009808,11001009808,"Census Tract 98.08, District of Columbia, District of Columbia",25708
-1400000US11001009809,11001009809,"Census Tract 98.09, District of Columbia, District of Columbia",0
-1400000US11001009901,11001009901,"Census Tract 99.01, District of Columbia, District of Columbia",61174
-1400000US11001009902,11001009902,"Census Tract 99.02, District of Columbia, District of Columbia",41146
-1400000US11001009903,11001009903,"Census Tract 99.03, District of Columbia, District of Columbia",19143
-1400000US11001009904,11001009904,"Census Tract 99.04, District of Columbia, District of Columbia",26745
-1400000US11001009905,11001009905,"Census Tract 99.05, District of Columbia, District of Columbia",25778
-1400000US11001009906,11001009906,"Census Tract 99.06, District of Columbia, District of Columbia",24457
-1400000US11001009907,11001009907,"Census Tract 99.07, District of Columbia, District of Columbia",20176
-1400000US24031700101,24031700101,"Census Tract 7001.01, Montgomery County, Maryland",127529
-1400000US24031700102,24031700102,"Census Tract 7001.02, Montgomery County, Maryland",80192
-1400000US24031700103,24031700103,"Census Tract 7001.03, Montgomery County, Maryland",106727
-1400000US24031700202,24031700202,"Census Tract 7002.02, Montgomery County, Maryland",61920
-1400000US24031700204,24031700204,"Census Tract 7002.04, Montgomery County, Maryland",63810
-1400000US24031700205,24031700205,"Census Tract 7002.05, Montgomery County, Maryland",90399
-1400000US24031700206,24031700206,"Census Tract 7002.06, Montgomery County, Maryland",79585
-1400000US24031700302,24031700302,"Census Tract 7003.02, Montgomery County, Maryland",87060
-1400000US24031700304,24031700304,"Census Tract 7003.04, Montgomery County, Maryland",74975
-1400000US24031700306,24031700306,"Census Tract 7003.06, Montgomery County, Maryland",73841
-1400000US24031700308,24031700308,"Census Tract 7003.08, Montgomery County, Maryland",71003
-1400000US24031700309,24031700309,"Census Tract 7003.09, Montgomery County, Maryland",58363
-1400000US24031700310,24031700310,"Census Tract 7003.10, Montgomery County, Maryland",64215
-1400000US24031700400,24031700400,"Census Tract 7004, Montgomery County, Maryland",91859
-1400000US24031700500,24031700500,"Census Tract 7005, Montgomery County, Maryland",82082
-1400000US24031700604,24031700604,"Census Tract 7006.04, Montgomery County, Maryland",130626
-1400000US24031700605,24031700605,"Census Tract 7006.05, Montgomery County, Maryland",110802
-1400000US24031700606,24031700606,"Census Tract 7006.06, Montgomery County, Maryland",103848
-1400000US24031700607,24031700607,"Census Tract 7006.07, Montgomery County, Maryland",107386
-1400000US24031700608,24031700608,"Census Tract 7006.08, Montgomery County, Maryland",158255
-1400000US24031700609,24031700609,"Census Tract 7006.09, Montgomery County, Maryland",69675
-1400000US24031700610,24031700610,"Census Tract 7006.10, Montgomery County, Maryland",98417
-1400000US24031700704,24031700704,"Census Tract 7007.04, Montgomery County, Maryland",70667
-1400000US24031700705,24031700705,"Census Tract 7007.05, Montgomery County, Maryland",49882
-1400000US24031700706,24031700706,"Census Tract 7007.06, Montgomery County, Maryland",49567
-1400000US24031700708,24031700708,"Census Tract 7007.08, Montgomery County, Maryland",54472
-1400000US24031700710,24031700710,"Census Tract 7007.10, Montgomery County, Maryland",81853
-1400000US24031700711,24031700711,"Census Tract 7007.11, Montgomery County, Maryland",77070
-1400000US24031700712,24031700712,"Census Tract 7007.12, Montgomery County, Maryland",54474
-1400000US24031700713,24031700713,"Census Tract 7007.13, Montgomery County, Maryland",50279
-1400000US24031700714,24031700714,"Census Tract 7007.14, Montgomery County, Maryland",41922
-1400000US24031700715,24031700715,"Census Tract 7007.15, Montgomery County, Maryland",72500
-1400000US24031700716,24031700716,"Census Tract 7007.16, Montgomery County, Maryland",70147
-1400000US24031700805,24031700805,"Census Tract 7008.05, Montgomery County, Maryland",66270
-1400000US24031700806,24031700806,"Census Tract 7008.06, Montgomery County, Maryland",92043
-1400000US24031700808,24031700808,"Census Tract 7008.08, Montgomery County, Maryland",61345
-1400000US24031700809,24031700809,"Census Tract 7008.09, Montgomery County, Maryland",71129
-1400000US24031700810,24031700810,"Census Tract 7008.10, Montgomery County, Maryland",77325
-1400000US24031700811,24031700811,"Census Tract 7008.11, Montgomery County, Maryland",65792
-1400000US24031700812,24031700812,"Census Tract 7008.12, Montgomery County, Maryland",58750
-1400000US24031700813,24031700813,"Census Tract 7008.13, Montgomery County, Maryland",68293
-1400000US24031700815,24031700815,"Census Tract 7008.15, Montgomery County, Maryland",63304
-1400000US24031700816,24031700816,"Census Tract 7008.16, Montgomery County, Maryland",58762
-1400000US24031700817,24031700817,"Census Tract 7008.17, Montgomery County, Maryland",64438
-1400000US24031700818,24031700818,"Census Tract 7008.18, Montgomery County, Maryland",47047
-1400000US24031700819,24031700819,"Census Tract 7008.19, Montgomery County, Maryland",63652
-1400000US24031700901,24031700901,"Census Tract 7009.01, Montgomery County, Maryland",47500
-1400000US24031700902,24031700902,"Census Tract 7009.02, Montgomery County, Maryland",52321
-1400000US24031700903,24031700903,"Census Tract 7009.03, Montgomery County, Maryland",57908
-1400000US24031700904,24031700904,"Census Tract 7009.04, Montgomery County, Maryland",31875
-1400000US24031700905,24031700905,"Census Tract 7009.05, Montgomery County, Maryland",47478
-1400000US24031701001,24031701001,"Census Tract 7010.01, Montgomery County, Maryland",77619
-1400000US24031701002,24031701002,"Census Tract 7010.02, Montgomery County, Maryland",122136
-1400000US24031701003,24031701003,"Census Tract 7010.03, Montgomery County, Maryland",99880
-1400000US24031701004,24031701004,"Census Tract 7010.04, Montgomery County, Maryland",72759
-1400000US24031701005,24031701005,"Census Tract 7010.05, Montgomery County, Maryland",97567
-1400000US24031701101,24031701101,"Census Tract 7011.01, Montgomery County, Maryland",68125
-1400000US24031701102,24031701102,"Census Tract 7011.02, Montgomery County, Maryland",59487
-1400000US24031701201,24031701201,"Census Tract 7012.01, Montgomery County, Maryland",60823
-1400000US24031701202,24031701202,"Census Tract 7012.02, Montgomery County, Maryland",92175
-1400000US24031701204,24031701204,"Census Tract 7012.04, Montgomery County, Maryland",51865
-1400000US24031701205,24031701205,"Census Tract 7012.05, Montgomery County, Maryland",140219
-1400000US24031701206,24031701206,"Census Tract 7012.06, Montgomery County, Maryland",101508
-1400000US24031701209,24031701209,"Census Tract 7012.09, Montgomery County, Maryland",129055
-1400000US24031701210,24031701210,"Census Tract 7012.10, Montgomery County, Maryland",141126
-1400000US24031701211,24031701211,"Census Tract 7012.11, Montgomery County, Maryland",78921
-1400000US24031701212,24031701212,"Census Tract 7012.12, Montgomery County, Maryland",108012
-1400000US24031701213,24031701213,"Census Tract 7012.13, Montgomery County, Maryland",88371
-1400000US24031701214,24031701214,"Census Tract 7012.14, Montgomery County, Maryland",60793
-1400000US24031701215,24031701215,"Census Tract 7012.15, Montgomery County, Maryland",66658
-1400000US24031701303,24031701303,"Census Tract 7013.03, Montgomery County, Maryland",117749
-1400000US24031701304,24031701304,"Census Tract 7013.04, Montgomery County, Maryland",94452
-1400000US24031701306,24031701306,"Census Tract 7013.06, Montgomery County, Maryland",103111
-1400000US24031701307,24031701307,"Census Tract 7013.07, Montgomery County, Maryland",112572
-1400000US24031701308,24031701308,"Census Tract 7013.08, Montgomery County, Maryland",129424
-1400000US24031701309,24031701309,"Census Tract 7013.09, Montgomery County, Maryland",94413
-1400000US24031701310,24031701310,"Census Tract 7013.10, Montgomery County, Maryland",85227
-1400000US24031701312,24031701312,"Census Tract 7013.12, Montgomery County, Maryland",90599
-1400000US24031701313,24031701313,"Census Tract 7013.13, Montgomery County, Maryland",96380
-1400000US24031701407,24031701407,"Census Tract 7014.07, Montgomery County, Maryland",104215
-1400000US24031701408,24031701408,"Census Tract 7014.08, Montgomery County, Maryland",84639
-1400000US24031701409,24031701409,"Census Tract 7014.09, Montgomery County, Maryland",89614
-1400000US24031701410,24031701410,"Census Tract 7014.10, Montgomery County, Maryland",71952
-1400000US24031701412,24031701412,"Census Tract 7014.12, Montgomery County, Maryland",66134
-1400000US24031701414,24031701414,"Census Tract 7014.14, Montgomery County, Maryland",75304
-1400000US24031701415,24031701415,"Census Tract 7014.15, Montgomery County, Maryland",78662
-1400000US24031701416,24031701416,"Census Tract 7014.16, Montgomery County, Maryland",48629
-1400000US24031701417,24031701417,"Census Tract 7014.17, Montgomery County, Maryland",47609
-1400000US24031701503,24031701503,"Census Tract 7015.03, Montgomery County, Maryland",80385
-1400000US24031701504,24031701504,"Census Tract 7015.04, Montgomery County, Maryland",43368
-1400000US24031701505,24031701505,"Census Tract 7015.05, Montgomery County, Maryland",58264
-1400000US24031701506,24031701506,"Census Tract 7015.06, Montgomery County, Maryland",92599
-1400000US24031701507,24031701507,"Census Tract 7015.07, Montgomery County, Maryland",94533
-1400000US24031701600,24031701600,"Census Tract 7016, Montgomery County, Maryland",43929
-1400000US24031701701,24031701701,"Census Tract 7017.01, Montgomery County, Maryland",47138
-1400000US24031701702,24031701702,"Census Tract 7017.02, Montgomery County, Maryland",36946
-1400000US24031701703,24031701703,"Census Tract 7017.03, Montgomery County, Maryland",50192
-1400000US24031701704,24031701704,"Census Tract 7017.04, Montgomery County, Maryland",60022
-1400000US24031701800,24031701800,"Census Tract 7018, Montgomery County, Maryland",52593
-1400000US24031701900,24031701900,"Census Tract 7019, Montgomery County, Maryland",38208
-1400000US24031702000,24031702000,"Census Tract 7020, Montgomery County, Maryland",41758
-1400000US24031702101,24031702101,"Census Tract 7021.01, Montgomery County, Maryland",45938
-1400000US24031702102,24031702102,"Census Tract 7021.02, Montgomery County, Maryland",91651
-1400000US24031702200,24031702200,"Census Tract 7022, Montgomery County, Maryland",79014
-1400000US24031702301,24031702301,"Census Tract 7023.01, Montgomery County, Maryland",43208
-1400000US24031702302,24031702302,"Census Tract 7023.02, Montgomery County, Maryland",57770
-1400000US24031702401,24031702401,"Census Tract 7024.01, Montgomery County, Maryland",70372
-1400000US24031702402,24031702402,"Census Tract 7024.02, Montgomery County, Maryland",41037
-1400000US24031702500,24031702500,"Census Tract 7025, Montgomery County, Maryland",36275
-1400000US24031702601,24031702601,"Census Tract 7026.01, Montgomery County, Maryland",44351
-1400000US24031702602,24031702602,"Census Tract 7026.02, Montgomery County, Maryland",48930
-1400000US24031702700,24031702700,"Census Tract 7027, Montgomery County, Maryland",55379
-1400000US24031702800,24031702800,"Census Tract 7028, Montgomery County, Maryland",57171
-1400000US24031702900,24031702900,"Census Tract 7029, Montgomery County, Maryland",82457
-1400000US24031703000,24031703000,"Census Tract 7030, Montgomery County, Maryland",72500
-1400000US24031703100,24031703100,"Census Tract 7031, Montgomery County, Maryland",63808
-1400000US24031703201,24031703201,"Census Tract 7032.01, Montgomery County, Maryland",80573
-1400000US24031703202,24031703202,"Census Tract 7032.02, Montgomery County, Maryland",85964
-1400000US24031703203,24031703203,"Census Tract 7032.03, Montgomery County, Maryland",46079
-1400000US24031703206,24031703206,"Census Tract 7032.06, Montgomery County, Maryland",69821
-1400000US24031703207,24031703207,"Census Tract 7032.07, Montgomery County, Maryland",56719
-1400000US24031703208,24031703208,"Census Tract 7032.08, Montgomery County, Maryland",91841
-1400000US24031703209,24031703209,"Census Tract 7032.09, Montgomery County, Maryland",47056
-1400000US24031703210,24031703210,"Census Tract 7032.10, Montgomery County, Maryland",70647
-1400000US24031703211,24031703211,"Census Tract 7032.11, Montgomery County, Maryland",65192
-1400000US24031703212,24031703212,"Census Tract 7032.12, Montgomery County, Maryland",76106
-1400000US24031703213,24031703213,"Census Tract 7032.13, Montgomery County, Maryland",41796
-1400000US24031703214,24031703214,"Census Tract 7032.14, Montgomery County, Maryland",42240
-1400000US24031703215,24031703215,"Census Tract 7032.15, Montgomery County, Maryland",59172
-1400000US24031703301,24031703301,"Census Tract 7033.01, Montgomery County, Maryland",65000
-1400000US24031703302,24031703302,"Census Tract 7033.02, Montgomery County, Maryland",59306
-1400000US24031703401,24031703401,"Census Tract 7034.01, Montgomery County, Maryland",56773
-1400000US24031703402,24031703402,"Census Tract 7034.02, Montgomery County, Maryland",62120
-1400000US24031703403,24031703403,"Census Tract 7034.03, Montgomery County, Maryland",59952
-1400000US24031703404,24031703404,"Census Tract 7034.04, Montgomery County, Maryland",58125
-1400000US24031703501,24031703501,"Census Tract 7035.01, Montgomery County, Maryland",45796
-1400000US24031703502,24031703502,"Census Tract 7035.02, Montgomery County, Maryland",60893
-1400000US24031703601,24031703601,"Census Tract 7036.01, Montgomery County, Maryland",68652
-1400000US24031703602,24031703602,"Census Tract 7036.02, Montgomery County, Maryland",77301
-1400000US24031703701,24031703701,"Census Tract 7037.01, Montgomery County, Maryland",60227
-1400000US24031703702,24031703702,"Census Tract 7037.02, Montgomery County, Maryland",60395
-1400000US24031703800,24031703800,"Census Tract 7038, Montgomery County, Maryland",46992
-1400000US24031703901,24031703901,"Census Tract 7039.01, Montgomery County, Maryland",73911
-1400000US24031703902,24031703902,"Census Tract 7039.02, Montgomery County, Maryland",57326
-1400000US24031704000,24031704000,"Census Tract 7040, Montgomery County, Maryland",53186
-1400000US24031704100,24031704100,"Census Tract 7041, Montgomery County, Maryland",114602
-1400000US24031704200,24031704200,"Census Tract 7042, Montgomery County, Maryland",76716
-1400000US24031704300,24031704300,"Census Tract 7043, Montgomery County, Maryland",97025
-1400000US24031704401,24031704401,"Census Tract 7044.01, Montgomery County, Maryland",96980
-1400000US24031704402,24031704402,"Census Tract 7044.02, Montgomery County, Maryland",84161
-1400000US24031704501,24031704501,"Census Tract 7045.01, Montgomery County, Maryland",90562
-1400000US24031704502,24031704502,"Census Tract 7045.02, Montgomery County, Maryland",126831
-1400000US24031704503,24031704503,"Census Tract 7045.03, Montgomery County, Maryland",109765
-1400000US24031704600,24031704600,"Census Tract 7046, Montgomery County, Maryland",92754
-1400000US24031704700,24031704700,"Census Tract 7047, Montgomery County, Maryland",156565
-1400000US24031704801,24031704801,"Census Tract 7048.01, Montgomery County, Maryland",53667
-1400000US24031704802,24031704802,"Census Tract 7048.02, Montgomery County, Maryland",59110
-1400000US24031705000,24031705000,"Census Tract 7050, Montgomery County, Maryland",83179
-1400000US24031705100,24031705100,"Census Tract 7051, Montgomery County, Maryland",112224
-1400000US24031705200,24031705200,"Census Tract 7052, Montgomery County, Maryland",156623
-1400000US24031705300,24031705300,"Census Tract 7053, Montgomery County, Maryland","200,000+"
-1400000US24031705400,24031705400,"Census Tract 7054, Montgomery County, Maryland",160331
-1400000US24031705500,24031705500,"Census Tract 7055, Montgomery County, Maryland",94221
-1400000US24031705601,24031705601,"Census Tract 7056.01, Montgomery County, Maryland",113956
-1400000US24031705602,24031705602,"Census Tract 7056.02, Montgomery County, Maryland",61912
-1400000US24031705701,24031705701,"Census Tract 7057.01, Montgomery County, Maryland",114855
-1400000US24031705702,24031705702,"Census Tract 7057.02, Montgomery County, Maryland",130972
-1400000US24031705800,24031705800,"Census Tract 7058, Montgomery County, Maryland",124487
-1400000US24031705901,24031705901,"Census Tract 7059.01, Montgomery County, Maryland",146968
-1400000US24031705902,24031705902,"Census Tract 7059.02, Montgomery County, Maryland",145278
-1400000US24031705903,24031705903,"Census Tract 7059.03, Montgomery County, Maryland",131798
-1400000US24031706003,24031706003,"Census Tract 7060.03, Montgomery County, Maryland",126297
-1400000US24031706004,24031706004,"Census Tract 7060.04, Montgomery County, Maryland",71836
-1400000US24031706005,24031706005,"Census Tract 7060.05, Montgomery County, Maryland",172620
-1400000US24031706007,24031706007,"Census Tract 7060.07, Montgomery County, Maryland",155373
-1400000US24031706008,24031706008,"Census Tract 7060.08, Montgomery County, Maryland","200,000+"
-1400000US24031706009,24031706009,"Census Tract 7060.09, Montgomery County, Maryland",161535
-1400000US24033800102,24033800102,"Census Tract 8001.02, Prince George's County, Maryland",37094
-1400000US24033800103,24033800103,"Census Tract 8001.03, Prince George's County, Maryland",35979
-1400000US24033800105,24033800105,"Census Tract 8001.05, Prince George's County, Maryland",59152
-1400000US24033800106,24033800106,"Census Tract 8001.06, Prince George's County, Maryland",60847
-1400000US24033800107,24033800107,"Census Tract 8001.07, Prince George's County, Maryland",44140
-1400000US24033800202,24033800202,"Census Tract 8002.02, Prince George's County, Maryland",61336
-1400000US24033800203,24033800203,"Census Tract 8002.03, Prince George's County, Maryland",83663
-1400000US24033800206,24033800206,"Census Tract 8002.06, Prince George's County, Maryland",57578
-1400000US24033800207,24033800207,"Census Tract 8002.07, Prince George's County, Maryland",52797
-1400000US24033800208,24033800208,"Census Tract 8002.08, Prince George's County, Maryland",76607
-1400000US24033800209,24033800209,"Census Tract 8002.09, Prince George's County, Maryland",40513
-1400000US24033800210,24033800210,"Census Tract 8002.10, Prince George's County, Maryland",44522
-1400000US24033800211,24033800211,"Census Tract 8002.11, Prince George's County, Maryland",42391
-1400000US24033800401,24033800401,"Census Tract 8004.01, Prince George's County, Maryland",77591
-1400000US24033800402,24033800402,"Census Tract 8004.02, Prince George's County, Maryland",74174
-1400000US24033800403,24033800403,"Census Tract 8004.03, Prince George's County, Maryland",74013
-1400000US24033800406,24033800406,"Census Tract 8004.06, Prince George's County, Maryland",82703
-1400000US24033800407,24033800407,"Census Tract 8004.07, Prince George's County, Maryland",58277
-1400000US24033800408,24033800408,"Census Tract 8004.08, Prince George's County, Maryland",86236
-1400000US24033800409,24033800409,"Census Tract 8004.09, Prince George's County, Maryland",90335
-1400000US24033800503,24033800503,"Census Tract 8005.03, Prince George's County, Maryland",80040
-1400000US24033800504,24033800504,"Census Tract 8005.04, Prince George's County, Maryland",73798
-1400000US24033800505,24033800505,"Census Tract 8005.05, Prince George's County, Maryland",72148
-1400000US24033800507,24033800507,"Census Tract 8005.07, Prince George's County, Maryland",76721
-1400000US24033800508,24033800508,"Census Tract 8005.08, Prince George's County, Maryland",107614
-1400000US24033800509,24033800509,"Census Tract 8005.09, Prince George's County, Maryland",92078
-1400000US24033800510,24033800510,"Census Tract 8005.10, Prince George's County, Maryland",67185
-1400000US24033800511,24033800511,"Census Tract 8005.11, Prince George's County, Maryland",74884
-1400000US24033800512,24033800512,"Census Tract 8005.12, Prince George's County, Maryland",77434
-1400000US24033800601,24033800601,"Census Tract 8006.01, Prince George's County, Maryland",69792
-1400000US24033800603,24033800603,"Census Tract 8006.03, Prince George's County, Maryland",86502
-1400000US24033800604,24033800604,"Census Tract 8006.04, Prince George's County, Maryland",72823
-1400000US24033800605,24033800605,"Census Tract 8006.05, Prince George's County, Maryland",73015
-1400000US24033800606,24033800606,"Census Tract 8006.06, Prince George's County, Maryland",57868
-1400000US24033800701,24033800701,"Census Tract 8007.01, Prince George's County, Maryland",83827
-1400000US24033800702,24033800702,"Census Tract 8007.02, Prince George's County, Maryland",78046
-1400000US24033800703,24033800703,"Census Tract 8007.03, Prince George's County, Maryland",73042
-1400000US24033800800,24033800800,"Census Tract 8008, Prince George's County, Maryland",76255
-1400000US24033800900,24033800900,"Census Tract 8009, Prince George's County, Maryland",63365
-1400000US24033801001,24033801001,"Census Tract 8010.01, Prince George's County, Maryland",59057
-1400000US24033801002,24033801002,"Census Tract 8010.02, Prince George's County, Maryland",83891
-1400000US24033801104,24033801104,"Census Tract 8011.04, Prince George's County, Maryland",44310
-1400000US24033801202,24033801202,"Census Tract 8012.02, Prince George's County, Maryland",71552
-1400000US24033801203,24033801203,"Census Tract 8012.03, Prince George's County, Maryland",73375
-1400000US24033801204,24033801204,"Census Tract 8012.04, Prince George's County, Maryland",75695
-1400000US24033801205,24033801205,"Census Tract 8012.05, Prince George's County, Maryland",60123
-1400000US24033801206,24033801206,"Census Tract 8012.06, Prince George's County, Maryland",72407
-1400000US24033801207,24033801207,"Census Tract 8012.07, Prince George's County, Maryland",72684
-1400000US24033801301,24033801301,"Census Tract 8013.01, Prince George's County, Maryland",80683
-1400000US24033801302,24033801302,"Census Tract 8013.02, Prince George's County, Maryland",74609
-1400000US24033801305,24033801305,"Census Tract 8013.05, Prince George's County, Maryland",80644
-1400000US24033801306,24033801306,"Census Tract 8013.06, Prince George's County, Maryland",77302
-1400000US24033801307,24033801307,"Census Tract 8013.07, Prince George's County, Maryland",98698
-1400000US24033801308,24033801308,"Census Tract 8013.08, Prince George's County, Maryland",89520
-1400000US24033801309,24033801309,"Census Tract 8013.09, Prince George's County, Maryland",99246
-1400000US24033801402,24033801402,"Census Tract 8014.02, Prince George's County, Maryland",56094
-1400000US24033801403,24033801403,"Census Tract 8014.03, Prince George's County, Maryland",83844
-1400000US24033801404,24033801404,"Census Tract 8014.04, Prince George's County, Maryland",55650
-1400000US24033801405,24033801405,"Census Tract 8014.05, Prince George's County, Maryland",47250
-1400000US24033801406,24033801406,"Census Tract 8014.06, Prince George's County, Maryland",56411
-1400000US24033801407,24033801407,"Census Tract 8014.07, Prince George's County, Maryland",65365
-1400000US24033801500,24033801500,"Census Tract 8015, Prince George's County, Maryland",58257
-1400000US24033801600,24033801600,"Census Tract 8016, Prince George's County, Maryland",38438
-1400000US24033801701,24033801701,"Census Tract 8017.01, Prince George's County, Maryland",49493
-1400000US24033801702,24033801702,"Census Tract 8017.02, Prince George's County, Maryland",42127
-1400000US24033801704,24033801704,"Census Tract 8017.04, Prince George's County, Maryland",35976
-1400000US24033801706,24033801706,"Census Tract 8017.06, Prince George's County, Maryland",48477
-1400000US24033801707,24033801707,"Census Tract 8017.07, Prince George's County, Maryland",42639
-1400000US24033801708,24033801708,"Census Tract 8017.08, Prince George's County, Maryland",41523
-1400000US24033801801,24033801801,"Census Tract 8018.01, Prince George's County, Maryland",42031
-1400000US24033801802,24033801802,"Census Tract 8018.02, Prince George's County, Maryland",44727
-1400000US24033801804,24033801804,"Census Tract 8018.04, Prince George's County, Maryland",67120
-1400000US24033801805,24033801805,"Census Tract 8018.05, Prince George's County, Maryland",41071
-1400000US24033801807,24033801807,"Census Tract 8018.07, Prince George's County, Maryland",43854
-1400000US24033801808,24033801808,"Census Tract 8018.08, Prince George's County, Maryland",46221
-1400000US24033801901,24033801901,"Census Tract 8019.01, Prince George's County, Maryland",74158
-1400000US24033801902,24033801902,"Census Tract 8019.02, Prince George's County, Maryland",42121
-1400000US24033801904,24033801904,"Census Tract 8019.04, Prince George's County, Maryland",51366
-1400000US24033801905,24033801905,"Census Tract 8019.05, Prince George's County, Maryland",63170
-1400000US24033801906,24033801906,"Census Tract 8019.06, Prince George's County, Maryland",49071
-1400000US24033802001,24033802001,"Census Tract 8020.01, Prince George's County, Maryland",41145
-1400000US24033802002,24033802002,"Census Tract 8020.02, Prince George's County, Maryland",52052
-1400000US24033802103,24033802103,"Census Tract 8021.03, Prince George's County, Maryland",59967
-1400000US24033802104,24033802104,"Census Tract 8021.04, Prince George's County, Maryland",44779
-1400000US24033802105,24033802105,"Census Tract 8021.05, Prince George's County, Maryland",38247
-1400000US24033802201,24033802201,"Census Tract 8022.01, Prince George's County, Maryland",50254
-1400000US24033802203,24033802203,"Census Tract 8022.03, Prince George's County, Maryland",50899
-1400000US24033802204,24033802204,"Census Tract 8022.04, Prince George's County, Maryland",66712
-1400000US24033802301,24033802301,"Census Tract 8023.01, Prince George's County, Maryland",62642
-1400000US24033802403,24033802403,"Census Tract 8024.03, Prince George's County, Maryland",36344
-1400000US24033802404,24033802404,"Census Tract 8024.04, Prince George's County, Maryland",37638
-1400000US24033802405,24033802405,"Census Tract 8024.05, Prince George's County, Maryland",44323
-1400000US24033802406,24033802406,"Census Tract 8024.06, Prince George's County, Maryland",44787
-1400000US24033802501,24033802501,"Census Tract 8025.01, Prince George's County, Maryland",40346
-1400000US24033802502,24033802502,"Census Tract 8025.02, Prince George's County, Maryland",36618
-1400000US24033802600,24033802600,"Census Tract 8026, Prince George's County, Maryland",45341
-1400000US24033802700,24033802700,"Census Tract 8027, Prince George's County, Maryland",38958
-1400000US24033802803,24033802803,"Census Tract 8028.03, Prince George's County, Maryland",45944
-1400000US24033802804,24033802804,"Census Tract 8028.04, Prince George's County, Maryland",51386
-1400000US24033802805,24033802805,"Census Tract 8028.05, Prince George's County, Maryland",49068
-1400000US24033802901,24033802901,"Census Tract 8029.01, Prince George's County, Maryland",41985
-1400000US24033803001,24033803001,"Census Tract 8030.01, Prince George's County, Maryland",47121
-1400000US24033803002,24033803002,"Census Tract 8030.02, Prince George's County, Maryland",48472
-1400000US24033803100,24033803100,"Census Tract 8031, Prince George's County, Maryland",41284
-1400000US24033803200,24033803200,"Census Tract 8032, Prince George's County, Maryland",31267
-1400000US24033803300,24033803300,"Census Tract 8033, Prince George's County, Maryland",42872
-1400000US24033803401,24033803401,"Census Tract 8034.01, Prince George's County, Maryland",30565
-1400000US24033803402,24033803402,"Census Tract 8034.02, Prince George's County, Maryland",40976
-1400000US24033803505,24033803505,"Census Tract 8035.05, Prince George's County, Maryland",69038
-1400000US24033803508,24033803508,"Census Tract 8035.08, Prince George's County, Maryland",35927
-1400000US24033803509,24033803509,"Census Tract 8035.09, Prince George's County, Maryland",29187
-1400000US24033803512,24033803512,"Census Tract 8035.12, Prince George's County, Maryland",60326
-1400000US24033803513,24033803513,"Census Tract 8035.13, Prince George's County, Maryland",57941
-1400000US24033803514,24033803514,"Census Tract 8035.14, Prince George's County, Maryland",60583
-1400000US24033803515,24033803515,"Census Tract 8035.15, Prince George's County, Maryland",83070
-1400000US24033803516,24033803516,"Census Tract 8035.16, Prince George's County, Maryland",67344
-1400000US24033803517,24033803517,"Census Tract 8035.17, Prince George's County, Maryland",95799
-1400000US24033803518,24033803518,"Census Tract 8035.18, Prince George's County, Maryland",41362
-1400000US24033803519,24033803519,"Census Tract 8035.19, Prince George's County, Maryland",49821
-1400000US24033803601,24033803601,"Census Tract 8036.01, Prince George's County, Maryland",72321
-1400000US24033803602,24033803602,"Census Tract 8036.02, Prince George's County, Maryland",40156
-1400000US24033803605,24033803605,"Census Tract 8036.05, Prince George's County, Maryland",67088
-1400000US24033803606,24033803606,"Census Tract 8036.06, Prince George's County, Maryland",67008
-1400000US24033803607,24033803607,"Census Tract 8036.07, Prince George's County, Maryland",76988
-1400000US24033803608,24033803608,"Census Tract 8036.08, Prince George's County, Maryland",63059
-1400000US24033803610,24033803610,"Census Tract 8036.10, Prince George's County, Maryland",66739
-1400000US24033803612,24033803612,"Census Tract 8036.12, Prince George's County, Maryland",38478
-1400000US24033803613,24033803613,"Census Tract 8036.13, Prince George's County, Maryland",43663
-1400000US24033803700,24033803700,"Census Tract 8037, Prince George's County, Maryland",52143
-1400000US24033803801,24033803801,"Census Tract 8038.01, Prince George's County, Maryland",60375
-1400000US24033803803,24033803803,"Census Tract 8038.03, Prince George's County, Maryland",50444
-1400000US24033803900,24033803900,"Census Tract 8039, Prince George's County, Maryland",44427
-1400000US24033804001,24033804001,"Census Tract 8040.01, Prince George's County, Maryland",31103
-1400000US24033804002,24033804002,"Census Tract 8040.02, Prince George's County, Maryland",42463
-1400000US24033804101,24033804101,"Census Tract 8041.01, Prince George's County, Maryland",54135
-1400000US24033804102,24033804102,"Census Tract 8041.02, Prince George's County, Maryland",45608
-1400000US24033804200,24033804200,"Census Tract 8042, Prince George's County, Maryland",74474
-1400000US24033804300,24033804300,"Census Tract 8043, Prince George's County, Maryland",35985
-1400000US24033804400,24033804400,"Census Tract 8044, Prince George's County, Maryland",41351
-1400000US24033804600,24033804600,"Census Tract 8046, Prince George's County, Maryland",46650
-1400000US24033804700,24033804700,"Census Tract 8047, Prince George's County, Maryland",45000
-1400000US24033804800,24033804800,"Census Tract 8048, Prince George's County, Maryland",30884
-1400000US24033804900,24033804900,"Census Tract 8049, Prince George's County, Maryland",37460
-1400000US24033805000,24033805000,"Census Tract 8050, Prince George's County, Maryland",38452
-1400000US24033805101,24033805101,"Census Tract 8051.01, Prince George's County, Maryland",37094
-1400000US24033805201,24033805201,"Census Tract 8052.01, Prince George's County, Maryland",41190
-1400000US24033805202,24033805202,"Census Tract 8052.02, Prince George's County, Maryland",38447
-1400000US24033805500,24033805500,"Census Tract 8055, Prince George's County, Maryland",38004
-1400000US24033805601,24033805601,"Census Tract 8056.01, Prince George's County, Maryland",34785
-1400000US24033805602,24033805602,"Census Tract 8056.02, Prince George's County, Maryland",39813
-1400000US24033805700,24033805700,"Census Tract 8057, Prince George's County, Maryland",40875
-1400000US24033805801,24033805801,"Census Tract 8058.01, Prince George's County, Maryland",55563
-1400000US24033805802,24033805802,"Census Tract 8058.02, Prince George's County, Maryland",55781
-1400000US24033805901,24033805901,"Census Tract 8059.01, Prince George's County, Maryland",36752
-1400000US24033805904,24033805904,"Census Tract 8059.04, Prince George's County, Maryland",60495
-1400000US24033805905,24033805905,"Census Tract 8059.05, Prince George's County, Maryland",39945
-1400000US24033806000,24033806000,"Census Tract 8060, Prince George's County, Maryland",48014
-1400000US24033806100,24033806100,"Census Tract 8061, Prince George's County, Maryland",51032
-1400000US24033806200,24033806200,"Census Tract 8062, Prince George's County, Maryland",45348
-1400000US24033806300,24033806300,"Census Tract 8063, Prince George's County, Maryland",44141
-1400000US24033806400,24033806400,"Census Tract 8064, Prince George's County, Maryland",82849
-1400000US24033806501,24033806501,"Census Tract 8065.01, Prince George's County, Maryland",41034
-1400000US24033806601,24033806601,"Census Tract 8066.01, Prince George's County, Maryland",41789
-1400000US24033806602,24033806602,"Census Tract 8066.02, Prince George's County, Maryland",47500
-1400000US24033806703,24033806703,"Census Tract 8067.03, Prince George's County, Maryland",36257
-1400000US24033806706,24033806706,"Census Tract 8067.06, Prince George's County, Maryland",61667
-1400000US24033806708,24033806708,"Census Tract 8067.08, Prince George's County, Maryland",42363
-1400000US24033806710,24033806710,"Census Tract 8067.10, Prince George's County, Maryland",61399
-1400000US24033806711,24033806711,"Census Tract 8067.11, Prince George's County, Maryland",50994
-1400000US24033806712,24033806712,"Census Tract 8067.12, Prince George's County, Maryland",50884
-1400000US24033806800,24033806800,"Census Tract 8068, Prince George's County, Maryland",66694
-1400000US24033806900,24033806900,"Census Tract 8069, Prince George's County, Maryland",56667
-1400000US24033807000,24033807000,"Census Tract 8070, Prince George's County, Maryland",45171
-1400000US24033807102,24033807102,"Census Tract 8071.02, Prince George's County, Maryland",57969
-1400000US24033807200,24033807200,"Census Tract 8072, Prince George's County, Maryland",29449
-1400000US24033807301,24033807301,"Census Tract 8073.01, Prince George's County, Maryland",45313
-1400000US24033807304,24033807304,"Census Tract 8073.04, Prince George's County, Maryland",71500
-1400000US24033807305,24033807305,"Census Tract 8073.05, Prince George's County, Maryland",69688
-1400000US24033807404,24033807404,"Census Tract 8074.04, Prince George's County, Maryland",61333
-1400000US24033807405,24033807405,"Census Tract 8074.05, Prince George's County, Maryland",63320
-1400000US24033807406,24033807406,"Census Tract 8074.06, Prince George's County, Maryland",49727
-1400000US24033807407,24033807407,"Census Tract 8074.07, Prince George's County, Maryland",61106
-1400000US24033807408,24033807408,"Census Tract 8074.08, Prince George's County, Maryland",55220
-1400000US51013100100,51013100100,"Census Tract 1001, Arlington County, Virginia",92851
-1400000US51013100200,51013100200,"Census Tract 1002, Arlington County, Virginia",104633
-1400000US51013100300,51013100300,"Census Tract 1003, Arlington County, Virginia",130240
-1400000US51013100400,51013100400,"Census Tract 1004, Arlington County, Virginia",131419
-1400000US51013100500,51013100500,"Census Tract 1005, Arlington County, Virginia",115529
-1400000US51013100600,51013100600,"Census Tract 1006, Arlington County, Virginia",77186
-1400000US51013100700,51013100700,"Census Tract 1007, Arlington County, Virginia",76312
-1400000US51013100800,51013100800,"Census Tract 1008, Arlington County, Virginia",54417
-1400000US51013100900,51013100900,"Census Tract 1009, Arlington County, Virginia",72656
-1400000US51013101000,51013101000,"Census Tract 1010, Arlington County, Virginia",85795
-1400000US51013101100,51013101100,"Census Tract 1011, Arlington County, Virginia",101673
-1400000US51013101200,51013101200,"Census Tract 1012, Arlington County, Virginia",77934
-1400000US51013101300,51013101300,"Census Tract 1013, Arlington County, Virginia",86734
-1400000US51013101400,51013101400,"Census Tract 1014, Arlington County, Virginia",71463
-1400000US51013101500,51013101500,"Census Tract 1015, Arlington County, Virginia",59754
-1400000US51013101600,51013101600,"Census Tract 1016, Arlington County, Virginia",61809
-1400000US51013101700,51013101700,"Census Tract 1017, Arlington County, Virginia",48870
-1400000US51013101800,51013101800,"Census Tract 1018, Arlington County, Virginia",64810
-1400000US51013101900,51013101900,"Census Tract 1019, Arlington County, Virginia",90968
-1400000US51013102000,51013102000,"Census Tract 1020, Arlington County, Virginia",42571
-1400000US51013102100,51013102100,"Census Tract 1021, Arlington County, Virginia",67167
-1400000US51013102200,51013102200,"Census Tract 1022, Arlington County, Virginia",40370
-1400000US51013102300,51013102300,"Census Tract 1023, Arlington County, Virginia",71042
-1400000US51013102400,51013102400,"Census Tract 1024, Arlington County, Virginia",59444
-1400000US51013102500,51013102500,"Census Tract 1025, Arlington County, Virginia",51118
-1400000US51013102600,51013102600,"Census Tract 1026, Arlington County, Virginia",65128
-1400000US51013102700,51013102700,"Census Tract 1027, Arlington County, Virginia",38646
-1400000US51013102800,51013102800,"Census Tract 1028, Arlington County, Virginia",47721
-1400000US51013102900,51013102900,"Census Tract 1029, Arlington County, Virginia",62535
-1400000US51013103000,51013103000,"Census Tract 1030, Arlington County, Virginia",74222
-1400000US51013103100,51013103100,"Census Tract 1031, Arlington County, Virginia",43851
-1400000US51013103200,51013103200,"Census Tract 1032, Arlington County, Virginia",47188
-1400000US51013103300,51013103300,"Census Tract 1033, Arlington County, Virginia",47000
-1400000US51013103401,51013103401,"Census Tract 1034.01, Arlington County, Virginia",52292
-1400000US51013103402,51013103402,"Census Tract 1034.02, Arlington County, Virginia",71210
-1400000US51013103500,51013103500,"Census Tract 1035, Arlington County, Virginia",56265
-1400000US51013103600,51013103600,"Census Tract 1036, Arlington County, Virginia",70614
-1400000US51013103700,51013103700,"Census Tract 1037, Arlington County, Virginia",118307
-1400000US51013103800,51013103800,"Census Tract 1038, Arlington County, Virginia",48192
-1400000US51059415100,51059415100,"Census Tract 4151, Fairfax County, Virginia",79301
-1400000US51059415200,51059415200,"Census Tract 4152, Fairfax County, Virginia",56795
-1400000US51059415300,51059415300,"Census Tract 4153, Fairfax County, Virginia",62299
-1400000US51059415400,51059415400,"Census Tract 4154, Fairfax County, Virginia",58766
-1400000US51059415500,51059415500,"Census Tract 4155, Fairfax County, Virginia",65917
-1400000US51059415600,51059415600,"Census Tract 4156, Fairfax County, Virginia",109410
-1400000US51059415700,51059415700,"Census Tract 4157, Fairfax County, Virginia",99786
-1400000US51059415800,51059415800,"Census Tract 4158, Fairfax County, Virginia",107723
-1400000US51059415900,51059415900,"Census Tract 4159, Fairfax County, Virginia",105796
-1400000US51059416000,51059416000,"Census Tract 4160, Fairfax County, Virginia",61628
-1400000US51059416100,51059416100,"Census Tract 4161, Fairfax County, Virginia",111205
-1400000US51059416200,51059416200,"Census Tract 4162, Fairfax County, Virginia",46675
-1400000US51059416300,51059416300,"Census Tract 4163, Fairfax County, Virginia",89595
-1400000US51059420100,51059420100,"Census Tract 4201, Fairfax County, Virginia",72183
-1400000US51059420200,51059420200,"Census Tract 4202, Fairfax County, Virginia",83645
-1400000US51059420300,51059420300,"Census Tract 4203, Fairfax County, Virginia",81852
-1400000US51059420400,51059420400,"Census Tract 4204, Fairfax County, Virginia",48173
-1400000US51059420500,51059420500,"Census Tract 4205, Fairfax County, Virginia",55827
-1400000US51059420600,51059420600,"Census Tract 4206, Fairfax County, Virginia",52384
-1400000US51059420700,51059420700,"Census Tract 4207, Fairfax County, Virginia",78771
-1400000US51059420800,51059420800,"Census Tract 4208, Fairfax County, Virginia",76585
-1400000US51059421000,51059421000,"Census Tract 4210, Fairfax County, Virginia",70716
-1400000US51059421100,51059421100,"Census Tract 4211, Fairfax County, Virginia",85000
-1400000US51059421200,51059421200,"Census Tract 4212, Fairfax County, Virginia",98259
-1400000US51059421300,51059421300,"Census Tract 4213, Fairfax County, Virginia",88933
-1400000US51059421400,51059421400,"Census Tract 4214, Fairfax County, Virginia",43970
-1400000US51059421500,51059421500,"Census Tract 4215, Fairfax County, Virginia",34055
-1400000US51059421600,51059421600,"Census Tract 4216, Fairfax County, Virginia",45382
-1400000US51059421700,51059421700,"Census Tract 4217, Fairfax County, Virginia",61602
-1400000US51059421800,51059421800,"Census Tract 4218, Fairfax County, Virginia",44423
-1400000US51059421900,51059421900,"Census Tract 4219, Fairfax County, Virginia",33266
-1400000US51059422000,51059422000,"Census Tract 4220, Fairfax County, Virginia",56552
-1400000US51059422100,51059422100,"Census Tract 4221, Fairfax County, Virginia",54190
-1400000US51059422200,51059422200,"Census Tract 4222, Fairfax County, Virginia",127308
-1400000US51059422300,51059422300,"Census Tract 4223, Fairfax County, Virginia",66698
-1400000US51059422400,51059422400,"Census Tract 4224, Fairfax County, Virginia",78087
-1400000US51059430100,51059430100,"Census Tract 4301, Fairfax County, Virginia",94202
-1400000US51059430200,51059430200,"Census Tract 4302, Fairfax County, Virginia",89068
-1400000US51059430400,51059430400,"Census Tract 4304, Fairfax County, Virginia",90056
-1400000US51059430500,51059430500,"Census Tract 4305, Fairfax County, Virginia",84356
-1400000US51059430600,51059430600,"Census Tract 4306, Fairfax County, Virginia",64934
-1400000US51059430700,51059430700,"Census Tract 4307, Fairfax County, Virginia",70721
-1400000US51059430800,51059430800,"Census Tract 4308, Fairfax County, Virginia",69397
-1400000US51059430900,51059430900,"Census Tract 4309, Fairfax County, Virginia",78716
-1400000US51059431000,51059431000,"Census Tract 4310, Fairfax County, Virginia",82579
-1400000US51059431300,51059431300,"Census Tract 4313, Fairfax County, Virginia",91053
-1400000US51059431400,51059431400,"Census Tract 4314, Fairfax County, Virginia",90614
-1400000US51059431500,51059431500,"Census Tract 4315, Fairfax County, Virginia",102732
-1400000US51059431600,51059431600,"Census Tract 4316, Fairfax County, Virginia",71907
-1400000US51059431800,51059431800,"Census Tract 4318, Fairfax County, Virginia",87392
-1400000US51059431900,51059431900,"Census Tract 4319, Fairfax County, Virginia",115123
-1400000US51059432000,51059432000,"Census Tract 4320, Fairfax County, Virginia",81152
-1400000US51059432100,51059432100,"Census Tract 4321, Fairfax County, Virginia",75724
-1400000US51059432200,51059432200,"Census Tract 4322, Fairfax County, Virginia",75770
-1400000US51059432300,51059432300,"Census Tract 4323, Fairfax County, Virginia",106613
-1400000US51059432400,51059432400,"Census Tract 4324, Fairfax County, Virginia",114043
-1400000US51059432500,51059432500,"Census Tract 4325, Fairfax County, Virginia",108982
-1400000US51059432600,51059432600,"Census Tract 4326, Fairfax County, Virginia",100544
-1400000US51059432700,51059432700,"Census Tract 4327, Fairfax County, Virginia",81135
-1400000US51059432800,51059432800,"Census Tract 4328, Fairfax County, Virginia",72847
-1400000US51059440100,51059440100,"Census Tract 4401, Fairfax County, Virginia",88367
-1400000US51059440200,51059440200,"Census Tract 4402, Fairfax County, Virginia",58783
-1400000US51059440300,51059440300,"Census Tract 4403, Fairfax County, Virginia",117690
-1400000US51059440500,51059440500,"Census Tract 4405, Fairfax County, Virginia",101668
-1400000US51059440600,51059440600,"Census Tract 4406, Fairfax County, Virginia",76162
-1400000US51059440700,51059440700,"Census Tract 4407, Fairfax County, Virginia",100710
-1400000US51059440800,51059440800,"Census Tract 4408, Fairfax County, Virginia",98019
-1400000US51059450100,51059450100,"Census Tract 4501, Fairfax County, Virginia",63699
-1400000US51059450200,51059450200,"Census Tract 4502, Fairfax County, Virginia",70806
-1400000US51059450300,51059450300,"Census Tract 4503, Fairfax County, Virginia",65705
-1400000US51059450400,51059450400,"Census Tract 4504, Fairfax County, Virginia",82288
-1400000US51059450500,51059450500,"Census Tract 4505, Fairfax County, Virginia",64038
-1400000US51059450600,51059450600,"Census Tract 4506, Fairfax County, Virginia",68284
-1400000US51059450700,51059450700,"Census Tract 4507, Fairfax County, Virginia",61151
-1400000US51059450800,51059450800,"Census Tract 4508, Fairfax County, Virginia",83611
-1400000US51059450900,51059450900,"Census Tract 4509, Fairfax County, Virginia",86192
-1400000US51059451000,51059451000,"Census Tract 4510, Fairfax County, Virginia",79272
-1400000US51059451100,51059451100,"Census Tract 4511, Fairfax County, Virginia",104150
-1400000US51059451200,51059451200,"Census Tract 4512, Fairfax County, Virginia",130247
-1400000US51059451300,51059451300,"Census Tract 4513, Fairfax County, Virginia",102705
-1400000US51059451400,51059451400,"Census Tract 4514, Fairfax County, Virginia",39896
-1400000US51059451500,51059451500,"Census Tract 4515, Fairfax County, Virginia",46504
-1400000US51059451600,51059451600,"Census Tract 4516, Fairfax County, Virginia",49387
-1400000US51059451800,51059451800,"Census Tract 4518, Fairfax County, Virginia",86180
-1400000US51059451900,51059451900,"Census Tract 4519, Fairfax County, Virginia",66054
-1400000US51059452000,51059452000,"Census Tract 4520, Fairfax County, Virginia",86601
-1400000US51059452100,51059452100,"Census Tract 4521, Fairfax County, Virginia",74250
-1400000US51059452200,51059452200,"Census Tract 4522, Fairfax County, Virginia",60000
-1400000US51059452300,51059452300,"Census Tract 4523, Fairfax County, Virginia",50247
-1400000US51059452400,51059452400,"Census Tract 4524, Fairfax County, Virginia",65343
-1400000US51059452500,51059452500,"Census Tract 4525, Fairfax County, Virginia",58367
-1400000US51059452600,51059452600,"Census Tract 4526, Fairfax County, Virginia",64156
-1400000US51059452700,51059452700,"Census Tract 4527, Fairfax County, Virginia",49183
-1400000US51059452800,51059452800,"Census Tract 4528, Fairfax County, Virginia",55862
-1400000US51059460100,51059460100,"Census Tract 4601, Fairfax County, Virginia",133839
-1400000US51059460200,51059460200,"Census Tract 4602, Fairfax County, Virginia",137545
-1400000US51059460300,51059460300,"Census Tract 4603, Fairfax County, Virginia",121470
-1400000US51059460400,51059460400,"Census Tract 4604, Fairfax County, Virginia",90000
-1400000US51059460500,51059460500,"Census Tract 4605, Fairfax County, Virginia",109236
-1400000US51059460600,51059460600,"Census Tract 4606, Fairfax County, Virginia",83752
-1400000US51059460700,51059460700,"Census Tract 4607, Fairfax County, Virginia",78677
-1400000US51059460800,51059460800,"Census Tract 4608, Fairfax County, Virginia",83124
-1400000US51059460900,51059460900,"Census Tract 4609, Fairfax County, Virginia",112411
-1400000US51059461000,51059461000,"Census Tract 4610, Fairfax County, Virginia",86034
-1400000US51059461100,51059461100,"Census Tract 4611, Fairfax County, Virginia",107037
-1400000US51059461200,51059461200,"Census Tract 4612, Fairfax County, Virginia",124759
-1400000US51059461500,51059461500,"Census Tract 4615, Fairfax County, Virginia",114913
-1400000US51059461600,51059461600,"Census Tract 4616, Fairfax County, Virginia",78213
-1400000US51059461700,51059461700,"Census Tract 4617, Fairfax County, Virginia",72774
-1400000US51059461800,51059461800,"Census Tract 4618, Fairfax County, Virginia",71514
-1400000US51059461900,51059461900,"Census Tract 4619, Fairfax County, Virginia",48523
-1400000US51059470100,51059470100,"Census Tract 4701, Fairfax County, Virginia","200,000+"
-1400000US51059470200,51059470200,"Census Tract 4702, Fairfax County, Virginia",0
-1400000US51059470300,51059470300,"Census Tract 4703, Fairfax County, Virginia",163311
-1400000US51059470400,51059470400,"Census Tract 4704, Fairfax County, Virginia",140558
-1400000US51059470500,51059470500,"Census Tract 4705, Fairfax County, Virginia",115251
-1400000US51059470600,51059470600,"Census Tract 4706, Fairfax County, Virginia",103421
-1400000US51059470700,51059470700,"Census Tract 4707, Fairfax County, Virginia",107735
-1400000US51059470800,51059470800,"Census Tract 4708, Fairfax County, Virginia",108898
-1400000US51059470900,51059470900,"Census Tract 4709, Fairfax County, Virginia",99100
-1400000US51059471000,51059471000,"Census Tract 4710, Fairfax County, Virginia",87828
-1400000US51059471100,51059471100,"Census Tract 4711, Fairfax County, Virginia",64628
-1400000US51059471200,51059471200,"Census Tract 4712, Fairfax County, Virginia",64965
-1400000US51059471300,51059471300,"Census Tract 4713, Fairfax County, Virginia",68554
-1400000US51059471400,51059471400,"Census Tract 4714, Fairfax County, Virginia",63873
-1400000US51059480100,51059480100,"Census Tract 4801, Fairfax County, Virginia",167568
-1400000US51059480200,51059480200,"Census Tract 4802, Fairfax County, Virginia",88145
-1400000US51059480300,51059480300,"Census Tract 4803, Fairfax County, Virginia",156614
-1400000US51059480400,51059480400,"Census Tract 4804, Fairfax County, Virginia",158326
-1400000US51059480500,51059480500,"Census Tract 4805, Fairfax County, Virginia",98141
-1400000US51059480800,51059480800,"Census Tract 4808, Fairfax County, Virginia",81126
-1400000US51059480900,51059480900,"Census Tract 4809, Fairfax County, Virginia",66435
-1400000US51059481000,51059481000,"Census Tract 4810, Fairfax County, Virginia",69464
-1400000US51059481100,51059481100,"Census Tract 4811, Fairfax County, Virginia",95838
-1400000US51059481200,51059481200,"Census Tract 4812, Fairfax County, Virginia",66577
-1400000US51059481400,51059481400,"Census Tract 4814, Fairfax County, Virginia",84722
-1400000US51059481500,51059481500,"Census Tract 4815, Fairfax County, Virginia",131935
-1400000US51059481600,51059481600,"Census Tract 4816, Fairfax County, Virginia",148805
-1400000US51059481700,51059481700,"Census Tract 4817, Fairfax County, Virginia",108626
-1400000US51059481900,51059481900,"Census Tract 4819, Fairfax County, Virginia",76261
-1400000US51059482000,51059482000,"Census Tract 4820, Fairfax County, Virginia",112617
-1400000US51059482100,51059482100,"Census Tract 4821, Fairfax County, Virginia",73657
-1400000US51059482200,51059482200,"Census Tract 4822, Fairfax County, Virginia",64014
-1400000US51059482300,51059482300,"Census Tract 4823, Fairfax County, Virginia",75395
-1400000US51059482400,51059482400,"Census Tract 4824, Fairfax County, Virginia",145272
-1400000US51059482500,51059482500,"Census Tract 4825, Fairfax County, Virginia",105025
-1400000US51059482600,51059482600,"Census Tract 4826, Fairfax County, Virginia",110307
-1400000US51059490100,51059490100,"Census Tract 4901, Fairfax County, Virginia",84092
-1400000US51059490500,51059490500,"Census Tract 4905, Fairfax County, Virginia",92214
-1400000US51059490900,51059490900,"Census Tract 4909, Fairfax County, Virginia",111048
-1400000US51059491000,51059491000,"Census Tract 4910, Fairfax County, Virginia",139034
-1400000US51059491100,51059491100,"Census Tract 4911, Fairfax County, Virginia",88480
-1400000US51059491200,51059491200,"Census Tract 4912, Fairfax County, Virginia",64414
-1400000US51059491300,51059491300,"Census Tract 4913, Fairfax County, Virginia",69772
-1400000US51059491400,51059491400,"Census Tract 4914, Fairfax County, Virginia",83289
-1400000US51059491500,51059491500,"Census Tract 4915, Fairfax County, Virginia",117168
-1400000US51059491600,51059491600,"Census Tract 4916, Fairfax County, Virginia",79938
-1400000US51059491700,51059491700,"Census Tract 4917, Fairfax County, Virginia",70828
-1400000US51059491800,51059491800,"Census Tract 4918, Fairfax County, Virginia",76126
-1400000US51059491900,51059491900,"Census Tract 4919, Fairfax County, Virginia",146949
-1400000US51059492000,51059492000,"Census Tract 4920, Fairfax County, Virginia",149613
-1400000US51059492100,51059492100,"Census Tract 4921, Fairfax County, Virginia",136000
-1400000US51059492200,51059492200,"Census Tract 4922, Fairfax County, Virginia",133564
-1400000US51059492300,51059492300,"Census Tract 4923, Fairfax County, Virginia",83322
-1400000US51059492400,51059492400,"Census Tract 4924, Fairfax County, Virginia",65563
-1400000US51510200101,51510200101,"Census Tract 2001.01, Alexandria city, Virginia",56588
-1400000US51510200102,51510200102,"Census Tract 2001.02, Alexandria city, Virginia",51551
-1400000US51510200103,51510200103,"Census Tract 2001.03, Alexandria city, Virginia",45772
-1400000US51510200104,51510200104,"Census Tract 2001.04, Alexandria city, Virginia",48179
-1400000US51510200105,51510200105,"Census Tract 2001.05, Alexandria city, Virginia",36901
-1400000US51510200201,51510200201,"Census Tract 2002.01, Alexandria city, Virginia",51667
-1400000US51510200202,51510200202,"Census Tract 2002.02, Alexandria city, Virginia",127378
-1400000US51510200301,51510200301,"Census Tract 2003.01, Alexandria city, Virginia",52500
-1400000US51510200302,51510200302,"Census Tract 2003.02, Alexandria city, Virginia",65817
-1400000US51510200303,51510200303,"Census Tract 2003.03, Alexandria city, Virginia",42939
-1400000US51510200401,51510200401,"Census Tract 2004.01, Alexandria city, Virginia",52712
-1400000US51510200402,51510200402,"Census Tract 2004.02, Alexandria city, Virginia",46274
-1400000US51510200500,51510200500,"Census Tract 2005, Alexandria city, Virginia",39882
-1400000US51510200600,51510200600,"Census Tract 2006, Alexandria city, Virginia",55926
-1400000US51510200700,51510200700,"Census Tract 2007, Alexandria city, Virginia",66818
-1400000US51510200801,51510200801,"Census Tract 2008.01, Alexandria city, Virginia",104623
-1400000US51510200802,51510200802,"Census Tract 2008.02, Alexandria city, Virginia",60029
-1400000US51510200900,51510200900,"Census Tract 2009, Alexandria city, Virginia",105129
-1400000US51510201000,51510201000,"Census Tract 2010, Alexandria city, Virginia",56042
-1400000US51510201100,51510201100,"Census Tract 2011, Alexandria city, Virginia",98495
-1400000US51510201202,51510201202,"Census Tract 2012.02, Alexandria city, Virginia",56711
-1400000US51510201203,51510201203,"Census Tract 2012.03, Alexandria city, Virginia",40599
-1400000US51510201204,51510201204,"Census Tract 2012.04, Alexandria city, Virginia",40878
-1400000US51510201300,51510201300,"Census Tract 2013, Alexandria city, Virginia",56531
-1400000US51510201400,51510201400,"Census Tract 2014, Alexandria city, Virginia",65739
-1400000US51510201500,51510201500,"Census Tract 2015, Alexandria city, Virginia",106417
-1400000US51510201600,51510201600,"Census Tract 2016, Alexandria city, Virginia",60806
-1400000US51510201801,51510201801,"Census Tract 2018.01, Alexandria city, Virginia",66646
-1400000US51510201802,51510201802,"Census Tract 2018.02, Alexandria city, Virginia",97864
-1400000US51510201900,51510201900,"Census Tract 2019, Alexandria city, Virginia",89394
-1400000US51510202001,51510202001,"Census Tract 2020.01, Alexandria city, Virginia",130899
-1400000US51510202002,51510202002,"Census Tract 2020.02, Alexandria city, Virginia",59583
-1400000US51610500100,51610500100,"Census Tract 5001, Falls Church city, Virginia",85587
-1400000US51610500200,51610500200,"Census Tract 5002, Falls Church city, Virginia",69896
-1400000US51610500300,51610500300,"Census Tract 5003, Falls Church city, Virginia",78159
+GEO.id,GEO.id2,GEO.display-label,VD01,Id,Id2,Geography,Median household income in 1999,1400000US11001000100,11001000100,"Census Tract 1, District of Columbia, District of Columbia",92540,121134.861400000US11001000201,11001000201,"Census Tract 2.01, District of Columbia, District of Columbia",87904,115066.341400000US11001000202,11001000202,"Census Tract 2.02, District of Columbia, District of Columbia",90653,118664.781400000US11001000300,11001000300,"Census Tract 3, District of Columbia, District of Columbia",73558,96287.421400000US11001000400,11001000400,"Census Tract 4, District of Columbia, District of Columbia",129133,169035.101400000US11001000501,11001000501,"Census Tract 5.01, District of Columbia, District of Columbia",65521,85766.991400000US11001000502,11001000502,"Census Tract 5.02, District of Columbia, District of Columbia",66815,87460.841400000US11001000600,11001000600,"Census Tract 6, District of Columbia, District of Columbia",89507,117164.661400000US11001000701,11001000701,"Census Tract 7.01, District of Columbia, District of Columbia",53470,69992.231400000US11001000702,11001000702,"Census Tract 7.02, District of Columbia, District of Columbia",37244,48752.401400000US11001000801,11001000801,"Census Tract 8.01, District of Columbia, District of Columbia",80266,105068.191400000US11001000802,11001000802,"Census Tract 8.02, District of Columbia, District of Columbia",76919,100686.971400000US11001000901,11001000901,"Census Tract 9.01, District of Columbia, District of Columbia",160829,210525.161400000US11001000902,11001000902,"Census Tract 9.02, District of Columbia, District of Columbia",119932,156990.991400000US11001001001,11001001001,"Census Tract 10.01, District of Columbia, District of Columbia",109770,143688.931400000US11001001002,11001001002,"Census Tract 10.02, District of Columbia, District of Columbia",49647,64987.921400000US11001001100,11001001100,"Census Tract 11, District of Columbia, District of Columbia",103184,135067.861400000US11001001200,11001001200,"Census Tract 12, District of Columbia, District of Columbia",77753,101778.681400000US11001001301,11001001301,"Census Tract 13.01, District of Columbia, District of Columbia",68417,89557.851400000US11001001302,11001001302,"Census Tract 13.02, District of Columbia, District of Columbia",58790,76956.111400000US11001001401,11001001401,"Census Tract 14.01, District of Columbia, District of Columbia",87823,114960.311400000US11001001402,11001001402,"Census Tract 14.02, District of Columbia, District of Columbia",84105,110093.451400000US11001001500,11001001500,"Census Tract 15, District of Columbia, District of Columbia",107917,141263.351400000US11001001600,11001001600,"Census Tract 16, District of Columbia, District of Columbia",94624,123862.821400000US11001001701,11001001701,"Census Tract 17.01, District of Columbia, District of Columbia",47813,62587.221400000US11001001702,11001001702,"Census Tract 17.02, District of Columbia, District of Columbia",52393,68582.441400000US11001001801,11001001801,"Census Tract 18.01, District of Columbia, District of Columbia",42188,55224.091400000US11001001803,11001001803,"Census Tract 18.03, District of Columbia, District of Columbia",34565,45245.591400000US11001001804,11001001804,"Census Tract 18.04, District of Columbia, District of Columbia",33520,43877.681400000US11001001901,11001001901,"Census Tract 19.01, District of Columbia, District of Columbia",47339,61966.751400000US11001001902,11001001902,"Census Tract 19.02, District of Columbia, District of Columbia",54934,71908.611400000US11001002001,11001002001,"Census Tract 20.01, District of Columbia, District of Columbia",32853,43004.581400000US11001002002,11001002002,"Census Tract 20.02, District of Columbia, District of Columbia",47619,62333.271400000US11001002101,11001002101,"Census Tract 21.01, District of Columbia, District of Columbia",34375,44996.881400000US11001002102,11001002102,"Census Tract 21.02, District of Columbia, District of Columbia",36489,47764.101400000US11001002201,11001002201,"Census Tract 22.01, District of Columbia, District of Columbia",44388,58103.891400000US11001002202,11001002202,"Census Tract 22.02, District of Columbia, District of Columbia",37073,48528.561400000US11001002301,11001002301,"Census Tract 23.01, District of Columbia, District of Columbia",44069,57686.321400000US11001002302,11001002302,"Census Tract 23.02, District of Columbia, District of Columbia",49519,64820.371400000US11001002400,11001002400,"Census Tract 24, District of Columbia, District of Columbia",37304,48830.941400000US11001002501,11001002501,"Census Tract 25.01, District of Columbia, District of Columbia",51510,67426.591400000US11001002502,11001002502,"Census Tract 25.02, District of Columbia, District of Columbia",32688,42788.591400000US11001002600,11001002600,"Census Tract 26, District of Columbia, District of Columbia",85180,111500.621400000US11001002701,11001002701,"Census Tract 27.01, District of Columbia, District of Columbia",35147,46007.421400000US11001002702,11001002702,"Census Tract 27.02, District of Columbia, District of Columbia",45428,59465.251400000US11001002801,11001002801,"Census Tract 28.01, District of Columbia, District of Columbia",25038,32774.741400000US11001002802,11001002802,"Census Tract 28.02, District of Columbia, District of Columbia",22736,29761.421400000US11001002900,11001002900,"Census Tract 29, District of Columbia, District of Columbia",29602,38749.021400000US11001003000,11001003000,"Census Tract 30, District of Columbia, District of Columbia",25539,33430.551400000US11001003100,11001003100,"Census Tract 31, District of Columbia, District of Columbia",36175,47353.081400000US11001003200,11001003200,"Census Tract 32, District of Columbia, District of Columbia",31662,41445.561400000US11001003301,11001003301,"Census Tract 33.01, District of Columbia, District of Columbia",39107,51191.061400000US11001003302,11001003302,"Census Tract 33.02, District of Columbia, District of Columbia",45938,60132.841400000US11001003400,11001003400,"Census Tract 34, District of Columbia, District of Columbia",18452,24153.671400000US11001003500,11001003500,"Census Tract 35, District of Columbia, District of Columbia",18940,24792.461400000US11001003600,11001003600,"Census Tract 36, District of Columbia, District of Columbia",22485,29432.871400000US11001003700,11001003700,"Census Tract 37, District of Columbia, District of Columbia",26223,34325.911400000US11001003800,11001003800,"Census Tract 38, District of Columbia, District of Columbia",37889,49596.701400000US11001003900,11001003900,"Census Tract 39, District of Columbia, District of Columbia",42532,55674.391400000US11001004001,11001004001,"Census Tract 40.01, District of Columbia, District of Columbia",59008,77241.471400000US11001004002,11001004002,"Census Tract 40.02, District of Columbia, District of Columbia",54260,71026.341400000US11001004100,11001004100,"Census Tract 41, District of Columbia, District of Columbia",88170,115414.531400000US11001004201,11001004201,"Census Tract 42.01, District of Columbia, District of Columbia",53500,70031.501400000US11001004202,11001004202,"Census Tract 42.02, District of Columbia, District of Columbia",47745,62498.211400000US11001004300,11001004300,"Census Tract 43, District of Columbia, District of Columbia",39841,52151.871400000US11001004400,11001004400,"Census Tract 44, District of Columbia, District of Columbia",42500,55632.501400000US11001004600,11001004600,"Census Tract 46, District of Columbia, District of Columbia",33142,43382.881400000US11001004700,11001004700,"Census Tract 47, District of Columbia, District of Columbia",14107,18466.061400000US11001004801,11001004801,"Census Tract 48.01, District of Columbia, District of Columbia",24388,31923.891400000US11001004802,11001004802,"Census Tract 48.02, District of Columbia, District of Columbia",27559,36074.731400000US11001004901,11001004901,"Census Tract 49.01, District of Columbia, District of Columbia",18950,24805.551400000US11001004902,11001004902,"Census Tract 49.02, District of Columbia, District of Columbia",30647,40116.921400000US11001005000,11001005000,"Census Tract 50, District of Columbia, District of Columbia",33257,43533.411400000US11001005100,11001005100,"Census Tract 51, District of Columbia, District of Columbia",36250,47451.251400000US11001005201,11001005201,"Census Tract 52.01, District of Columbia, District of Columbia",35561,46549.351400000US11001005202,11001005202,"Census Tract 52.02, District of Columbia, District of Columbia",28787,37682.181400000US11001005301,11001005301,"Census Tract 53.01, District of Columbia, District of Columbia",50510,66117.591400000US11001005302,11001005302,"Census Tract 53.02, District of Columbia, District of Columbia",64167,83994.601400000US11001005401,11001005401,"Census Tract 54.01, District of Columbia, District of Columbia",42148,55171.731400000US11001005402,11001005402,"Census Tract 54.02, District of Columbia, District of Columbia",0,0.001400000US11001005500,11001005500,"Census Tract 55, District of Columbia, District of Columbia",59609,78028.181400000US11001005600,11001005600,"Census Tract 56, District of Columbia, District of Columbia",39286,51425.371400000US11001005701,11001005701,"Census Tract 57.01, District of Columbia, District of Columbia",9589,12552.001400000US11001005702,11001005702,"Census Tract 57.02, District of Columbia, District of Columbia",0,0.001400000US11001005800,11001005800,"Census Tract 58, District of Columbia, District of Columbia",40644,53203.001400000US11001005900,11001005900,"Census Tract 59, District of Columbia, District of Columbia",21020,27515.181400000US11001006001,11001006001,"Census Tract 60.01, District of Columbia, District of Columbia",39875,52196.381400000US11001006002,11001006002,"Census Tract 60.02, District of Columbia, District of Columbia",14464,18933.381400000US11001006100,11001006100,"Census Tract 61, District of Columbia, District of Columbia",44107,57736.061400000US11001006201,11001006201,"Census Tract 62.01, District of Columbia, District of Columbia",63846,83574.411400000US11001006202,11001006202,"Census Tract 62.02, District of Columbia, District of Columbia",0,0.001400000US11001006301,11001006301,"Census Tract 63.01, District of Columbia, District of Columbia",44694,58504.451400000US11001006302,11001006302,"Census Tract 63.02, District of Columbia, District of Columbia",67292,88085.231400000US11001006400,11001006400,"Census Tract 64, District of Columbia, District of Columbia",13264,17362.581400000US11001006500,11001006500,"Census Tract 65, District of Columbia, District of Columbia",61903,81031.031400000US11001006600,11001006600,"Census Tract 66, District of Columbia, District of Columbia",75761,99171.151400000US11001006700,11001006700,"Census Tract 67, District of Columbia, District of Columbia",76952,100730.171400000US11001006801,11001006801,"Census Tract 68.01, District of Columbia, District of Columbia",30662,40136.561400000US11001006802,11001006802,"Census Tract 68.02, District of Columbia, District of Columbia",39097,51177.971400000US11001006804,11001006804,"Census Tract 68.04, District of Columbia, District of Columbia",31000,40579.001400000US11001006900,11001006900,"Census Tract 69, District of Columbia, District of Columbia",51438,67332.341400000US11001007000,11001007000,"Census Tract 70, District of Columbia, District of Columbia",67109,87845.681400000US11001007100,11001007100,"Census Tract 71, District of Columbia, District of Columbia",25022,32753.801400000US11001007200,11001007200,"Census Tract 72, District of Columbia, District of Columbia",8089,10588.501400000US11001007301,11001007301,"Census Tract 73.01, District of Columbia, District of Columbia",49122,64300.701400000US11001007302,11001007302,"Census Tract 73.02, District of Columbia, District of Columbia",32791,42923.421400000US11001007304,11001007304,"Census Tract 73.04, District of Columbia, District of Columbia",22550,29517.951400000US11001007308,11001007308,"Census Tract 73.08, District of Columbia, District of Columbia",0,0.001400000US11001007401,11001007401,"Census Tract 74.01, District of Columbia, District of Columbia",14083,18434.651400000US11001007403,11001007403,"Census Tract 74.03, District of Columbia, District of Columbia",29095,38085.361400000US11001007404,11001007404,"Census Tract 74.04, District of Columbia, District of Columbia",9353,12243.081400000US11001007406,11001007406,"Census Tract 74.06, District of Columbia, District of Columbia",15877,20782.991400000US11001007407,11001007407,"Census Tract 74.07, District of Columbia, District of Columbia",33125,43360.631400000US11001007408,11001007408,"Census Tract 74.08, District of Columbia, District of Columbia",19570,25617.131400000US11001007409,11001007409,"Census Tract 74.09, District of Columbia, District of Columbia",16849,22055.341400000US11001007502,11001007502,"Census Tract 75.02, District of Columbia, District of Columbia",19950,26114.551400000US11001007503,11001007503,"Census Tract 75.03, District of Columbia, District of Columbia",21402,28015.221400000US11001007504,11001007504,"Census Tract 75.04, District of Columbia, District of Columbia",22755,29786.301400000US11001007601,11001007601,"Census Tract 76.01, District of Columbia, District of Columbia",32930,43105.371400000US11001007603,11001007603,"Census Tract 76.03, District of Columbia, District of Columbia",32837,42983.631400000US11001007604,11001007604,"Census Tract 76.04, District of Columbia, District of Columbia",35811,46876.601400000US11001007605,11001007605,"Census Tract 76.05, District of Columbia, District of Columbia",32500,42542.501400000US11001007703,11001007703,"Census Tract 77.03, District of Columbia, District of Columbia",25240,33039.161400000US11001007707,11001007707,"Census Tract 77.07, District of Columbia, District of Columbia",33592,43971.931400000US11001007708,11001007708,"Census Tract 77.08, District of Columbia, District of Columbia",25382,33225.041400000US11001007709,11001007709,"Census Tract 77.09, District of Columbia, District of Columbia",29332,38395.591400000US11001007803,11001007803,"Census Tract 78.03, District of Columbia, District of Columbia",27295,35729.161400000US11001007804,11001007804,"Census Tract 78.04, District of Columbia, District of Columbia",21130,27659.171400000US11001007806,11001007806,"Census Tract 78.06, District of Columbia, District of Columbia",31921,41784.591400000US11001007807,11001007807,"Census Tract 78.07, District of Columbia, District of Columbia",34050,44571.451400000US11001007808,11001007808,"Census Tract 78.08, District of Columbia, District of Columbia",24267,31765.501400000US11001007809,11001007809,"Census Tract 78.09, District of Columbia, District of Columbia",28719,37593.171400000US11001007901,11001007901,"Census Tract 79.01, District of Columbia, District of Columbia",24327,31844.041400000US11001007903,11001007903,"Census Tract 79.03, District of Columbia, District of Columbia",36280,47490.521400000US11001008001,11001008001,"Census Tract 80.01, District of Columbia, District of Columbia",41949,54911.241400000US11001008002,11001008002,"Census Tract 80.02, District of Columbia, District of Columbia",50025,65482.731400000US11001008100,11001008100,"Census Tract 81, District of Columbia, District of Columbia",62742,82129.281400000US11001008200,11001008200,"Census Tract 82, District of Columbia, District of Columbia",58274,76280.671400000US11001008301,11001008301,"Census Tract 83.01, District of Columbia, District of Columbia",66550,87113.951400000US11001008302,11001008302,"Census Tract 83.02, District of Columbia, District of Columbia",67868,88839.211400000US11001008402,11001008402,"Census Tract 84.02, District of Columbia, District of Columbia",31484,41212.561400000US11001008410,11001008410,"Census Tract 84.10, District of Columbia, District of Columbia",43333,56722.901400000US11001008500,11001008500,"Census Tract 85, District of Columbia, District of Columbia",35225,46109.531400000US11001008600,11001008600,"Census Tract 86, District of Columbia, District of Columbia",58750,76903.751400000US11001008701,11001008701,"Census Tract 87.01, District of Columbia, District of Columbia",40234,52666.311400000US11001008702,11001008702,"Census Tract 87.02, District of Columbia, District of Columbia",29961,39218.951400000US11001008802,11001008802,"Census Tract 88.02, District of Columbia, District of Columbia",28462,37256.761400000US11001008803,11001008803,"Census Tract 88.03, District of Columbia, District of Columbia",17857,23374.811400000US11001008804,11001008804,"Census Tract 88.04, District of Columbia, District of Columbia",24489,32056.101400000US11001008903,11001008903,"Census Tract 89.03, District of Columbia, District of Columbia",29698,38874.681400000US11001008904,11001008904,"Census Tract 89.04, District of Columbia, District of Columbia",21540,28195.861400000US11001008905,11001008905,"Census Tract 89.05, District of Columbia, District of Columbia",0,0.001400000US11001009000,11001009000,"Census Tract 90, District of Columbia, District of Columbia",22610,29596.491400000US11001009101,11001009101,"Census Tract 91.01, District of Columbia, District of Columbia",38854,50859.891400000US11001009102,11001009102,"Census Tract 91.02, District of Columbia, District of Columbia",27713,36276.321400000US11001009201,11001009201,"Census Tract 92.01, District of Columbia, District of Columbia",30268,39620.811400000US11001009203,11001009203,"Census Tract 92.03, District of Columbia, District of Columbia",31419,41127.471400000US11001009204,11001009204,"Census Tract 92.04, District of Columbia, District of Columbia",22063,28880.471400000US11001009301,11001009301,"Census Tract 93.01, District of Columbia, District of Columbia",51125,66922.631400000US11001009302,11001009302,"Census Tract 93.02, District of Columbia, District of Columbia",41875,54814.381400000US11001009400,11001009400,"Census Tract 94, District of Columbia, District of Columbia",53558,70107.421400000US11001009501,11001009501,"Census Tract 95.01, District of Columbia, District of Columbia",28605,37443.951400000US11001009503,11001009503,"Census Tract 95.03, District of Columbia, District of Columbia",61667,80722.101400000US11001009504,11001009504,"Census Tract 95.04, District of Columbia, District of Columbia",43211,56563.201400000US11001009505,11001009505,"Census Tract 95.05, District of Columbia, District of Columbia",46023,60244.111400000US11001009507,11001009507,"Census Tract 95.07, District of Columbia, District of Columbia",41359,54138.931400000US11001009508,11001009508,"Census Tract 95.08, District of Columbia, District of Columbia",41972,54941.351400000US11001009509,11001009509,"Census Tract 95.09, District of Columbia, District of Columbia",53883,70532.851400000US11001009601,11001009601,"Census Tract 96.01, District of Columbia, District of Columbia",32571,42635.441400000US11001009602,11001009602,"Census Tract 96.02, District of Columbia, District of Columbia",21746,28465.511400000US11001009603,11001009603,"Census Tract 96.03, District of Columbia, District of Columbia",31898,41754.481400000US11001009604,11001009604,"Census Tract 96.04, District of Columbia, District of Columbia",32672,42767.651400000US11001009700,11001009700,"Census Tract 97, District of Columbia, District of Columbia",33086,43309.571400000US11001009801,11001009801,"Census Tract 98.01, District of Columbia, District of Columbia",16250,21271.251400000US11001009802,11001009802,"Census Tract 98.02, District of Columbia, District of Columbia",25871,33865.141400000US11001009803,11001009803,"Census Tract 98.03, District of Columbia, District of Columbia",23292,30489.231400000US11001009804,11001009804,"Census Tract 98.04, District of Columbia, District of Columbia",22539,29503.551400000US11001009806,11001009806,"Census Tract 98.06, District of Columbia, District of Columbia",20167,26398.601400000US11001009807,11001009807,"Census Tract 98.07, District of Columbia, District of Columbia",30076,39369.481400000US11001009808,11001009808,"Census Tract 98.08, District of Columbia, District of Columbia",25708,33651.771400000US11001009809,11001009809,"Census Tract 98.09, District of Columbia, District of Columbia",0,0.001400000US11001009901,11001009901,"Census Tract 99.01, District of Columbia, District of Columbia",61174,80076.771400000US11001009902,11001009902,"Census Tract 99.02, District of Columbia, District of Columbia",41146,53860.111400000US11001009903,11001009903,"Census Tract 99.03, District of Columbia, District of Columbia",19143,25058.191400000US11001009904,11001009904,"Census Tract 99.04, District of Columbia, District of Columbia",26745,35009.211400000US11001009905,11001009905,"Census Tract 99.05, District of Columbia, District of Columbia",25778,33743.401400000US11001009906,11001009906,"Census Tract 99.06, District of Columbia, District of Columbia",24457,32014.211400000US11001009907,11001009907,"Census Tract 99.07, District of Columbia, District of Columbia",20176,26410.381400000US24031700101,24031700101,"Census Tract 7001.01, Montgomery County, Maryland",127529,166935.461400000US24031700102,24031700102,"Census Tract 7001.02, Montgomery County, Maryland",80192,104971.331400000US24031700103,24031700103,"Census Tract 7001.03, Montgomery County, Maryland",106727,139705.641400000US24031700202,24031700202,"Census Tract 7002.02, Montgomery County, Maryland",61920,81053.281400000US24031700204,24031700204,"Census Tract 7002.04, Montgomery County, Maryland",63810,83527.291400000US24031700205,24031700205,"Census Tract 7002.05, Montgomery County, Maryland",90399,118332.291400000US24031700206,24031700206,"Census Tract 7002.06, Montgomery County, Maryland",79585,104176.771400000US24031700302,24031700302,"Census Tract 7003.02, Montgomery County, Maryland",87060,113961.541400000US24031700304,24031700304,"Census Tract 7003.04, Montgomery County, Maryland",74975,98142.281400000US24031700306,24031700306,"Census Tract 7003.06, Montgomery County, Maryland",73841,96657.871400000US24031700308,24031700308,"Census Tract 7003.08, Montgomery County, Maryland",71003,92942.931400000US24031700309,24031700309,"Census Tract 7003.09, Montgomery County, Maryland",58363,76397.171400000US24031700310,24031700310,"Census Tract 7003.10, Montgomery County, Maryland",64215,84057.441400000US24031700400,24031700400,"Census Tract 7004, Montgomery County, Maryland",91859,120243.431400000US24031700500,24031700500,"Census Tract 7005, Montgomery County, Maryland",82082,107445.341400000US24031700604,24031700604,"Census Tract 7006.04, Montgomery County, Maryland",130626,170989.431400000US24031700605,24031700605,"Census Tract 7006.05, Montgomery County, Maryland",110802,145039.821400000US24031700606,24031700606,"Census Tract 7006.06, Montgomery County, Maryland",103848,135937.031400000US24031700607,24031700607,"Census Tract 7006.07, Montgomery County, Maryland",107386,140568.271400000US24031700608,24031700608,"Census Tract 7006.08, Montgomery County, Maryland",158255,207155.801400000US24031700609,24031700609,"Census Tract 7006.09, Montgomery County, Maryland",69675,91204.581400000US24031700610,24031700610,"Census Tract 7006.10, Montgomery County, Maryland",98417,128827.851400000US24031700704,24031700704,"Census Tract 7007.04, Montgomery County, Maryland",70667,92503.101400000US24031700705,24031700705,"Census Tract 7007.05, Montgomery County, Maryland",49882,65295.541400000US24031700706,24031700706,"Census Tract 7007.06, Montgomery County, Maryland",49567,64883.201400000US24031700708,24031700708,"Census Tract 7007.08, Montgomery County, Maryland",54472,71303.851400000US24031700710,24031700710,"Census Tract 7007.10, Montgomery County, Maryland",81853,107145.581400000US24031700711,24031700711,"Census Tract 7007.11, Montgomery County, Maryland",77070,100884.631400000US24031700712,24031700712,"Census Tract 7007.12, Montgomery County, Maryland",54474,71306.471400000US24031700713,24031700713,"Census Tract 7007.13, Montgomery County, Maryland",50279,65815.211400000US24031700714,24031700714,"Census Tract 7007.14, Montgomery County, Maryland",41922,54875.901400000US24031700715,24031700715,"Census Tract 7007.15, Montgomery County, Maryland",72500,94902.501400000US24031700716,24031700716,"Census Tract 7007.16, Montgomery County, Maryland",70147,91822.421400000US24031700805,24031700805,"Census Tract 7008.05, Montgomery County, Maryland",66270,86747.431400000US24031700806,24031700806,"Census Tract 7008.06, Montgomery County, Maryland",92043,120484.291400000US24031700808,24031700808,"Census Tract 7008.08, Montgomery County, Maryland",61345,80300.611400000US24031700809,24031700809,"Census Tract 7008.09, Montgomery County, Maryland",71129,93107.861400000US24031700810,24031700810,"Census Tract 7008.10, Montgomery County, Maryland",77325,101218.431400000US24031700811,24031700811,"Census Tract 7008.11, Montgomery County, Maryland",65792,86121.731400000US24031700812,24031700812,"Census Tract 7008.12, Montgomery County, Maryland",58750,76903.751400000US24031700813,24031700813,"Census Tract 7008.13, Montgomery County, Maryland",68293,89395.541400000US24031700815,24031700815,"Census Tract 7008.15, Montgomery County, Maryland",63304,82864.941400000US24031700816,24031700816,"Census Tract 7008.16, Montgomery County, Maryland",58762,76919.461400000US24031700817,24031700817,"Census Tract 7008.17, Montgomery County, Maryland",64438,84349.341400000US24031700818,24031700818,"Census Tract 7008.18, Montgomery County, Maryland",47047,61584.521400000US24031700819,24031700819,"Census Tract 7008.19, Montgomery County, Maryland",63652,83320.471400000US24031700901,24031700901,"Census Tract 7009.01, Montgomery County, Maryland",47500,62177.501400000US24031700902,24031700902,"Census Tract 7009.02, Montgomery County, Maryland",52321,68488.191400000US24031700903,24031700903,"Census Tract 7009.03, Montgomery County, Maryland",57908,75801.571400000US24031700904,24031700904,"Census Tract 7009.04, Montgomery County, Maryland",31875,41724.381400000US24031700905,24031700905,"Census Tract 7009.05, Montgomery County, Maryland",47478,62148.701400000US24031701001,24031701001,"Census Tract 7010.01, Montgomery County, Maryland",77619,101603.271400000US24031701002,24031701002,"Census Tract 7010.02, Montgomery County, Maryland",122136,159876.021400000US24031701003,24031701003,"Census Tract 7010.03, Montgomery County, Maryland",99880,130742.921400000US24031701004,24031701004,"Census Tract 7010.04, Montgomery County, Maryland",72759,95241.531400000US24031701005,24031701005,"Census Tract 7010.05, Montgomery County, Maryland",97567,127715.201400000US24031701101,24031701101,"Census Tract 7011.01, Montgomery County, Maryland",68125,89175.631400000US24031701102,24031701102,"Census Tract 7011.02, Montgomery County, Maryland",59487,77868.481400000US24031701201,24031701201,"Census Tract 7012.01, Montgomery County, Maryland",60823,79617.311400000US24031701202,24031701202,"Census Tract 7012.02, Montgomery County, Maryland",92175,120657.081400000US24031701204,24031701204,"Census Tract 7012.04, Montgomery County, Maryland",51865,67891.291400000US24031701205,24031701205,"Census Tract 7012.05, Montgomery County, Maryland",140219,183546.671400000US24031701206,24031701206,"Census Tract 7012.06, Montgomery County, Maryland",101508,132873.971400000US24031701209,24031701209,"Census Tract 7012.09, Montgomery County, Maryland",129055,168933.001400000US24031701210,24031701210,"Census Tract 7012.10, Montgomery County, Maryland",141126,184733.931400000US24031701211,24031701211,"Census Tract 7012.11, Montgomery County, Maryland",78921,103307.591400000US24031701212,24031701212,"Census Tract 7012.12, Montgomery County, Maryland",108012,141387.711400000US24031701213,24031701213,"Census Tract 7012.13, Montgomery County, Maryland",88371,115677.641400000US24031701214,24031701214,"Census Tract 7012.14, Montgomery County, Maryland",60793,79578.041400000US24031701215,24031701215,"Census Tract 7012.15, Montgomery County, Maryland",66658,87255.321400000US24031701303,24031701303,"Census Tract 7013.03, Montgomery County, Maryland",117749,154133.441400000US24031701304,24031701304,"Census Tract 7013.04, Montgomery County, Maryland",94452,123637.671400000US24031701306,24031701306,"Census Tract 7013.06, Montgomery County, Maryland",103111,134972.301400000US24031701307,24031701307,"Census Tract 7013.07, Montgomery County, Maryland",112572,147356.751400000US24031701308,24031701308,"Census Tract 7013.08, Montgomery County, Maryland",129424,169416.021400000US24031701309,24031701309,"Census Tract 7013.09, Montgomery County, Maryland",94413,123586.621400000US24031701310,24031701310,"Census Tract 7013.10, Montgomery County, Maryland",85227,111562.141400000US24031701312,24031701312,"Census Tract 7013.12, Montgomery County, Maryland",90599,118594.091400000US24031701313,24031701313,"Census Tract 7013.13, Montgomery County, Maryland",96380,126161.421400000US24031701407,24031701407,"Census Tract 7014.07, Montgomery County, Maryland",104215,136417.441400000US24031701408,24031701408,"Census Tract 7014.08, Montgomery County, Maryland",84639,110792.451400000US24031701409,24031701409,"Census Tract 7014.09, Montgomery County, Maryland",89614,117304.731400000US24031701410,24031701410,"Census Tract 7014.10, Montgomery County, Maryland",71952,94185.171400000US24031701412,24031701412,"Census Tract 7014.12, Montgomery County, Maryland",66134,86569.411400000US24031701414,24031701414,"Census Tract 7014.14, Montgomery County, Maryland",75304,98572.941400000US24031701415,24031701415,"Census Tract 7014.15, Montgomery County, Maryland",78662,102968.561400000US24031701416,24031701416,"Census Tract 7014.16, Montgomery County, Maryland",48629,63655.361400000US24031701417,24031701417,"Census Tract 7014.17, Montgomery County, Maryland",47609,62320.181400000US24031701503,24031701503,"Census Tract 7015.03, Montgomery County, Maryland",80385,105223.971400000US24031701504,24031701504,"Census Tract 7015.04, Montgomery County, Maryland",43368,56768.711400000US24031701505,24031701505,"Census Tract 7015.05, Montgomery County, Maryland",58264,76267.581400000US24031701506,24031701506,"Census Tract 7015.06, Montgomery County, Maryland",92599,121212.091400000US24031701507,24031701507,"Census Tract 7015.07, Montgomery County, Maryland",94533,123743.701400000US24031701600,24031701600,"Census Tract 7016, Montgomery County, Maryland",43929,57503.061400000US24031701701,24031701701,"Census Tract 7017.01, Montgomery County, Maryland",47138,61703.641400000US24031701702,24031701702,"Census Tract 7017.02, Montgomery County, Maryland",36946,48362.311400000US24031701703,24031701703,"Census Tract 7017.03, Montgomery County, Maryland",50192,65701.331400000US24031701704,24031701704,"Census Tract 7017.04, Montgomery County, Maryland",60022,78568.801400000US24031701800,24031701800,"Census Tract 7018, Montgomery County, Maryland",52593,68844.241400000US24031701900,24031701900,"Census Tract 7019, Montgomery County, Maryland",38208,50014.271400000US24031702000,24031702000,"Census Tract 7020, Montgomery County, Maryland",41758,54661.221400000US24031702101,24031702101,"Census Tract 7021.01, Montgomery County, Maryland",45938,60132.841400000US24031702102,24031702102,"Census Tract 7021.02, Montgomery County, Maryland",91651,119971.161400000US24031702200,24031702200,"Census Tract 7022, Montgomery County, Maryland",79014,103429.331400000US24031702301,24031702301,"Census Tract 7023.01, Montgomery County, Maryland",43208,56559.271400000US24031702302,24031702302,"Census Tract 7023.02, Montgomery County, Maryland",57770,75620.931400000US24031702401,24031702401,"Census Tract 7024.01, Montgomery County, Maryland",70372,92116.951400000US24031702402,24031702402,"Census Tract 7024.02, Montgomery County, Maryland",41037,53717.431400000US24031702500,24031702500,"Census Tract 7025, Montgomery County, Maryland",36275,47483.981400000US24031702601,24031702601,"Census Tract 7026.01, Montgomery County, Maryland",44351,58055.461400000US24031702602,24031702602,"Census Tract 7026.02, Montgomery County, Maryland",48930,64049.371400000US24031702700,24031702700,"Census Tract 7027, Montgomery County, Maryland",55379,72491.111400000US24031702800,24031702800,"Census Tract 7028, Montgomery County, Maryland",57171,74836.841400000US24031702900,24031702900,"Census Tract 7029, Montgomery County, Maryland",82457,107936.211400000US24031703000,24031703000,"Census Tract 7030, Montgomery County, Maryland",72500,94902.501400000US24031703100,24031703100,"Census Tract 7031, Montgomery County, Maryland",63808,83524.671400000US24031703201,24031703201,"Census Tract 7032.01, Montgomery County, Maryland",80573,105470.061400000US24031703202,24031703202,"Census Tract 7032.02, Montgomery County, Maryland",85964,112526.881400000US24031703203,24031703203,"Census Tract 7032.03, Montgomery County, Maryland",46079,60317.411400000US24031703206,24031703206,"Census Tract 7032.06, Montgomery County, Maryland",69821,91395.691400000US24031703207,24031703207,"Census Tract 7032.07, Montgomery County, Maryland",56719,74245.171400000US24031703208,24031703208,"Census Tract 7032.08, Montgomery County, Maryland",91841,120219.871400000US24031703209,24031703209,"Census Tract 7032.09, Montgomery County, Maryland",47056,61596.301400000US24031703210,24031703210,"Census Tract 7032.10, Montgomery County, Maryland",70647,92476.921400000US24031703211,24031703211,"Census Tract 7032.11, Montgomery County, Maryland",65192,85336.331400000US24031703212,24031703212,"Census Tract 7032.12, Montgomery County, Maryland",76106,99622.751400000US24031703213,24031703213,"Census Tract 7032.13, Montgomery County, Maryland",41796,54710.961400000US24031703214,24031703214,"Census Tract 7032.14, Montgomery County, Maryland",42240,55292.161400000US24031703215,24031703215,"Census Tract 7032.15, Montgomery County, Maryland",59172,77456.151400000US24031703301,24031703301,"Census Tract 7033.01, Montgomery County, Maryland",65000,85085.001400000US24031703302,24031703302,"Census Tract 7033.02, Montgomery County, Maryland",59306,77631.551400000US24031703401,24031703401,"Census Tract 7034.01, Montgomery County, Maryland",56773,74315.861400000US24031703402,24031703402,"Census Tract 7034.02, Montgomery County, Maryland",62120,81315.081400000US24031703403,24031703403,"Census Tract 7034.03, Montgomery County, Maryland",59952,78477.171400000US24031703404,24031703404,"Census Tract 7034.04, Montgomery County, Maryland",58125,76085.631400000US24031703501,24031703501,"Census Tract 7035.01, Montgomery County, Maryland",45796,59946.961400000US24031703502,24031703502,"Census Tract 7035.02, Montgomery County, Maryland",60893,79708.941400000US24031703601,24031703601,"Census Tract 7036.01, Montgomery County, Maryland",68652,89865.471400000US24031703602,24031703602,"Census Tract 7036.02, Montgomery County, Maryland",77301,101187.011400000US24031703701,24031703701,"Census Tract 7037.01, Montgomery County, Maryland",60227,78837.141400000US24031703702,24031703702,"Census Tract 7037.02, Montgomery County, Maryland",60395,79057.061400000US24031703800,24031703800,"Census Tract 7038, Montgomery County, Maryland",46992,61512.531400000US24031703901,24031703901,"Census Tract 7039.01, Montgomery County, Maryland",73911,96749.501400000US24031703902,24031703902,"Census Tract 7039.02, Montgomery County, Maryland",57326,75039.731400000US24031704000,24031704000,"Census Tract 7040, Montgomery County, Maryland",53186,69620.471400000US24031704100,24031704100,"Census Tract 7041, Montgomery County, Maryland",114602,150014.021400000US24031704200,24031704200,"Census Tract 7042, Montgomery County, Maryland",76716,100421.241400000US24031704300,24031704300,"Census Tract 7043, Montgomery County, Maryland",97025,127005.731400000US24031704401,24031704401,"Census Tract 7044.01, Montgomery County, Maryland",96980,126946.821400000US24031704402,24031704402,"Census Tract 7044.02, Montgomery County, Maryland",84161,110166.751400000US24031704501,24031704501,"Census Tract 7045.01, Montgomery County, Maryland",90562,118545.661400000US24031704502,24031704502,"Census Tract 7045.02, Montgomery County, Maryland",126831,166021.781400000US24031704503,24031704503,"Census Tract 7045.03, Montgomery County, Maryland",109765,143682.391400000US24031704600,24031704600,"Census Tract 7046, Montgomery County, Maryland",92754,121414.991400000US24031704700,24031704700,"Census Tract 7047, Montgomery County, Maryland",156565,204943.591400000US24031704801,24031704801,"Census Tract 7048.01, Montgomery County, Maryland",53667,70250.101400000US24031704802,24031704802,"Census Tract 7048.02, Montgomery County, Maryland",59110,77374.991400000US24031705000,24031705000,"Census Tract 7050, Montgomery County, Maryland",83179,108881.311400000US24031705100,24031705100,"Census Tract 7051, Montgomery County, Maryland",112224,146901.221400000US24031705200,24031705200,"Census Tract 7052, Montgomery County, Maryland",156623,205019.511400000US24031705300,24031705300,"Census Tract 7053, Montgomery County, Maryland","200,000+",#VALUE!1400000US24031705400,24031705400,"Census Tract 7054, Montgomery County, Maryland",160331,209873.281400000US24031705500,24031705500,"Census Tract 7055, Montgomery County, Maryland",94221,123335.291400000US24031705601,24031705601,"Census Tract 7056.01, Montgomery County, Maryland",113956,149168.401400000US24031705602,24031705602,"Census Tract 7056.02, Montgomery County, Maryland",61912,81042.811400000US24031705701,24031705701,"Census Tract 7057.01, Montgomery County, Maryland",114855,150345.201400000US24031705702,24031705702,"Census Tract 7057.02, Montgomery County, Maryland",130972,171442.351400000US24031705800,24031705800,"Census Tract 7058, Montgomery County, Maryland",124487,162953.481400000US24031705901,24031705901,"Census Tract 7059.01, Montgomery County, Maryland",146968,192381.111400000US24031705902,24031705902,"Census Tract 7059.02, Montgomery County, Maryland",145278,190168.901400000US24031705903,24031705903,"Census Tract 7059.03, Montgomery County, Maryland",131798,172523.581400000US24031706003,24031706003,"Census Tract 7060.03, Montgomery County, Maryland",126297,165322.771400000US24031706004,24031706004,"Census Tract 7060.04, Montgomery County, Maryland",71836,94033.321400000US24031706005,24031706005,"Census Tract 7060.05, Montgomery County, Maryland",172620,225959.581400000US24031706007,24031706007,"Census Tract 7060.07, Montgomery County, Maryland",155373,203383.261400000US24031706008,24031706008,"Census Tract 7060.08, Montgomery County, Maryland","200,000+",#VALUE!1400000US24031706009,24031706009,"Census Tract 7060.09, Montgomery County, Maryland",161535,211449.321400000US24033800102,24033800102,"Census Tract 8001.02, Prince George's County, Maryland",37094,48556.051400000US24033800103,24033800103,"Census Tract 8001.03, Prince George's County, Maryland",35979,47096.511400000US24033800105,24033800105,"Census Tract 8001.05, Prince George's County, Maryland",59152,77429.971400000US24033800106,24033800106,"Census Tract 8001.06, Prince George's County, Maryland",60847,79648.721400000US24033800107,24033800107,"Census Tract 8001.07, Prince George's County, Maryland",44140,57779.261400000US24033800202,24033800202,"Census Tract 8002.02, Prince George's County, Maryland",61336,80288.821400000US24033800203,24033800203,"Census Tract 8002.03, Prince George's County, Maryland",83663,109514.871400000US24033800206,24033800206,"Census Tract 8002.06, Prince George's County, Maryland",57578,75369.601400000US24033800207,24033800207,"Census Tract 8002.07, Prince George's County, Maryland",52797,69111.271400000US24033800208,24033800208,"Census Tract 8002.08, Prince George's County, Maryland",76607,100278.561400000US24033800209,24033800209,"Census Tract 8002.09, Prince George's County, Maryland",40513,53031.521400000US24033800210,24033800210,"Census Tract 8002.10, Prince George's County, Maryland",44522,58279.301400000US24033800211,24033800211,"Census Tract 8002.11, Prince George's County, Maryland",42391,55489.821400000US24033800401,24033800401,"Census Tract 8004.01, Prince George's County, Maryland",77591,101566.621400000US24033800402,24033800402,"Census Tract 8004.02, Prince George's County, Maryland",74174,97093.771400000US24033800403,24033800403,"Census Tract 8004.03, Prince George's County, Maryland",74013,96883.021400000US24033800406,24033800406,"Census Tract 8004.06, Prince George's County, Maryland",82703,108258.231400000US24033800407,24033800407,"Census Tract 8004.07, Prince George's County, Maryland",58277,76284.591400000US24033800408,24033800408,"Census Tract 8004.08, Prince George's County, Maryland",86236,112882.921400000US24033800409,24033800409,"Census Tract 8004.09, Prince George's County, Maryland",90335,118248.521400000US24033800503,24033800503,"Census Tract 8005.03, Prince George's County, Maryland",80040,104772.361400000US24033800504,24033800504,"Census Tract 8005.04, Prince George's County, Maryland",73798,96601.581400000US24033800505,24033800505,"Census Tract 8005.05, Prince George's County, Maryland",72148,94441.731400000US24033800507,24033800507,"Census Tract 8005.07, Prince George's County, Maryland",76721,100427.791400000US24033800508,24033800508,"Census Tract 8005.08, Prince George's County, Maryland",107614,140866.731400000US24033800509,24033800509,"Census Tract 8005.09, Prince George's County, Maryland",92078,120530.101400000US24033800510,24033800510,"Census Tract 8005.10, Prince George's County, Maryland",67185,87945.171400000US24033800511,24033800511,"Census Tract 8005.11, Prince George's County, Maryland",74884,98023.161400000US24033800512,24033800512,"Census Tract 8005.12, Prince George's County, Maryland",77434,101361.111400000US24033800601,24033800601,"Census Tract 8006.01, Prince George's County, Maryland",69792,91357.731400000US24033800603,24033800603,"Census Tract 8006.03, Prince George's County, Maryland",86502,113231.121400000US24033800604,24033800604,"Census Tract 8006.04, Prince George's County, Maryland",72823,95325.311400000US24033800605,24033800605,"Census Tract 8006.05, Prince George's County, Maryland",73015,95576.641400000US24033800606,24033800606,"Census Tract 8006.06, Prince George's County, Maryland",57868,75749.211400000US24033800701,24033800701,"Census Tract 8007.01, Prince George's County, Maryland",83827,109729.541400000US24033800702,24033800702,"Census Tract 8007.02, Prince George's County, Maryland",78046,102162.211400000US24033800703,24033800703,"Census Tract 8007.03, Prince George's County, Maryland",73042,95611.981400000US24033800800,24033800800,"Census Tract 8008, Prince George's County, Maryland",76255,99817.801400000US24033800900,24033800900,"Census Tract 8009, Prince George's County, Maryland",63365,82944.791400000US24033801001,24033801001,"Census Tract 8010.01, Prince George's County, Maryland",59057,77305.611400000US24033801002,24033801002,"Census Tract 8010.02, Prince George's County, Maryland",83891,109813.321400000US24033801104,24033801104,"Census Tract 8011.04, Prince George's County, Maryland",44310,58001.791400000US24033801202,24033801202,"Census Tract 8012.02, Prince George's County, Maryland",71552,93661.571400000US24033801203,24033801203,"Census Tract 8012.03, Prince George's County, Maryland",73375,96047.881400000US24033801204,24033801204,"Census Tract 8012.04, Prince George's County, Maryland",75695,99084.761400000US24033801205,24033801205,"Census Tract 8012.05, Prince George's County, Maryland",60123,78701.011400000US24033801206,24033801206,"Census Tract 8012.06, Prince George's County, Maryland",72407,94780.761400000US24033801207,24033801207,"Census Tract 8012.07, Prince George's County, Maryland",72684,95143.361400000US24033801301,24033801301,"Census Tract 8013.01, Prince George's County, Maryland",80683,105614.051400000US24033801302,24033801302,"Census Tract 8013.02, Prince George's County, Maryland",74609,97663.181400000US24033801305,24033801305,"Census Tract 8013.05, Prince George's County, Maryland",80644,105563.001400000US24033801306,24033801306,"Census Tract 8013.06, Prince George's County, Maryland",77302,101188.321400000US24033801307,24033801307,"Census Tract 8013.07, Prince George's County, Maryland",98698,129195.681400000US24033801308,24033801308,"Census Tract 8013.08, Prince George's County, Maryland",89520,117181.681400000US24033801309,24033801309,"Census Tract 8013.09, Prince George's County, Maryland",99246,129913.011400000US24033801402,24033801402,"Census Tract 8014.02, Prince George's County, Maryland",56094,73427.051400000US24033801403,24033801403,"Census Tract 8014.03, Prince George's County, Maryland",83844,109751.801400000US24033801404,24033801404,"Census Tract 8014.04, Prince George's County, Maryland",55650,72845.851400000US24033801405,24033801405,"Census Tract 8014.05, Prince George's County, Maryland",47250,61850.251400000US24033801406,24033801406,"Census Tract 8014.06, Prince George's County, Maryland",56411,73842.001400000US24033801407,24033801407,"Census Tract 8014.07, Prince George's County, Maryland",65365,85562.791400000US24033801500,24033801500,"Census Tract 8015, Prince George's County, Maryland",58257,76258.411400000US24033801600,24033801600,"Census Tract 8016, Prince George's County, Maryland",38438,50315.341400000US24033801701,24033801701,"Census Tract 8017.01, Prince George's County, Maryland",49493,64786.341400000US24033801702,24033801702,"Census Tract 8017.02, Prince George's County, Maryland",42127,55144.241400000US24033801704,24033801704,"Census Tract 8017.04, Prince George's County, Maryland",35976,47092.581400000US24033801706,24033801706,"Census Tract 8017.06, Prince George's County, Maryland",48477,63456.391400000US24033801707,24033801707,"Census Tract 8017.07, Prince George's County, Maryland",42639,55814.451400000US24033801708,24033801708,"Census Tract 8017.08, Prince George's County, Maryland",41523,54353.611400000US24033801801,24033801801,"Census Tract 8018.01, Prince George's County, Maryland",42031,55018.581400000US24033801802,24033801802,"Census Tract 8018.02, Prince George's County, Maryland",44727,58547.641400000US24033801804,24033801804,"Census Tract 8018.04, Prince George's County, Maryland",67120,87860.081400000US24033801805,24033801805,"Census Tract 8018.05, Prince George's County, Maryland",41071,53761.941400000US24033801807,24033801807,"Census Tract 8018.07, Prince George's County, Maryland",43854,57404.891400000US24033801808,24033801808,"Census Tract 8018.08, Prince George's County, Maryland",46221,60503.291400000US24033801901,24033801901,"Census Tract 8019.01, Prince George's County, Maryland",74158,97072.821400000US24033801902,24033801902,"Census Tract 8019.02, Prince George's County, Maryland",42121,55136.391400000US24033801904,24033801904,"Census Tract 8019.04, Prince George's County, Maryland",51366,67238.091400000US24033801905,24033801905,"Census Tract 8019.05, Prince George's County, Maryland",63170,82689.531400000US24033801906,24033801906,"Census Tract 8019.06, Prince George's County, Maryland",49071,64233.941400000US24033802001,24033802001,"Census Tract 8020.01, Prince George's County, Maryland",41145,53858.811400000US24033802002,24033802002,"Census Tract 8020.02, Prince George's County, Maryland",52052,68136.071400000US24033802103,24033802103,"Census Tract 8021.03, Prince George's County, Maryland",59967,78496.801400000US24033802104,24033802104,"Census Tract 8021.04, Prince George's County, Maryland",44779,58615.711400000US24033802105,24033802105,"Census Tract 8021.05, Prince George's County, Maryland",38247,50065.321400000US24033802201,24033802201,"Census Tract 8022.01, Prince George's County, Maryland",50254,65782.491400000US24033802203,24033802203,"Census Tract 8022.03, Prince George's County, Maryland",50899,66626.791400000US24033802204,24033802204,"Census Tract 8022.04, Prince George's County, Maryland",66712,87326.011400000US24033802301,24033802301,"Census Tract 8023.01, Prince George's County, Maryland",62642,81998.381400000US24033802403,24033802403,"Census Tract 8024.03, Prince George's County, Maryland",36344,47574.301400000US24033802404,24033802404,"Census Tract 8024.04, Prince George's County, Maryland",37638,49268.141400000US24033802405,24033802405,"Census Tract 8024.05, Prince George's County, Maryland",44323,58018.811400000US24033802406,24033802406,"Census Tract 8024.06, Prince George's County, Maryland",44787,58626.181400000US24033802501,24033802501,"Census Tract 8025.01, Prince George's County, Maryland",40346,52812.911400000US24033802502,24033802502,"Census Tract 8025.02, Prince George's County, Maryland",36618,47932.961400000US24033802600,24033802600,"Census Tract 8026, Prince George's County, Maryland",45341,59351.371400000US24033802700,24033802700,"Census Tract 8027, Prince George's County, Maryland",38958,50996.021400000US24033802803,24033802803,"Census Tract 8028.03, Prince George's County, Maryland",45944,60140.701400000US24033802804,24033802804,"Census Tract 8028.04, Prince George's County, Maryland",51386,67264.271400000US24033802805,24033802805,"Census Tract 8028.05, Prince George's County, Maryland",49068,64230.011400000US24033802901,24033802901,"Census Tract 8029.01, Prince George's County, Maryland",41985,54958.371400000US24033803001,24033803001,"Census Tract 8030.01, Prince George's County, Maryland",47121,61681.391400000US24033803002,24033803002,"Census Tract 8030.02, Prince George's County, Maryland",48472,63449.851400000US24033803100,24033803100,"Census Tract 8031, Prince George's County, Maryland",41284,54040.761400000US24033803200,24033803200,"Census Tract 8032, Prince George's County, Maryland",31267,40928.501400000US24033803300,24033803300,"Census Tract 8033, Prince George's County, Maryland",42872,56119.451400000US24033803401,24033803401,"Census Tract 8034.01, Prince George's County, Maryland",30565,40009.591400000US24033803402,24033803402,"Census Tract 8034.02, Prince George's County, Maryland",40976,53637.581400000US24033803505,24033803505,"Census Tract 8035.05, Prince George's County, Maryland",69038,90370.741400000US24033803508,24033803508,"Census Tract 8035.08, Prince George's County, Maryland",35927,47028.441400000US24033803509,24033803509,"Census Tract 8035.09, Prince George's County, Maryland",29187,38205.781400000US24033803512,24033803512,"Census Tract 8035.12, Prince George's County, Maryland",60326,78966.731400000US24033803513,24033803513,"Census Tract 8035.13, Prince George's County, Maryland",57941,75844.771400000US24033803514,24033803514,"Census Tract 8035.14, Prince George's County, Maryland",60583,79303.151400000US24033803515,24033803515,"Census Tract 8035.15, Prince George's County, Maryland",83070,108738.631400000US24033803516,24033803516,"Census Tract 8035.16, Prince George's County, Maryland",67344,88153.301400000US24033803517,24033803517,"Census Tract 8035.17, Prince George's County, Maryland",95799,125400.891400000US24033803518,24033803518,"Census Tract 8035.18, Prince George's County, Maryland",41362,54142.861400000US24033803519,24033803519,"Census Tract 8035.19, Prince George's County, Maryland",49821,65215.691400000US24033803601,24033803601,"Census Tract 8036.01, Prince George's County, Maryland",72321,94668.191400000US24033803602,24033803602,"Census Tract 8036.02, Prince George's County, Maryland",40156,52564.201400000US24033803605,24033803605,"Census Tract 8036.05, Prince George's County, Maryland",67088,87818.191400000US24033803606,24033803606,"Census Tract 8036.06, Prince George's County, Maryland",67008,87713.471400000US24033803607,24033803607,"Census Tract 8036.07, Prince George's County, Maryland",76988,100777.291400000US24033803608,24033803608,"Census Tract 8036.08, Prince George's County, Maryland",63059,82544.231400000US24033803610,24033803610,"Census Tract 8036.10, Prince George's County, Maryland",66739,87361.351400000US24033803612,24033803612,"Census Tract 8036.12, Prince George's County, Maryland",38478,50367.701400000US24033803613,24033803613,"Census Tract 8036.13, Prince George's County, Maryland",43663,57154.871400000US24033803700,24033803700,"Census Tract 8037, Prince George's County, Maryland",52143,68255.191400000US24033803801,24033803801,"Census Tract 8038.01, Prince George's County, Maryland",60375,79030.881400000US24033803803,24033803803,"Census Tract 8038.03, Prince George's County, Maryland",50444,66031.201400000US24033803900,24033803900,"Census Tract 8039, Prince George's County, Maryland",44427,58154.941400000US24033804001,24033804001,"Census Tract 8040.01, Prince George's County, Maryland",31103,40713.831400000US24033804002,24033804002,"Census Tract 8040.02, Prince George's County, Maryland",42463,55584.071400000US24033804101,24033804101,"Census Tract 8041.01, Prince George's County, Maryland",54135,70862.721400000US24033804102,24033804102,"Census Tract 8041.02, Prince George's County, Maryland",45608,59700.871400000US24033804200,24033804200,"Census Tract 8042, Prince George's County, Maryland",74474,97486.471400000US24033804300,24033804300,"Census Tract 8043, Prince George's County, Maryland",35985,47104.371400000US24033804400,24033804400,"Census Tract 8044, Prince George's County, Maryland",41351,54128.461400000US24033804600,24033804600,"Census Tract 8046, Prince George's County, Maryland",46650,61064.851400000US24033804700,24033804700,"Census Tract 8047, Prince George's County, Maryland",45000,58905.001400000US24033804800,24033804800,"Census Tract 8048, Prince George's County, Maryland",30884,40427.161400000US24033804900,24033804900,"Census Tract 8049, Prince George's County, Maryland",37460,49035.141400000US24033805000,24033805000,"Census Tract 8050, Prince George's County, Maryland",38452,50333.671400000US24033805101,24033805101,"Census Tract 8051.01, Prince George's County, Maryland",37094,48556.051400000US24033805201,24033805201,"Census Tract 8052.01, Prince George's County, Maryland",41190,53917.711400000US24033805202,24033805202,"Census Tract 8052.02, Prince George's County, Maryland",38447,50327.121400000US24033805500,24033805500,"Census Tract 8055, Prince George's County, Maryland",38004,49747.241400000US24033805601,24033805601,"Census Tract 8056.01, Prince George's County, Maryland",34785,45533.571400000US24033805602,24033805602,"Census Tract 8056.02, Prince George's County, Maryland",39813,52115.221400000US24033805700,24033805700,"Census Tract 8057, Prince George's County, Maryland",40875,53505.381400000US24033805801,24033805801,"Census Tract 8058.01, Prince George's County, Maryland",55563,72731.971400000US24033805802,24033805802,"Census Tract 8058.02, Prince George's County, Maryland",55781,73017.331400000US24033805901,24033805901,"Census Tract 8059.01, Prince George's County, Maryland",36752,48108.371400000US24033805904,24033805904,"Census Tract 8059.04, Prince George's County, Maryland",60495,79187.961400000US24033805905,24033805905,"Census Tract 8059.05, Prince George's County, Maryland",39945,52288.011400000US24033806000,24033806000,"Census Tract 8060, Prince George's County, Maryland",48014,62850.331400000US24033806100,24033806100,"Census Tract 8061, Prince George's County, Maryland",51032,66800.891400000US24033806200,24033806200,"Census Tract 8062, Prince George's County, Maryland",45348,59360.531400000US24033806300,24033806300,"Census Tract 8063, Prince George's County, Maryland",44141,57780.571400000US24033806400,24033806400,"Census Tract 8064, Prince George's County, Maryland",82849,108449.341400000US24033806501,24033806501,"Census Tract 8065.01, Prince George's County, Maryland",41034,53713.511400000US24033806601,24033806601,"Census Tract 8066.01, Prince George's County, Maryland",41789,54701.801400000US24033806602,24033806602,"Census Tract 8066.02, Prince George's County, Maryland",47500,62177.501400000US24033806703,24033806703,"Census Tract 8067.03, Prince George's County, Maryland",36257,47460.411400000US24033806706,24033806706,"Census Tract 8067.06, Prince George's County, Maryland",61667,80722.101400000US24033806708,24033806708,"Census Tract 8067.08, Prince George's County, Maryland",42363,55453.171400000US24033806710,24033806710,"Census Tract 8067.10, Prince George's County, Maryland",61399,80371.291400000US24033806711,24033806711,"Census Tract 8067.11, Prince George's County, Maryland",50994,66751.151400000US24033806712,24033806712,"Census Tract 8067.12, Prince George's County, Maryland",50884,66607.161400000US24033806800,24033806800,"Census Tract 8068, Prince George's County, Maryland",66694,87302.451400000US24033806900,24033806900,"Census Tract 8069, Prince George's County, Maryland",56667,74177.101400000US24033807000,24033807000,"Census Tract 8070, Prince George's County, Maryland",45171,59128.841400000US24033807102,24033807102,"Census Tract 8071.02, Prince George's County, Maryland",57969,75881.421400000US24033807200,24033807200,"Census Tract 8072, Prince George's County, Maryland",29449,38548.741400000US24033807301,24033807301,"Census Tract 8073.01, Prince George's County, Maryland",45313,59314.721400000US24033807304,24033807304,"Census Tract 8073.04, Prince George's County, Maryland",71500,93593.501400000US24033807305,24033807305,"Census Tract 8073.05, Prince George's County, Maryland",69688,91221.591400000US24033807404,24033807404,"Census Tract 8074.04, Prince George's County, Maryland",61333,80284.901400000US24033807405,24033807405,"Census Tract 8074.05, Prince George's County, Maryland",63320,82885.881400000US24033807406,24033807406,"Census Tract 8074.06, Prince George's County, Maryland",49727,65092.641400000US24033807407,24033807407,"Census Tract 8074.07, Prince George's County, Maryland",61106,79987.751400000US24033807408,24033807408,"Census Tract 8074.08, Prince George's County, Maryland",55220,72282.981400000US51013100100,51013100100,"Census Tract 1001, Arlington County, Virginia",92851,121541.961400000US51013100200,51013100200,"Census Tract 1002, Arlington County, Virginia",104633,136964.601400000US51013100300,51013100300,"Census Tract 1003, Arlington County, Virginia",130240,170484.161400000US51013100400,51013100400,"Census Tract 1004, Arlington County, Virginia",131419,172027.471400000US51013100500,51013100500,"Census Tract 1005, Arlington County, Virginia",115529,151227.461400000US51013100600,51013100600,"Census Tract 1006, Arlington County, Virginia",77186,101036.471400000US51013100700,51013100700,"Census Tract 1007, Arlington County, Virginia",76312,99892.411400000US51013100800,51013100800,"Census Tract 1008, Arlington County, Virginia",54417,71231.851400000US51013100900,51013100900,"Census Tract 1009, Arlington County, Virginia",72656,95106.701400000US51013101000,51013101000,"Census Tract 1010, Arlington County, Virginia",85795,112305.661400000US51013101100,51013101100,"Census Tract 1011, Arlington County, Virginia",101673,133089.961400000US51013101200,51013101200,"Census Tract 1012, Arlington County, Virginia",77934,102015.611400000US51013101300,51013101300,"Census Tract 1013, Arlington County, Virginia",86734,113534.811400000US51013101400,51013101400,"Census Tract 1014, Arlington County, Virginia",71463,93545.071400000US51013101500,51013101500,"Census Tract 1015, Arlington County, Virginia",59754,78217.991400000US51013101600,51013101600,"Census Tract 1016, Arlington County, Virginia",61809,80907.981400000US51013101700,51013101700,"Census Tract 1017, Arlington County, Virginia",48870,63970.831400000US51013101800,51013101800,"Census Tract 1018, Arlington County, Virginia",64810,84836.291400000US51013101900,51013101900,"Census Tract 1019, Arlington County, Virginia",90968,119077.111400000US51013102000,51013102000,"Census Tract 1020, Arlington County, Virginia",42571,55725.441400000US51013102100,51013102100,"Census Tract 1021, Arlington County, Virginia",67167,87921.601400000US51013102200,51013102200,"Census Tract 1022, Arlington County, Virginia",40370,52844.331400000US51013102300,51013102300,"Census Tract 1023, Arlington County, Virginia",71042,92993.981400000US51013102400,51013102400,"Census Tract 1024, Arlington County, Virginia",59444,77812.201400000US51013102500,51013102500,"Census Tract 1025, Arlington County, Virginia",51118,66913.461400000US51013102600,51013102600,"Census Tract 1026, Arlington County, Virginia",65128,85252.551400000US51013102700,51013102700,"Census Tract 1027, Arlington County, Virginia",38646,50587.611400000US51013102800,51013102800,"Census Tract 1028, Arlington County, Virginia",47721,62466.791400000US51013102900,51013102900,"Census Tract 1029, Arlington County, Virginia",62535,81858.321400000US51013103000,51013103000,"Census Tract 1030, Arlington County, Virginia",74222,97156.601400000US51013103100,51013103100,"Census Tract 1031, Arlington County, Virginia",43851,57400.961400000US51013103200,51013103200,"Census Tract 1032, Arlington County, Virginia",47188,61769.091400000US51013103300,51013103300,"Census Tract 1033, Arlington County, Virginia",47000,61523.001400000US51013103401,51013103401,"Census Tract 1034.01, Arlington County, Virginia",52292,68450.231400000US51013103402,51013103402,"Census Tract 1034.02, Arlington County, Virginia",71210,93213.891400000US51013103500,51013103500,"Census Tract 1035, Arlington County, Virginia",56265,73650.891400000US51013103600,51013103600,"Census Tract 1036, Arlington County, Virginia",70614,92433.731400000US51013103700,51013103700,"Census Tract 1037, Arlington County, Virginia",118307,154863.861400000US51013103800,51013103800,"Census Tract 1038, Arlington County, Virginia",48192,63083.331400000US51059415100,51059415100,"Census Tract 4151, Fairfax County, Virginia",79301,103805.011400000US51059415200,51059415200,"Census Tract 4152, Fairfax County, Virginia",56795,74344.661400000US51059415300,51059415300,"Census Tract 4153, Fairfax County, Virginia",62299,81549.391400000US51059415400,51059415400,"Census Tract 4154, Fairfax County, Virginia",58766,76924.691400000US51059415500,51059415500,"Census Tract 4155, Fairfax County, Virginia",65917,86285.351400000US51059415600,51059415600,"Census Tract 4156, Fairfax County, Virginia",109410,143217.691400000US51059415700,51059415700,"Census Tract 4157, Fairfax County, Virginia",99786,130619.871400000US51059415800,51059415800,"Census Tract 4158, Fairfax County, Virginia",107723,141009.411400000US51059415900,51059415900,"Census Tract 4159, Fairfax County, Virginia",105796,138486.961400000US51059416000,51059416000,"Census Tract 4160, Fairfax County, Virginia",61628,80671.051400000US51059416100,51059416100,"Census Tract 4161, Fairfax County, Virginia",111205,145567.351400000US51059416200,51059416200,"Census Tract 4162, Fairfax County, Virginia",46675,61097.581400000US51059416300,51059416300,"Census Tract 4163, Fairfax County, Virginia",89595,117279.861400000US51059420100,51059420100,"Census Tract 4201, Fairfax County, Virginia",72183,94487.551400000US51059420200,51059420200,"Census Tract 4202, Fairfax County, Virginia",83645,109491.311400000US51059420300,51059420300,"Census Tract 4203, Fairfax County, Virginia",81852,107144.271400000US51059420400,51059420400,"Census Tract 4204, Fairfax County, Virginia",48173,63058.461400000US51059420500,51059420500,"Census Tract 4205, Fairfax County, Virginia",55827,73077.541400000US51059420600,51059420600,"Census Tract 4206, Fairfax County, Virginia",52384,68570.661400000US51059420700,51059420700,"Census Tract 4207, Fairfax County, Virginia",78771,103111.241400000US51059420800,51059420800,"Census Tract 4208, Fairfax County, Virginia",76585,100249.771400000US51059421000,51059421000,"Census Tract 4210, Fairfax County, Virginia",70716,92567.241400000US51059421100,51059421100,"Census Tract 4211, Fairfax County, Virginia",85000,111265.001400000US51059421200,51059421200,"Census Tract 4212, Fairfax County, Virginia",98259,128621.031400000US51059421300,51059421300,"Census Tract 4213, Fairfax County, Virginia",88933,116413.301400000US51059421400,51059421400,"Census Tract 4214, Fairfax County, Virginia",43970,57556.731400000US51059421500,51059421500,"Census Tract 4215, Fairfax County, Virginia",34055,44578.001400000US51059421600,51059421600,"Census Tract 4216, Fairfax County, Virginia",45382,59405.041400000US51059421700,51059421700,"Census Tract 4217, Fairfax County, Virginia",61602,80637.021400000US51059421800,51059421800,"Census Tract 4218, Fairfax County, Virginia",44423,58149.711400000US51059421900,51059421900,"Census Tract 4219, Fairfax County, Virginia",33266,43545.191400000US51059422000,51059422000,"Census Tract 4220, Fairfax County, Virginia",56552,74026.571400000US51059422100,51059422100,"Census Tract 4221, Fairfax County, Virginia",54190,70934.711400000US51059422200,51059422200,"Census Tract 4222, Fairfax County, Virginia",127308,166646.171400000US51059422300,51059422300,"Census Tract 4223, Fairfax County, Virginia",66698,87307.681400000US51059422400,51059422400,"Census Tract 4224, Fairfax County, Virginia",78087,102215.881400000US51059430100,51059430100,"Census Tract 4301, Fairfax County, Virginia",94202,123310.421400000US51059430200,51059430200,"Census Tract 4302, Fairfax County, Virginia",89068,116590.011400000US51059430400,51059430400,"Census Tract 4304, Fairfax County, Virginia",90056,117883.301400000US51059430500,51059430500,"Census Tract 4305, Fairfax County, Virginia",84356,110422.001400000US51059430600,51059430600,"Census Tract 4306, Fairfax County, Virginia",64934,84998.611400000US51059430700,51059430700,"Census Tract 4307, Fairfax County, Virginia",70721,92573.791400000US51059430800,51059430800,"Census Tract 4308, Fairfax County, Virginia",69397,90840.671400000US51059430900,51059430900,"Census Tract 4309, Fairfax County, Virginia",78716,103039.241400000US51059431000,51059431000,"Census Tract 4310, Fairfax County, Virginia",82579,108095.911400000US51059431300,51059431300,"Census Tract 4313, Fairfax County, Virginia",91053,119188.381400000US51059431400,51059431400,"Census Tract 4314, Fairfax County, Virginia",90614,118613.731400000US51059431500,51059431500,"Census Tract 4315, Fairfax County, Virginia",102732,134476.191400000US51059431600,51059431600,"Census Tract 4316, Fairfax County, Virginia",71907,94126.261400000US51059431800,51059431800,"Census Tract 4318, Fairfax County, Virginia",87392,114396.131400000US51059431900,51059431900,"Census Tract 4319, Fairfax County, Virginia",115123,150696.011400000US51059432000,51059432000,"Census Tract 4320, Fairfax County, Virginia",81152,106227.971400000US51059432100,51059432100,"Census Tract 4321, Fairfax County, Virginia",75724,99122.721400000US51059432200,51059432200,"Census Tract 4322, Fairfax County, Virginia",75770,99182.931400000US51059432300,51059432300,"Census Tract 4323, Fairfax County, Virginia",106613,139556.421400000US51059432400,51059432400,"Census Tract 4324, Fairfax County, Virginia",114043,149282.291400000US51059432500,51059432500,"Census Tract 4325, Fairfax County, Virginia",108982,142657.441400000US51059432600,51059432600,"Census Tract 4326, Fairfax County, Virginia",100544,131612.101400000US51059432700,51059432700,"Census Tract 4327, Fairfax County, Virginia",81135,106205.721400000US51059432800,51059432800,"Census Tract 4328, Fairfax County, Virginia",72847,95356.721400000US51059440100,51059440100,"Census Tract 4401, Fairfax County, Virginia",88367,115672.401400000US51059440200,51059440200,"Census Tract 4402, Fairfax County, Virginia",58783,76946.951400000US51059440300,51059440300,"Census Tract 4403, Fairfax County, Virginia",117690,154056.211400000US51059440500,51059440500,"Census Tract 4405, Fairfax County, Virginia",101668,133083.411400000US51059440600,51059440600,"Census Tract 4406, Fairfax County, Virginia",76162,99696.061400000US51059440700,51059440700,"Census Tract 4407, Fairfax County, Virginia",100710,131829.391400000US51059440800,51059440800,"Census Tract 4408, Fairfax County, Virginia",98019,128306.871400000US51059450100,51059450100,"Census Tract 4501, Fairfax County, Virginia",63699,83381.991400000US51059450200,51059450200,"Census Tract 4502, Fairfax County, Virginia",70806,92685.051400000US51059450300,51059450300,"Census Tract 4503, Fairfax County, Virginia",65705,86007.851400000US51059450400,51059450400,"Census Tract 4504, Fairfax County, Virginia",82288,107714.991400000US51059450500,51059450500,"Census Tract 4505, Fairfax County, Virginia",64038,83825.741400000US51059450600,51059450600,"Census Tract 4506, Fairfax County, Virginia",68284,89383.761400000US51059450700,51059450700,"Census Tract 4507, Fairfax County, Virginia",61151,80046.661400000US51059450800,51059450800,"Census Tract 4508, Fairfax County, Virginia",83611,109446.801400000US51059450900,51059450900,"Census Tract 4509, Fairfax County, Virginia",86192,112825.331400000US51059451000,51059451000,"Census Tract 4510, Fairfax County, Virginia",79272,103767.051400000US51059451100,51059451100,"Census Tract 4511, Fairfax County, Virginia",104150,136332.351400000US51059451200,51059451200,"Census Tract 4512, Fairfax County, Virginia",130247,170493.321400000US51059451300,51059451300,"Census Tract 4513, Fairfax County, Virginia",102705,134440.851400000US51059451400,51059451400,"Census Tract 4514, Fairfax County, Virginia",39896,52223.861400000US51059451500,51059451500,"Census Tract 4515, Fairfax County, Virginia",46504,60873.741400000US51059451600,51059451600,"Census Tract 4516, Fairfax County, Virginia",49387,64647.581400000US51059451800,51059451800,"Census Tract 4518, Fairfax County, Virginia",86180,112809.621400000US51059451900,51059451900,"Census Tract 4519, Fairfax County, Virginia",66054,86464.691400000US51059452000,51059452000,"Census Tract 4520, Fairfax County, Virginia",86601,113360.711400000US51059452100,51059452100,"Census Tract 4521, Fairfax County, Virginia",74250,97193.251400000US51059452200,51059452200,"Census Tract 4522, Fairfax County, Virginia",60000,78540.001400000US51059452300,51059452300,"Census Tract 4523, Fairfax County, Virginia",50247,65773.321400000US51059452400,51059452400,"Census Tract 4524, Fairfax County, Virginia",65343,85533.991400000US51059452500,51059452500,"Census Tract 4525, Fairfax County, Virginia",58367,76402.401400000US51059452600,51059452600,"Census Tract 4526, Fairfax County, Virginia",64156,83980.201400000US51059452700,51059452700,"Census Tract 4527, Fairfax County, Virginia",49183,64380.551400000US51059452800,51059452800,"Census Tract 4528, Fairfax County, Virginia",55862,73123.361400000US51059460100,51059460100,"Census Tract 4601, Fairfax County, Virginia",133839,175195.251400000US51059460200,51059460200,"Census Tract 4602, Fairfax County, Virginia",137545,180046.411400000US51059460300,51059460300,"Census Tract 4603, Fairfax County, Virginia",121470,159004.231400000US51059460400,51059460400,"Census Tract 4604, Fairfax County, Virginia",90000,117810.001400000US51059460500,51059460500,"Census Tract 4605, Fairfax County, Virginia",109236,142989.921400000US51059460600,51059460600,"Census Tract 4606, Fairfax County, Virginia",83752,109631.371400000US51059460700,51059460700,"Census Tract 4607, Fairfax County, Virginia",78677,102988.191400000US51059460800,51059460800,"Census Tract 4608, Fairfax County, Virginia",83124,108809.321400000US51059460900,51059460900,"Census Tract 4609, Fairfax County, Virginia",112411,147146.001400000US51059461000,51059461000,"Census Tract 4610, Fairfax County, Virginia",86034,112618.511400000US51059461100,51059461100,"Census Tract 4611, Fairfax County, Virginia",107037,140111.431400000US51059461200,51059461200,"Census Tract 4612, Fairfax County, Virginia",124759,163309.531400000US51059461500,51059461500,"Census Tract 4615, Fairfax County, Virginia",114913,150421.121400000US51059461600,51059461600,"Census Tract 4616, Fairfax County, Virginia",78213,102380.821400000US51059461700,51059461700,"Census Tract 4617, Fairfax County, Virginia",72774,95261.171400000US51059461800,51059461800,"Census Tract 4618, Fairfax County, Virginia",71514,93611.831400000US51059461900,51059461900,"Census Tract 4619, Fairfax County, Virginia",48523,63516.611400000US51059470100,51059470100,"Census Tract 4701, Fairfax County, Virginia","200,000+",#VALUE!1400000US51059470200,51059470200,"Census Tract 4702, Fairfax County, Virginia",0,0.001400000US51059470300,51059470300,"Census Tract 4703, Fairfax County, Virginia",163311,213774.101400000US51059470400,51059470400,"Census Tract 4704, Fairfax County, Virginia",140558,183990.421400000US51059470500,51059470500,"Census Tract 4705, Fairfax County, Virginia",115251,150863.561400000US51059470600,51059470600,"Census Tract 4706, Fairfax County, Virginia",103421,135378.091400000US51059470700,51059470700,"Census Tract 4707, Fairfax County, Virginia",107735,141025.121400000US51059470800,51059470800,"Census Tract 4708, Fairfax County, Virginia",108898,142547.481400000US51059470900,51059470900,"Census Tract 4709, Fairfax County, Virginia",99100,129721.901400000US51059471000,51059471000,"Census Tract 4710, Fairfax County, Virginia",87828,114966.851400000US51059471100,51059471100,"Census Tract 4711, Fairfax County, Virginia",64628,84598.051400000US51059471200,51059471200,"Census Tract 4712, Fairfax County, Virginia",64965,85039.191400000US51059471300,51059471300,"Census Tract 4713, Fairfax County, Virginia",68554,89737.191400000US51059471400,51059471400,"Census Tract 4714, Fairfax County, Virginia",63873,83609.761400000US51059480100,51059480100,"Census Tract 4801, Fairfax County, Virginia",167568,219346.511400000US51059480200,51059480200,"Census Tract 4802, Fairfax County, Virginia",88145,115381.811400000US51059480300,51059480300,"Census Tract 4803, Fairfax County, Virginia",156614,205007.731400000US51059480400,51059480400,"Census Tract 4804, Fairfax County, Virginia",158326,207248.731400000US51059480500,51059480500,"Census Tract 4805, Fairfax County, Virginia",98141,128466.571400000US51059480800,51059480800,"Census Tract 4808, Fairfax County, Virginia",81126,106193.931400000US51059480900,51059480900,"Census Tract 4809, Fairfax County, Virginia",66435,86963.421400000US51059481000,51059481000,"Census Tract 4810, Fairfax County, Virginia",69464,90928.381400000US51059481100,51059481100,"Census Tract 4811, Fairfax County, Virginia",95838,125451.941400000US51059481200,51059481200,"Census Tract 4812, Fairfax County, Virginia",66577,87149.291400000US51059481400,51059481400,"Census Tract 4814, Fairfax County, Virginia",84722,110901.101400000US51059481500,51059481500,"Census Tract 4815, Fairfax County, Virginia",131935,172702.921400000US51059481600,51059481600,"Census Tract 4816, Fairfax County, Virginia",148805,194785.751400000US51059481700,51059481700,"Census Tract 4817, Fairfax County, Virginia",108626,142191.431400000US51059481900,51059481900,"Census Tract 4819, Fairfax County, Virginia",76261,99825.651400000US51059482000,51059482000,"Census Tract 4820, Fairfax County, Virginia",112617,147415.651400000US51059482100,51059482100,"Census Tract 4821, Fairfax County, Virginia",73657,96417.011400000US51059482200,51059482200,"Census Tract 4822, Fairfax County, Virginia",64014,83794.331400000US51059482300,51059482300,"Census Tract 4823, Fairfax County, Virginia",75395,98692.061400000US51059482400,51059482400,"Census Tract 4824, Fairfax County, Virginia",145272,190161.051400000US51059482500,51059482500,"Census Tract 4825, Fairfax County, Virginia",105025,137477.731400000US51059482600,51059482600,"Census Tract 4826, Fairfax County, Virginia",110307,144391.861400000US51059490100,51059490100,"Census Tract 4901, Fairfax County, Virginia",84092,110076.431400000US51059490500,51059490500,"Census Tract 4905, Fairfax County, Virginia",92214,120708.131400000US51059490900,51059490900,"Census Tract 4909, Fairfax County, Virginia",111048,145361.831400000US51059491000,51059491000,"Census Tract 4910, Fairfax County, Virginia",139034,181995.511400000US51059491100,51059491100,"Census Tract 4911, Fairfax County, Virginia",88480,115820.321400000US51059491200,51059491200,"Census Tract 4912, Fairfax County, Virginia",64414,84317.931400000US51059491300,51059491300,"Census Tract 4913, Fairfax County, Virginia",69772,91331.551400000US51059491400,51059491400,"Census Tract 4914, Fairfax County, Virginia",83289,109025.301400000US51059491500,51059491500,"Census Tract 4915, Fairfax County, Virginia",117168,153372.911400000US51059491600,51059491600,"Census Tract 4916, Fairfax County, Virginia",79938,104638.841400000US51059491700,51059491700,"Census Tract 4917, Fairfax County, Virginia",70828,92713.851400000US51059491800,51059491800,"Census Tract 4918, Fairfax County, Virginia",76126,99648.931400000US51059491900,51059491900,"Census Tract 4919, Fairfax County, Virginia",146949,192356.241400000US51059492000,51059492000,"Census Tract 4920, Fairfax County, Virginia",149613,195843.421400000US51059492100,51059492100,"Census Tract 4921, Fairfax County, Virginia",136000,178024.001400000US51059492200,51059492200,"Census Tract 4922, Fairfax County, Virginia",133564,174835.281400000US51059492300,51059492300,"Census Tract 4923, Fairfax County, Virginia",83322,109068.501400000US51059492400,51059492400,"Census Tract 4924, Fairfax County, Virginia",65563,85821.971400000US51510200101,51510200101,"Census Tract 2001.01, Alexandria city, Virginia",56588,74073.691400000US51510200102,51510200102,"Census Tract 2001.02, Alexandria city, Virginia",51551,67480.261400000US51510200103,51510200103,"Census Tract 2001.03, Alexandria city, Virginia",45772,59915.551400000US51510200104,51510200104,"Census Tract 2001.04, Alexandria city, Virginia",48179,63066.311400000US51510200105,51510200105,"Census Tract 2001.05, Alexandria city, Virginia",36901,48303.411400000US51510200201,51510200201,"Census Tract 2002.01, Alexandria city, Virginia",51667,67632.101400000US51510200202,51510200202,"Census Tract 2002.02, Alexandria city, Virginia",127378,166737.801400000US51510200301,51510200301,"Census Tract 2003.01, Alexandria city, Virginia",52500,68722.501400000US51510200302,51510200302,"Census Tract 2003.02, Alexandria city, Virginia",65817,86154.451400000US51510200303,51510200303,"Census Tract 2003.03, Alexandria city, Virginia",42939,56207.151400000US51510200401,51510200401,"Census Tract 2004.01, Alexandria city, Virginia",52712,69000.011400000US51510200402,51510200402,"Census Tract 2004.02, Alexandria city, Virginia",46274,60572.671400000US51510200500,51510200500,"Census Tract 2005, Alexandria city, Virginia",39882,52205.541400000US51510200600,51510200600,"Census Tract 2006, Alexandria city, Virginia",55926,73207.131400000US51510200700,51510200700,"Census Tract 2007, Alexandria city, Virginia",66818,87464.761400000US51510200801,51510200801,"Census Tract 2008.01, Alexandria city, Virginia",104623,136951.511400000US51510200802,51510200802,"Census Tract 2008.02, Alexandria city, Virginia",60029,78577.961400000US51510200900,51510200900,"Census Tract 2009, Alexandria city, Virginia",105129,137613.861400000US51510201000,51510201000,"Census Tract 2010, Alexandria city, Virginia",56042,73358.981400000US51510201100,51510201100,"Census Tract 2011, Alexandria city, Virginia",98495,128929.961400000US51510201202,51510201202,"Census Tract 2012.02, Alexandria city, Virginia",56711,74234.701400000US51510201203,51510201203,"Census Tract 2012.03, Alexandria city, Virginia",40599,53144.091400000US51510201204,51510201204,"Census Tract 2012.04, Alexandria city, Virginia",40878,53509.301400000US51510201300,51510201300,"Census Tract 2013, Alexandria city, Virginia",56531,73999.081400000US51510201400,51510201400,"Census Tract 2014, Alexandria city, Virginia",65739,86052.351400000US51510201500,51510201500,"Census Tract 2015, Alexandria city, Virginia",106417,139299.851400000US51510201600,51510201600,"Census Tract 2016, Alexandria city, Virginia",60806,79595.051400000US51510201801,51510201801,"Census Tract 2018.01, Alexandria city, Virginia",66646,87239.611400000US51510201802,51510201802,"Census Tract 2018.02, Alexandria city, Virginia",97864,128103.981400000US51510201900,51510201900,"Census Tract 2019, Alexandria city, Virginia",89394,117016.751400000US51510202001,51510202001,"Census Tract 2020.01, Alexandria city, Virginia",130899,171346.791400000US51510202002,51510202002,"Census Tract 2020.02, Alexandria city, Virginia",59583,77994.151400000US51610500100,51610500100,"Census Tract 5001, Falls Church city, Virginia",85587,112033.381400000US51610500200,51610500200,"Census Tract 5002, Falls Church city, Virginia",69896,91493.861400000US51610500300,51610500300,"Census Tract 5003, Falls Church city, Virginia",78159,102310.13

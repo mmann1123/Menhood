@@ -4,8 +4,8 @@ This scritp was created for joining multiple variables to one shp
 @author: Shiyan, Qi
 """
 import pandas as pd
-import arcpy
-arcpy.env.overwriteOutput = True
+#import arcpy
+#arcpy.env.overwriteOutput = True
 import os
 import csv
 from dbfpy import dbf
@@ -69,7 +69,7 @@ def clickAbout():
             toplevel2.destroy()
         saveexitBtn = Button(toplevel2, text="Save", command=saveexit)
         saveexitBtn.pack()
-        
+
     def FinishExit():
         global Dyc_i_pd_List
         Dyc_ReferList = Dyc_i_pd_List[0]
@@ -104,7 +104,7 @@ def clickAbout():
         Dyc_i_pd_List = [Dyc_ReferList, big_i, Joined_Pd, shppath, folderpath]
         toplevel.destroy()
         return Dyc_i_pd_List
-    
+
     TotalList = []; ReferList = []; R_ReferList = []; iterator = 0
     del TotalList[:]
     del ReferList[:]
@@ -132,7 +132,7 @@ def clickAbout():
                     if "Margin of Error" in val:
                         del GEOid_id_Dict[key]
                 TotalList.append([Ann, GEOid_id_Dict])# Annotation file contains the real data, each annotation file will have many variables
-    T.insert(END, "finished grabing the csv\n")    
+    T.insert(END, "finished grabing the csv\n")
     toplevel = Toplevel()
     toplevel.title("Move your desired variable into the BOTTOM listbox")
     upperLabel = Label(toplevel, text="All the available variables:", width=100, height=1, font=16)
@@ -182,7 +182,7 @@ def showV():
             T.insert(END, "The user-defined variable name:   " + Change_name+"\n")
         T.insert(END, "The explanation of the variable:   " + R_list_2[3])
         T.insert(END, "\n")
-    
+
 def openshp():
     global Dyc_i_pd_List
     shppath = Dyc_i_pd_List[3]
@@ -193,7 +193,7 @@ def openshp():
     shppath = tkFileDialog.askopenfilename(filetypes=[('Shapefile','*.shp'), ('all files', '.*')], initialdir=initial_path)
     Dyc_i_pd_List[3] = shppath
     Button2.config(state=DISABLED)
-    return Dyc_i_pd_List   
+    return Dyc_i_pd_List
 
 def openfold():
     global Dyc_i_pd_List
@@ -221,9 +221,9 @@ def run():
         shppath = Dyc_i_pd_List[3]
         folderpath = Dyc_i_pd_List[4]
         ylist = list(Joined_Pd)
-        DC_Shp = Format_the_path(shppath)
-        folderpath = Format_the_path(folderpath)
-        Folder_Path=folderpath+"\\"+Output_name
+        DC_Shp = shppath
+        folderpath = folderpath
+        Folder_Path=folderpath+"/"+Output_name
         os.mkdir(Folder_Path)
         T.insert(END, "Just made the output folder\n")
         D_txt = open(Folder_Path+"\\Variable_Description.txt", "w")#Creat a variable description txt in the output folder
@@ -282,7 +282,7 @@ def run():
     e_shpname.pack(side=LEFT)
     listbox3 = Listbox(frame3)
     listbox3.pack()
-    GEOIDbutton = Button(frame3, text="Select GEOID", command=selectGEOID)
+    GEOIDbutton = Button(frame3, text="Select Join Field", command=selectGEOID)
     GEOIDbutton.config(state="normal")
     GEOIDbutton.pack()
     global Dyc_i_pd_List
@@ -296,16 +296,16 @@ def run():
     os.remove(DC_Shp_csv)
     col_list = Shp_csv_pd.columns.tolist()
     for col in col_list:
-       listbox3.insert(END, col + "\n") 
+       listbox3.insert(END, col + "\n")
     runningButton = Button(top2, text="Run it!", command=running)
     runningButton.pack(side=BOTTOM)
 
 def openoutput():
     global Dyc_i_pd_List
     folderpath = Dyc_i_pd_List[4]
-    folderpath = Format_the_path(folderpath)
+    folderpath = folderpath
     os.startfile(folderpath)
-    
+
 def clean():
     global Dyc_i_pd_List
     Dyc_ReferList = Dyc_i_pd_List[0]
@@ -325,10 +325,10 @@ def clean():
     Button2.config(state="normal")
     Button3.config(state="normal")
     return Dyc_i_pd_List
-    
+
 def quitt():
     root.destroy()
-    
+
 def disclaim():
     def Isee():
         top3.destroy()
@@ -336,7 +336,7 @@ def disclaim():
     disclaimer_label = Label(top3, text="Software author: Qi Yang, Shiyan Zhang\nThis software is used for non-commercial purpose only, mainly for academic research\nFor questions, contact email: yangkey87@gmail.com")
     disclaimer_label.pack()
     Iseebutton = Button(top3, text="I see", command=Isee)
-    Iseebutton.pack()   
+    Iseebutton.pack()
 ##
 root = Tk()
 root.title("Qi-Shiyan's Shp Joiner")

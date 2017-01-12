@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c143b3c1-630c-4f23-b511-cd7c4bfe710f" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/.Rhistory" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/acs_csv/acs10_pca.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/acs_csv/acs10_variables.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/acs_csv/acs10_variablesPCA.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/acs_pca/demo_pca.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/acs_pca/edu_pca.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/acs_pca/emp_pca.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/acs_pca/hsv_pca.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/acs_pca/pov_pca.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/acs_pca/sshh_pca.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/acs_pca/ten_pca.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/acsdec_variableKey.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/dec_csv/dec00_pca.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/dec_csv/dec00_rawvariableSlices.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/dec_csv/dec00_variables.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/dec_csv/dec00_variablesPCA.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/dec_pca/demo_pca.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/dec_pca/edu_pca.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/dec_pca/emp_pca.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/dec_pca/hsv_pca.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/dec_pca/pov_pca.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/dec_pca/sshh_pca.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/dec_pca/ten_pca.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/.RData" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/.Rhistory" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/DC_Census2010.dbf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/DC_Census2010.prj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/DC_Census2010.qpj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/DC_Census2010.shp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/DC_Census2010.shx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/DC_Census2010_.dbf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/DC_Census2010_.prj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/DC_Census2010_.shp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/DC_Census2010_.shx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/TabulateIntersectionResult.cpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/TabulateIntersectionResult.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/TabulateIntersectionResult.dbf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/TabulateIntersectionResult.dbf.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/TabulateIntersectionResult_10.cpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/TabulateIntersectionResult_10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/dc2010_acs10_.dbf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/dc2010_acs10_.prj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/dc2010_acs10_.shp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/dc2010_acs10_.shx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/dc2010_dec00_.dbf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/dc2010_dec00_.prj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/dc2010_dec00_.shp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/dc2010_dec00_.shx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/dc_2000_csv.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/dec00_fin.cpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/dec00_fin.dbf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/dec00_fin.prj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/dec00_fin.shp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/dec00_fin.shx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/dec2000_2.dbf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/dec2000_2.prj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/dec2000_2.shp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/dec2000_2.shx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/dec2000_3.dbf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/dec2000_3.prj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/dec2000_3.qpj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/dec2000_3.shp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/dec2000_3.shx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/dec2000_5.dbf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/dec2000_5.prj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/dec2000_5.qpj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/dec2000_5.shp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis/shapefiles/dec2000_5.shx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/Census/DEC/00/GrossMedianRent/DEC_00_SF3_H070_metadata.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/Census/DEC/00/GrossMedianRent/DEC_00_SF3_H070_with_ann.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/Census/DEC/00/Poverty/DEC_00_SF3_QTP34_metadata.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/Census/DEC/00/Poverty/DEC_00_SF3_QTP34_with_ann.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/DC_Census2013.dbf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/DC_Census2013.prj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/DC_Census2013.qpj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/DC_Census2013.shp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/DC_Census2013.shx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/DC_Census2014.dbf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/DC_Census2014.prj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/DC_Census2014.qpj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/DC_Census2014.shp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/DC_Census2014.shx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/DC_Census2015.dbf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/DC_Census2015.prj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/DC_Census2015.qpj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/DC_Census2015.shp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/DC_Census2015.shx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/Fire_Stations.cpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/Fire_Stations.dbf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/Fire_Stations.prj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/Fire_Stations.shp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/Fire_Stations.shx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/Police_Stations.cpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/Police_Stations.dbf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/Police_Stations.prj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/Police_Stations.shp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/Police_Stations.shx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000001.TablesByName.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000001.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000001.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000001.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000002.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000002.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000003.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000003.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000003.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000004.CatItemsByPhysicalName.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000004.CatItemsByType.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000004.FDO_UUID.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000004.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000004.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000004.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000004.spx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000005.CatItemTypesByName.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000005.CatItemTypesByParentTypeID.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000005.CatItemTypesByUUID.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000005.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000005.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000005.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000006.CatRelsByDestinationID.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000006.CatRelsByOriginID.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000006.CatRelsByType.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000006.FDO_UUID.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000006.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000006.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000006.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000007.CatRelTypesByBackwardLabel.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000007.CatRelTypesByDestItemTypeID.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000007.CatRelTypesByForwardLabel.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000007.CatRelTypesByName.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000007.CatRelTypesByOriginItemTypeID.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000007.CatRelTypesByUUID.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000007.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000007.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000007.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000009.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000009.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000009.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000009.spx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000000a.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000000a.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000000a.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000000b.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000000b.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000000b.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000000c.band_index.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000000c.blk_key_index.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000000c.col_index.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000000c.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000000c.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000000c.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000000c.row_index.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000000d.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000000d.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000000d.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000000e.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000000e.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000000e.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000000e.spx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000000f.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000000f.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000000f.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000010.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000010.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000010.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000011.band_index.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000011.blk_key_index.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000011.col_index.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000011.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000011.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000011.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000011.row_index.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000012.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000012.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000012.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000013.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000013.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000013.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000013.spx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000014.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000014.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000014.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000015.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000015.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000015.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000016.band_index.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000016.blk_key_index.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000016.col_index.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000016.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000016.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000016.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000016.row_index.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000017.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000017.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000017.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000018.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000018.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000018.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000018.spx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000019.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000019.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a00000019.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000001a.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000001a.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000001a.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000001b.band_index.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000001b.blk_key_index.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000001b.col_index.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000001b.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000001b.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000001b.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000001b.row_index.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000001c.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000001c.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/a0000001c.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/gdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/output.gdb/timestamps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000001.TablesByName.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000001.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000001.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000001.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000002.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000002.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000003.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000003.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000003.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000004.CatItemsByPhysicalName.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000004.CatItemsByType.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000004.FDO_UUID.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000004.freelist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000004.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000004.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000004.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000004.spx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000005.CatItemTypesByName.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000005.CatItemTypesByParentTypeID.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000005.CatItemTypesByUUID.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000005.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000005.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000005.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000006.CatRelsByDestinationID.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000006.CatRelsByOriginID.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000006.CatRelsByType.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000006.FDO_UUID.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000006.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000006.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000006.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000007.CatRelTypesByBackwardLabel.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000007.CatRelTypesByDestItemTypeID.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000007.CatRelTypesByForwardLabel.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000007.CatRelTypesByName.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000007.CatRelTypesByOriginItemTypeID.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000007.CatRelTypesByUUID.atx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000007.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000007.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000007.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000009.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000009.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000009.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a00000009.spx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a0000000a.gdbindexes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a0000000a.gdbtable" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a0000000a.gdbtablx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/a0000000a.spx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/gdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/eudist_kernal/station.gdb/timestamps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/scripts/eudist_kernel_customize.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ShapeFiles/euclidean_kernel/scripts/eudist_kernel_default.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/code/PCA.py" afterPath="$PROJECT_DIR$/code/PCA.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/code/QY_SYZ_Joiner_Version_4.0_GUI.py" afterPath="$PROJECT_DIR$/code/QY_SYZ_Joiner_Version_4.0_GUI.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/code/dasyMap_demo_mj.py" afterPath="$PROJECT_DIR$/code/dasyMap_demo_mj.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/Census/ACS/10/HouseValue/ACS_10_5YR_B25075_metadata.csv" afterPath="$PROJECT_DIR$/data/Census/ACS/10/HouseValue/ACS_10_5YR_B25075_metadata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/Census/ACS/10/HouseValue/ACS_10_5YR_B25075_with_ann.csv" afterPath="$PROJECT_DIR$/data/Census/ACS/10/HouseValue/ACS_10_5YR_B25075_with_ann.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/Census/ACS/10/Tenure/ACS_10_5YR_B25003_metadata.csv" afterPath="$PROJECT_DIR$/data/Census/ACS/10/Tenure/ACS_10_5YR_B25003_metadata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/Census/ACS/10/Tenure/ACS_10_5YR_B25003_with_ann.csv" afterPath="$PROJECT_DIR$/data/Census/ACS/10/Tenure/ACS_10_5YR_B25003_with_ann.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/Census/ACS/10/TenureGenderChildren/ACS_10_5YR_B25115_metadata.csv" afterPath="$PROJECT_DIR$/data/Census/ACS/10/TenureGenderChildren/ACS_10_5YR_B25115_metadata.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/Census/ACS/10/TenureGenderChildren/ACS_10_5YR_B25115_with_ann.csv" afterPath="$PROJECT_DIR$/data/Census/ACS/10/TenureGenderChildren/ACS_10_5YR_B25115_with_ann.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/Census/DEC/00/Education/DEC_00_SF3_QTP20_with_ann.csv" afterPath="$PROJECT_DIR$/data/Census/DEC/00/Education/DEC_00_SF3_QTP20_with_ann.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/Census/DEC/00/HouseValue/DEC_00_SF3_H074_with_ann.csv" afterPath="$PROJECT_DIR$/data/Census/DEC/00/HouseValue/DEC_00_SF3_H074_with_ann.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/Census/DEC/00/MedianIncome/DEC_00_SF3_P053_with_ann.csv" afterPath="$PROJECT_DIR$/data/Census/DEC/00/MedianIncome/DEC_00_SF3_P053_with_ann.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/Census/DEC/00/Tenure/DEC_00_SF3_H007_with_ann.csv" afterPath="$PROJECT_DIR$/data/Census/DEC/00/Tenure/DEC_00_SF3_H007_with_ann.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/Census/DEC/00/TenureGenderChildren/DEC_00_SF3_HCT001_with_ann.csv" afterPath="$PROJECT_DIR$/data/Census/DEC/00/TenureGenderChildren/DEC_00_SF3_HCT001_with_ann.csv" />
+    </list>
+    <ignored path="Menhood.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Menhood" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="QY_SYZ_Joiner_Version_4.0_GUI.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/QY_SYZ_Joiner_Version_4.0_GUI.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-210">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QY_Joiner_Version_3.0_LoopDYC.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/QY_Joiner_Version_3.0_LoopDYC.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="11" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PCA.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/PCA.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2025">
+              <caret line="135" column="13" selection-start-line="135" selection-start-column="13" selection-end-line="135" selection-end-column="13" />
+              <folding>
+                <element signature="e#28#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dasyMap_demo_mj.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code/dasyMap_demo_mj.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2258">
+              <caret line="112" column="14" selection-start-line="112" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+              <folding>
+                <element signature="e#165#177#0" expanded="true" />
+                <element signature="e#567#1720#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/data/output_Shapefiles/shapefiles/surf_fin.csv" />
+        <option value="$PROJECT_DIR$/percentages" />
+        <option value="$PROJECT_DIR$/code/QY_SYZ_Joiner_Version_4.0_GUI.py" />
+        <option value="$PROJECT_DIR$/code/PCA.py" />
+        <option value="$PROJECT_DIR$/code/dasyMap_demo_mj.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="27" />
+    <option name="y" value="23" />
+    <option name="width" value="1342" />
+    <option name="height" value="847" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Menhood" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Menhood" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Menhood" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Menhood" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Menhood" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Python.QY_SYZ_Joiner_Version_4.0_GUI">
+    <configuration default="false" name="QY_SYZ_Joiner_Version_4.0_GUI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Menhood" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/QY_SYZ_Joiner_Version_4.0_GUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Menhood" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Menhood" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Menhood" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Menhood" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Menhood" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Menhood" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Menhood" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.QY_SYZ_Joiner_Version_4.0_GUI" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.QY_SYZ_Joiner_Version_4.0_GUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c143b3c1-630c-4f23-b511-cd7c4bfe710f" name="Default" comment="" />
+      <created>1481258047820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1481258047820</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="27" y="23" width="1342" height="847" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.009084027" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44058502" sideWeight="0.15140045" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32906765" sideWeight="0.20514761" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3178808" sideWeight="0.84859955" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294271" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32906765" sideWeight="0.49735048" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294271" sideWeight="0.11549926" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294271" sideWeight="0.88450074" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294271" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294271" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23174366" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code/dasyMap_demo_mj.py</url>
+          <line>8</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/code/QY_SYZ_Joiner_Version_4.0_GUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/QY_Joiner_Version_3.0_LoopDYC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/PCA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#28#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/dasyMap_demo_mj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7305">
+          <caret line="487" column="0" selection-start-line="487" selection-start-column="0" selection-end-line="487" selection-end-column="0" />
+          <folding>
+            <element signature="e#165#177#0" expanded="true" />
+            <element signature="e#567#1720#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/QY_SYZ_Joiner_Version_4.0_GUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/QY_Joiner_Version_3.0_LoopDYC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/PCA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="32" column="86" selection-start-line="32" selection-start-column="86" selection-end-line="32" selection-end-column="86" />
+          <folding>
+            <element signature="e#28#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/dasyMap_demo_mj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#165#177#0" expanded="true" />
+            <element signature="e#567#1720#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/QY_SYZ_Joiner_Version_4.0_GUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/QY_Joiner_Version_3.0_LoopDYC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/PCA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="151" selection-end-column="0" />
+          <folding>
+            <element signature="e#28#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/dasyMap_demo_mj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#165#177#0" expanded="true" />
+            <element signature="e#567#1720#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/QY_SYZ_Joiner_Version_4.0_GUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/QY_Joiner_Version_3.0_LoopDYC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/PCA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#28#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/dasyMap_demo_mj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7215">
+          <caret line="481" column="3" selection-start-line="481" selection-start-column="0" selection-end-line="483" selection-end-column="24" />
+          <folding>
+            <element signature="e#165#177#0" expanded="true" />
+            <element signature="e#567#1720#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/QY_SYZ_Joiner_Version_4.0_GUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/dasyMap_demo_mj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#165#177#0" expanded="true" />
+            <element signature="e#567#1720#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/dasyMap_demo_mj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#165#177#0" expanded="true" />
+            <element signature="e#567#1720#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/output_Shapefiles/shapefiles/surf_fin.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="66" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/QY_SYZ_Joiner_Version_4.0_GUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/dasyMap_demo_mj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7380">
+          <caret line="492" column="47" selection-start-line="492" selection-start-column="47" selection-end-line="492" selection-end-column="47" />
+          <folding>
+            <element signature="e#165#177#0" expanded="true" />
+            <element signature="e#567#1720#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/QY_SYZ_Joiner_Version_4.0_GUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysis/shapefiles/TabulateIntersectionResult.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/output_Shapefiles/shapefiles/TabulateIntersectionResult_test.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/output_Shapefiles/shapefiles/TabulateIntersectionResult.dbf.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2924">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/output_Shapefiles/shapefiles/dasy_year_b.csv" />
+    <entry file="file://$PROJECT_DIR$/data/output_Shapefiles/shapefiles/dasy_year_c.csv" />
+    <entry file="file://$PROJECT_DIR$/data/output_Shapefiles/shapefiles/TabulateIntersectionResult.cpg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_bundle/pydev_import_hook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/output_Shapefiles/shapefiles/surf_fin.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="66" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/percentages" />
+    <entry file="file://$PROJECT_DIR$/code/QY_Joiner_Version_3.0_LoopDYC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/PCA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2025">
+          <caret line="135" column="13" selection-start-line="135" selection-start-column="13" selection-end-line="135" selection-end-column="13" />
+          <folding>
+            <element signature="e#28#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/QY_SYZ_Joiner_Version_4.0_GUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-210">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/dasyMap_demo_mj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2258">
+          <caret line="112" column="14" selection-start-line="112" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+          <folding>
+            <element signature="e#165#177#0" expanded="true" />
+            <element signature="e#567#1720#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19546027" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -11,12 +11,17 @@ from matplotlib import pyplot as plt
 
 # In[ ]:
 
+
+
+while continue == True:
 #Get directory of the table
 print "Let's start by locating the orignial table data, the data format should be csv"
 print "\nPlease provide the directory of your data"
-direc = raw_input(">>>>>>")
+#direc = raw_input(">>>>>>")
+direc = "/Users/maxgrossman/github/maxgrossman/Menhood/data/pca_results/DEC_00"
 print "\nPlease provide the full name of your data"
-name = raw_input(">>>>>>")
+#name = raw_input(">>>>>>")
+name = "DEC_00_dasy_v1.csv"
 datapath = direc + "/" + name
 
 
@@ -58,7 +63,7 @@ for names in headerListS:
     i = i + 1
 nameList = []
 del nameList[:]
-print "Now let's decide which columns will be used in PCA, in other words," 
+print "Now let's decide which columns will be used in PCA, in other words,"
 print "which columns of data do you want to combined together and extract the essential information as well as reduce the dimensionalities\n"
 print headerDic
 print "\nplease enter all the desire index number corresponding to the column names"
@@ -76,7 +81,7 @@ while True:
     except ValueError:
         print "Please only enter integers or 'finish', let's try again, from the beginning"
         del normalField[:]
-print "OK, this is the columns you selected:" 
+print "OK, this is the columns you selected:"
 print nameList
 print "If you selected wrong columns, please run this script from the beginning"
 #Standardize the data
@@ -144,8 +149,6 @@ print "Saved it successfully"
 
 
 # In[ ]:
-
-
 
 
 # In[ ]:

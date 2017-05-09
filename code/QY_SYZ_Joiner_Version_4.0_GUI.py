@@ -4,7 +4,7 @@ This scritp was created for joining multiple variables to one shp
 @author: Shiyan, Qi
 """
 import pandas as pd
-#import arcpy
+import arcpy
 #arcpy.env.overwriteOutput = True
 import os
 import csv

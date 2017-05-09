@@ -1,0 +1,65 @@
+ACS_DEC_CensusJoiner instructions
+----------------------------------------------------------------------------------
+These are step by step instruction to use the code used for the menhood project.
+This is assuming the user runs the file at all at once. Before you start the file, 
+it would be a good idea to locate the following file paths and files.
+
+* R:\Cowan Research\Menhood_Census\MaxWork\ACS_DEC_CSV\Census_CSV_Shape_Joiner
+** The py sheet to run and create shapefiles
+
+* R:\Cowan Research\Menhood_Census\MaxWork\ACS_DEC_CSV
+** this file path includes all the csv files used for the project
+
+* R:\Cowan Research\Menhood_Census\MaxWork\ACS_DEC_CSV\CensusShapeFiles
+** Folder that has the shapefile used to make a layer that we then save with joined
+** variables
+
+* R:\Cowan Research\Menhood_Census\MaxWork\MenhoodVariablesList_v3.xlsx
+** File that includes all variable Id and corresponding GeoId.
+** They are organized in the same way that the code asks for 'data category'
+--------------------------------------------------------------------------------
+
+Step 1. The first prompt is to provide file path that includes census CSV files. 
+		This is the very first file path at the top of these instructions.
+		
+Step 2. Select the variable type of interest by typing number corresponding to data
+		category. eg. Type 1 for Demographics
+		
+	Step 2b. Describe whether you want ACS or DEC variables
+	
+	Step 2c. Describe if for which year you want variables from.
+	
+Step 3. Type the Geo.id of interest. Variables useful for the study can be found
+		in the 'MenhoodVariablesList_v3.xlsx' excel sheet
+		
+Step 4. Provide the name of the new shapefile you want to create. 
+		CAUTION -- do not add an .shp, just the name of the name you want to give the file
+
+Step 5. Provide the full file path, including the shapefile (with .shp) that you 
+		want to use to make a new shapefile with.
+
+Step 6. Provide the file path where you want to save your new shapefile
+
+*** Small additional steps.
+
+Step 7. At present the code has trouble writing out to the research drive.
+		To remedy this, the manually coding the final line (below), and writing the 
+		file out to a user's desktop seems to work.
+		
+		arcpy.CopyFeatures_management(CensusLyr,PathToSaveNewShapefileTo)
+		
+		** Use the CensusLyr Variable name, which has already been saved in the kernel
+		at this point, and then write the string to the new filepath to save the shapfile
+		to.
+
+
+Step 8. For reasons I am still trying to figure out, the new feature layer's variables
+		are being saved to the shapefile used to create a new shapefile with. So to not
+		create outputs with additional variables not desired after each iteration, it may
+		be of interest to use the delete fields function over the original shapefile and 
+		get rid of those fields that were selected.
+		
+	
+
+		
+		
